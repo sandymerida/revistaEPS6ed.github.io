@@ -1,0 +1,389 @@
+<!DOCTYPE html>
+<html lang="es" xml:lang="es">
+<head>
+
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <title>10 Desarrollo de un sistema de inicio de sesión único (SSO) para el Instituto Nacional de Ciencias Forenses de Guatemala | Revista digital de la unidad de prácticas de ingeniería y EPS</title>
+  <meta name="description" content="Edición de Revista Digital en Formatos: GitBook, EPUB, PDF" />
+  <meta name="generator" content="bookdown 0.32 and GitBook 2.6.7" />
+
+  <meta property="og:title" content="10 Desarrollo de un sistema de inicio de sesión único (SSO) para el Instituto Nacional de Ciencias Forenses de Guatemala | Revista digital de la unidad de prácticas de ingeniería y EPS" />
+  <meta property="og:type" content="book" />
+  <meta property="og:image" content="/images/cover.jpg" />
+  <meta property="og:description" content="Edición de Revista Digital en Formatos: GitBook, EPUB, PDF" />
+  
+
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:title" content="10 Desarrollo de un sistema de inicio de sesión único (SSO) para el Instituto Nacional de Ciencias Forenses de Guatemala | Revista digital de la unidad de prácticas de ingeniería y EPS" />
+  
+  <meta name="twitter:description" content="Edición de Revista Digital en Formatos: GitBook, EPUB, PDF" />
+  <meta name="twitter:image" content="/images/cover.jpg" />
+
+<meta name="author" content="Unidad de Ejercicio Profesional Supervisado" />
+
+
+<meta name="date" content="2023-08-05" />
+
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+  
+  
+<link rel="prev" href="09_pareja48.html"/>
+<link rel="next" href="11_pareja50.html"/>
+<script src="libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/fuse.js@6.4.6/dist/fuse.min.js"></script>
+<link href="libs/gitbook-2.6.7/css/style.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-table.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-bookdown.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-highlight.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-search.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-fontsettings.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-clipboard.css" rel="stylesheet" />
+
+
+
+
+
+
+
+
+<link href="libs/anchor-sections-1.1.0/anchor-sections.css" rel="stylesheet" />
+<link href="libs/anchor-sections-1.1.0/anchor-sections-hash.css" rel="stylesheet" />
+<script src="libs/anchor-sections-1.1.0/anchor-sections.js"></script>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-Z7MCR8SNEM"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+ 
+
+  gtag('config', 'G-Z7MCR8SNEM');
+</script>
+
+
+
+
+<link rel="stylesheet" href="css/stylePre.css" type="text/css" />
+<link rel="stylesheet" href="css/toc.css" type="text/css" />
+<link rel="stylesheet" href="css/style-images.css" type="text/css" />
+</head>
+
+<body>
+
+
+
+  <div class="book without-animation with-summary font-size-2 font-family-1" data-basepath=".">
+
+    <div class="book-summary">
+      <nav role="navigation">
+
+<ul class="summary">
+  <li><a href="./">
+    <center><img src="images/logorevista.png" alt="Revista Digital" width="100%" height="75%"
+        style="margin: 0 0 0 0"></center>
+  </a></li>
+<li class="chapter" data-level="" data-path="000_editorial.html"><a href="000_editorial.html"><i class="fa fa-check"></i>Editorial</a></li>
+<li class="chapter" data-level="" data-path="000_editorial.html"><a href="000_editorial.html#nomina"><i class="fa fa-check"></i>Nómina de Junta Directiva</a></li>
+<li class="chapter" data-level="" data-path="000_editorial.html"><a href="000_editorial.html#directorio"><i class="fa fa-check"></i>Directorio</a><ul>
+<li class="chapter" data-level="" data-path="000_editorial.html"><a href="000_editorial.html#director-de-la-revista"><i class="fa fa-check"></i>Director de la revista</a></li>
+<li class="chapter" data-level="" data-path="000_editorial.html"><a href="000_editorial.html#editor-en-jefe"><i class="fa fa-check"></i>Editor en jefe</a></li>
+<li class="chapter" data-level="" data-path="000_editorial.html"><a href="000_editorial.html#coeditores"><i class="fa fa-check"></i>Coeditores</a></li>
+<li class="chapter" data-level="" data-path="000_editorial.html"><a href="000_editorial.html#consejo-editorial"><i class="fa fa-check"></i>Consejo Editorial</a></li>
+</ul></li>
+<li class="chapter" data-level="" data-path="000_editorial.html"><a href="000_editorial.html#comite"><i class="fa fa-check"></i>Comité editorial</a></li>
+<li class="chapter" data-level="1" data-path="01_pareja02.html"><a href="01_pareja02.html"><i class="fa fa-check"></i><b>1</b> La educación virtual, antes, durante y postpandemia</a><ul>
+<li class="chapter" data-level="1.1" data-path="01_pareja02.html"><a href="01_pareja02.html#resumen"><i class="fa fa-check"></i><b>1.1</b> Resumen</a></li>
+<li class="chapter" data-level="1.2" data-path="01_pareja02.html"><a href="01_pareja02.html#abstract"><i class="fa fa-check"></i><b>1.2</b> Abstract</a></li>
+<li class="chapter" data-level="1.3" data-path="01_pareja02.html"><a href="01_pareja02.html#palabras-clave"><i class="fa fa-check"></i><b>1.3</b> Palabras clave:</a></li>
+<li class="chapter" data-level="1.4" data-path="01_pareja02.html"><a href="01_pareja02.html#introducción"><i class="fa fa-check"></i><b>1.4</b> Introducción</a></li>
+<li class="chapter" data-level="1.5" data-path="01_pareja02.html"><a href="01_pareja02.html#artículo"><i class="fa fa-check"></i><b>1.5</b> Artículo</a></li>
+<li class="chapter" data-level="1.6" data-path="01_pareja02.html"><a href="01_pareja02.html#conclusiones"><i class="fa fa-check"></i><b>1.6</b> Conclusiones</a></li>
+<li class="chapter" data-level="1.7" data-path="01_pareja02.html"><a href="01_pareja02.html#discusión-de-resultados"><i class="fa fa-check"></i><b>1.7</b> Discusión de resultados</a></li>
+<li class="chapter" data-level="1.8" data-path="01_pareja02.html"><a href="01_pareja02.html#referencias"><i class="fa fa-check"></i><b>1.8</b> Referencias</a></li>
+</ul></li>
+<li class="chapter" data-level="2" data-path="02_pareja22.html"><a href="02_pareja22.html"><i class="fa fa-check"></i><b>2</b> Desarrollo de un emprendimiento aplicado en la ingeniería civil en Guatemala</a><ul>
+<li class="chapter" data-level="2.1" data-path="02_pareja22.html"><a href="02_pareja22.html#resumen-1"><i class="fa fa-check"></i><b>2.1</b> Resumen</a></li>
+<li class="chapter" data-level="2.2" data-path="02_pareja22.html"><a href="02_pareja22.html#palabras-clave-1"><i class="fa fa-check"></i><b>2.2</b> Palabras clave:</a></li>
+<li class="chapter" data-level="2.3" data-path="02_pareja22.html"><a href="02_pareja22.html#introducción-1"><i class="fa fa-check"></i><b>2.3</b> Introducción</a></li>
+<li class="chapter" data-level="2.4" data-path="02_pareja22.html"><a href="02_pareja22.html#artículo-1"><i class="fa fa-check"></i><b>2.4</b> Artículo</a></li>
+<li class="chapter" data-level="2.5" data-path="02_pareja22.html"><a href="02_pareja22.html#conclusiones-1"><i class="fa fa-check"></i><b>2.5</b> Conclusiones</a></li>
+<li class="chapter" data-level="2.6" data-path="02_pareja22.html"><a href="02_pareja22.html#referencias-1"><i class="fa fa-check"></i><b>2.6</b> Referencias</a></li>
+</ul></li>
+<li class="chapter" data-level="3" data-path="03_pareja23.html"><a href="03_pareja23.html"><i class="fa fa-check"></i><b>3</b> De la Educación Tradicional hacia la Educación Virtual</a><ul>
+<li class="chapter" data-level="3.1" data-path="03_pareja23.html"><a href="03_pareja23.html#resumen-2"><i class="fa fa-check"></i><b>3.1</b> Resumen</a></li>
+<li class="chapter" data-level="3.2" data-path="03_pareja23.html"><a href="03_pareja23.html#abstract-1"><i class="fa fa-check"></i><b>3.2</b> Abstract</a></li>
+<li class="chapter" data-level="3.3" data-path="03_pareja23.html"><a href="03_pareja23.html#palabras-clave-2"><i class="fa fa-check"></i><b>3.3</b> Palabras Clave:</a></li>
+<li class="chapter" data-level="3.4" data-path="03_pareja23.html"><a href="03_pareja23.html#introducción-2"><i class="fa fa-check"></i><b>3.4</b> Introducción</a></li>
+<li class="chapter" data-level="3.5" data-path="03_pareja23.html"><a href="03_pareja23.html#artículo-2"><i class="fa fa-check"></i><b>3.5</b> Artículo</a></li>
+<li class="chapter" data-level="3.6" data-path="03_pareja23.html"><a href="03_pareja23.html#conlusiones"><i class="fa fa-check"></i><b>3.6</b> Conlusiones</a></li>
+<li class="chapter" data-level="3.7" data-path="03_pareja23.html"><a href="03_pareja23.html#referencia"><i class="fa fa-check"></i><b>3.7</b> Referencia</a></li>
+</ul></li>
+<li class="chapter" data-level="4" data-path="04_pareja43.html"><a href="04_pareja43.html"><i class="fa fa-check"></i><b>4</b> Normalización para la producción, distribución, transporte, manejo, y uso de los gases medicinales en Guatemala.</a><ul>
+<li class="chapter" data-level="4.1" data-path="04_pareja43.html"><a href="04_pareja43.html#resumen-3"><i class="fa fa-check"></i><b>4.1</b> Resumen</a></li>
+<li class="chapter" data-level="4.2" data-path="04_pareja43.html"><a href="04_pareja43.html#abstract-2"><i class="fa fa-check"></i><b>4.2</b> Abstract</a></li>
+<li class="chapter" data-level="4.3" data-path="04_pareja43.html"><a href="04_pareja43.html#palabras-clave-3"><i class="fa fa-check"></i><b>4.3</b> Palabras clave:</a></li>
+<li class="chapter" data-level="4.4" data-path="04_pareja43.html"><a href="04_pareja43.html#introducción-3"><i class="fa fa-check"></i><b>4.4</b> Introducción</a></li>
+<li class="chapter" data-level="4.5" data-path="04_pareja43.html"><a href="04_pareja43.html#artículo-3"><i class="fa fa-check"></i><b>4.5</b> Artículo</a></li>
+<li class="chapter" data-level="4.6" data-path="04_pareja43.html"><a href="04_pareja43.html#conclusiones-2"><i class="fa fa-check"></i><b>4.6</b> Conclusiones</a></li>
+<li class="chapter" data-level="4.7" data-path="04_pareja43.html"><a href="04_pareja43.html#referencias-2"><i class="fa fa-check"></i><b>4.7</b> Referencias</a></li>
+</ul></li>
+<li class="chapter" data-level="5" data-path="05_pareja44.html"><a href="05_pareja44.html"><i class="fa fa-check"></i><b>5</b> Inteligencia de decisiones</a><ul>
+<li class="chapter" data-level="5.1" data-path="05_pareja44.html"><a href="05_pareja44.html#resumen-4"><i class="fa fa-check"></i><b>5.1</b> Resumen</a></li>
+<li class="chapter" data-level="5.2" data-path="05_pareja44.html"><a href="05_pareja44.html#abstract-3"><i class="fa fa-check"></i><b>5.2</b> Abstract</a></li>
+<li class="chapter" data-level="5.3" data-path="05_pareja44.html"><a href="05_pareja44.html#palabras-clave-4"><i class="fa fa-check"></i><b>5.3</b> Palabras clave:</a></li>
+<li class="chapter" data-level="5.4" data-path="05_pareja44.html"><a href="05_pareja44.html#introducción-4"><i class="fa fa-check"></i><b>5.4</b> Introducción</a></li>
+<li class="chapter" data-level="5.5" data-path="05_pareja44.html"><a href="05_pareja44.html#artículo-4"><i class="fa fa-check"></i><b>5.5</b> Artículo</a></li>
+<li class="chapter" data-level="5.6" data-path="05_pareja44.html"><a href="05_pareja44.html#conclusiones-3"><i class="fa fa-check"></i><b>5.6</b> Conclusiones</a></li>
+<li class="chapter" data-level="5.7" data-path="05_pareja44.html"><a href="05_pareja44.html#referencias-3"><i class="fa fa-check"></i><b>5.7</b> Referencias</a></li>
+</ul></li>
+<li class="chapter" data-level="6" data-path="06_pareja09.html"><a href="06_pareja09.html"><i class="fa fa-check"></i><b>6</b> Inteligencia artificial</a><ul>
+<li class="chapter" data-level="6.1" data-path="06_pareja09.html"><a href="06_pareja09.html#resumen-5"><i class="fa fa-check"></i><b>6.1</b> Resumen</a></li>
+<li class="chapter" data-level="6.2" data-path="06_pareja09.html"><a href="06_pareja09.html#abstract-4"><i class="fa fa-check"></i><b>6.2</b> Abstract</a></li>
+<li class="chapter" data-level="6.3" data-path="06_pareja09.html"><a href="06_pareja09.html#palabras-clave-5"><i class="fa fa-check"></i><b>6.3</b> Palabras clave:</a></li>
+<li class="chapter" data-level="6.4" data-path="06_pareja09.html"><a href="06_pareja09.html#introducción-5"><i class="fa fa-check"></i><b>6.4</b> Introducción</a></li>
+<li class="chapter" data-level="6.5" data-path="06_pareja09.html"><a href="06_pareja09.html#artículo-5"><i class="fa fa-check"></i><b>6.5</b> Artículo</a></li>
+<li class="chapter" data-level="6.6" data-path="06_pareja09.html"><a href="06_pareja09.html#conclusiones-4"><i class="fa fa-check"></i><b>6.6</b> Conclusiones</a></li>
+<li class="chapter" data-level="6.7" data-path="06_pareja09.html"><a href="06_pareja09.html#referencias-4"><i class="fa fa-check"></i><b>6.7</b> Referencias</a></li>
+</ul></li>
+<li class="chapter" data-level="7" data-path="07_pareja10.html"><a href="07_pareja10.html"><i class="fa fa-check"></i><b>7</b> Sistema Inmunitario Digital (DIS)</a><ul>
+<li class="chapter" data-level="7.1" data-path="07_pareja10.html"><a href="07_pareja10.html#resumen-6"><i class="fa fa-check"></i><b>7.1</b> Resumen</a></li>
+<li class="chapter" data-level="7.2" data-path="07_pareja10.html"><a href="07_pareja10.html#abstract-5"><i class="fa fa-check"></i><b>7.2</b> Abstract</a></li>
+<li class="chapter" data-level="7.3" data-path="07_pareja10.html"><a href="07_pareja10.html#palabras-clave-6"><i class="fa fa-check"></i><b>7.3</b> Palabras clave:</a></li>
+<li class="chapter" data-level="7.4" data-path="07_pareja10.html"><a href="07_pareja10.html#introducción-6"><i class="fa fa-check"></i><b>7.4</b> Introducción</a></li>
+<li class="chapter" data-level="7.5" data-path="07_pareja10.html"><a href="07_pareja10.html#conclusiones-5"><i class="fa fa-check"></i><b>7.5</b> Conclusiones</a></li>
+<li class="chapter" data-level="7.6" data-path="07_pareja10.html"><a href="07_pareja10.html#referencias-5"><i class="fa fa-check"></i><b>7.6</b> Referencias</a></li>
+</ul></li>
+<li class="chapter" data-level="8" data-path="08_pareja11.html"><a href="08_pareja11.html"><i class="fa fa-check"></i><b>8</b> Importancia del tratamiento del agua, en la industria</a><ul>
+<li class="chapter" data-level="8.1" data-path="08_pareja11.html"><a href="08_pareja11.html#resumen-7"><i class="fa fa-check"></i><b>8.1</b> Resumen</a></li>
+<li class="chapter" data-level="8.2" data-path="08_pareja11.html"><a href="08_pareja11.html#palabras-claves"><i class="fa fa-check"></i><b>8.2</b> Palabras claves:</a></li>
+<li class="chapter" data-level="8.3" data-path="08_pareja11.html"><a href="08_pareja11.html#introducción-7"><i class="fa fa-check"></i><b>8.3</b> Introducción</a></li>
+<li class="chapter" data-level="8.4" data-path="08_pareja11.html"><a href="08_pareja11.html#artículo-6"><i class="fa fa-check"></i><b>8.4</b> Artículo</a></li>
+<li class="chapter" data-level="8.5" data-path="08_pareja11.html"><a href="08_pareja11.html#recomendaciones"><i class="fa fa-check"></i><b>8.5</b> Recomendaciones</a></li>
+<li class="chapter" data-level="8.6" data-path="08_pareja11.html"><a href="08_pareja11.html#conclusiones-6"><i class="fa fa-check"></i><b>8.6</b> Conclusiones</a></li>
+<li class="chapter" data-level="8.7" data-path="08_pareja11.html"><a href="08_pareja11.html#referencias-6"><i class="fa fa-check"></i><b>8.7</b> Referencias</a></li>
+</ul></li>
+<li class="chapter" data-level="9" data-path="09_pareja48.html"><a href="09_pareja48.html"><i class="fa fa-check"></i><b>9</b> Opciones de la Práctica Final que prefieren los estudiantes de la Facultad de Ingeniería</a><ul>
+<li class="chapter" data-level="9.1" data-path="09_pareja48.html"><a href="09_pareja48.html#resumen-8"><i class="fa fa-check"></i><b>9.1</b> Resumen</a></li>
+<li class="chapter" data-level="9.2" data-path="09_pareja48.html"><a href="09_pareja48.html#abstract-6"><i class="fa fa-check"></i><b>9.2</b> Abstract</a></li>
+<li class="chapter" data-level="9.3" data-path="09_pareja48.html"><a href="09_pareja48.html#introducción-8"><i class="fa fa-check"></i><b>9.3</b> Introducción</a></li>
+<li class="chapter" data-level="9.4" data-path="09_pareja48.html"><a href="09_pareja48.html#artículo-7"><i class="fa fa-check"></i><b>9.4</b> Artículo</a></li>
+<li class="chapter" data-level="9.5" data-path="09_pareja48.html"><a href="09_pareja48.html#conclusiones-7"><i class="fa fa-check"></i><b>9.5</b> Conclusiones</a></li>
+<li class="chapter" data-level="9.6" data-path="09_pareja48.html"><a href="09_pareja48.html#referencias-7"><i class="fa fa-check"></i><b>9.6</b> Referencias</a></li>
+</ul></li>
+<li class="chapter" data-level="10" data-path="10_pareja49.html"><a href="10_pareja49.html"><i class="fa fa-check"></i><b>10</b> Desarrollo de un sistema de inicio de sesión único (SSO) para el Instituto Nacional de Ciencias Forenses de Guatemala</a><ul>
+<li class="chapter" data-level="10.1" data-path="10_pareja49.html"><a href="10_pareja49.html#resumen-9"><i class="fa fa-check"></i><b>10.1</b> Resumen</a></li>
+<li class="chapter" data-level="10.2" data-path="10_pareja49.html"><a href="10_pareja49.html#abstract-7"><i class="fa fa-check"></i><b>10.2</b> Abstract</a></li>
+<li class="chapter" data-level="10.3" data-path="10_pareja49.html"><a href="10_pareja49.html#palabras-clave-7"><i class="fa fa-check"></i><b>10.3</b> Palabras clave:</a></li>
+<li class="chapter" data-level="10.4" data-path="10_pareja49.html"><a href="10_pareja49.html#introducción-9"><i class="fa fa-check"></i><b>10.4</b> Introducción</a></li>
+<li class="chapter" data-level="10.5" data-path="10_pareja49.html"><a href="10_pareja49.html#artículo-8"><i class="fa fa-check"></i><b>10.5</b> Artículo</a></li>
+<li class="chapter" data-level="10.6" data-path="10_pareja49.html"><a href="10_pareja49.html#conclusiones-8"><i class="fa fa-check"></i><b>10.6</b> Conclusiones</a></li>
+<li class="chapter" data-level="10.7" data-path="10_pareja49.html"><a href="10_pareja49.html#referencias-8"><i class="fa fa-check"></i><b>10.7</b> Referencias</a></li>
+</ul></li>
+<li class="chapter" data-level="11" data-path="11_pareja50.html"><a href="11_pareja50.html"><i class="fa fa-check"></i><b>11</b> Diálogo</a></li>
+<li class="chapter" data-level="12" data-path="12_pareja51.html"><a href="12_pareja51.html"><i class="fa fa-check"></i><b>12</b> Canto a Tecpán Guatemala</a></li>
+<li class="divider"></li>
+<li><a href="https://portal.ingenieria.usac.edu.gt" target="blank">Facultad de Ingeniería - USAC</a></li>
+
+</ul>
+
+      </nav>
+    </div>
+
+    <div class="book-body">
+      <div class="body-inner">
+        <div class="book-header" role="navigation">
+          <h1>
+            <i class="fa fa-circle-o-notch fa-spin"></i><a href="./">Revista digital de la unidad de prácticas de ingeniería y EPS</a>
+          </h1>
+        </div>
+
+        <div class="page-wrapper" tabindex="-1" role="main">
+          <div class="page-inner">
+
+            <section class="normal" id="section-">
+<div id="pareja49" class="section level1 hasAnchor">
+<h1><span class="header-section-number">10</span> Desarrollo de un sistema de inicio de sesión único (SSO) para el Instituto Nacional de Ciencias Forenses de Guatemala<a href="10_pareja49.html#pareja49" class="anchor-section" aria-label="Anchor link to header"></a></h1>
+<p><img src="autores/10.png" width="100%" style="display: block; margin: auto;" /></p>
+
+<div id="resumen-9" class="section level2 hasAnchor">
+<h2><span class="header-section-number">10.1</span> Resumen<a href="10_pareja49.html#resumen-9" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<p>Una herramienta de software busca dar trazabilidad y optimizar la ejecución de tareas diarias enfocados a un grupo objetivo. Con la extensa cantidad de actividades en las organizaciones, también se da el desarrollo de diferentes aplicaciones de software, y en consecuencia, los diferentes perfiles de usuario para garantizar qué tareas puede desarrollar bajo el mismo software. La administración de usuarios tiende a convertirse compleja cuando cada aplicación singulariza el esquema de seguridad para los diferentes usuarios y perfiles de usuario (rol).
+Un sistema de inicio de sesión único busca facilitar la administración y perfiles de usuario bajo la centralización de las mismas; por tanto, las aplicaciones de software harán uso del sistema de inicio de sesión único para brindar el acceso a las mismas, eliminando con ello la redundancia de los diferentes esquemas de seguridad y mejorando la administración de accesos a sus diferentes aplicaciones.</p>
+</div>
+<div id="abstract-7" class="section level2 hasAnchor">
+<h2><span class="header-section-number">10.2</span> Abstract<a href="10_pareja49.html#abstract-7" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<p>A software tool seeks to provide traceability and optimize the execution of daily tasks focused on a target group. With the diversity of activities in organizations, there is also the development of different software applications and, consequently, different user profiles to guarantee which tasks can be developed under the software. User management tends to become complex when each application singularizes the security scheme for different users and user profile (rol).
+A single sign-on system (SSO) seeks to facilitate the administration and user profiles by centralizing them, therefor the software applications will use the single sign-on system to provide access, eliminating redundancy of the different security schemes and improving the administration of access to the different software applications.</p>
+</div>
+<div id="palabras-clave-7" class="section level2 hasAnchor">
+<h2><span class="header-section-number">10.3</span> Palabras clave:<a href="10_pareja49.html#palabras-clave-7" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<p>Single Sign Con, SSO, gestión, credenciales, administración, usuarios, identidad, Keycloak</p>
+</div>
+<div id="introducción-9" class="section level2 hasAnchor">
+<h2><span class="header-section-number">10.4</span> Introducción<a href="10_pareja49.html#introducción-9" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<p>El Instituto Nacional de Ciencias Forenses de Guatemala surge debido a la necesidad de contar con un ente auxiliar al sector justicia, capaz de unificar los servicios forenses periciales y garantizar la imparcialidad y confiabilidad de la investigación técnico-científica. Desde su creación y perspectiva tecnológica, se han realizado esfuerzos para contribuir con el propósito institucional, donde se incluye equipar con equipo de cómputo a las diferentes dependencias del INACIF, crear una infraestructura de red institucional y automatizar diferentes procesos mediante la implementación de una serie de herramientas de software que son de propósito específico. En esta última línea de acción, la Sección de Desarrollo de Software es la dependencia encargada de crear, mantener y adquirir las herramientas de software necesarias para que el Instituto pueda agilizar sus procesos en la elaboración de tareas diarias.</p>
+<p>A partir de su creación en el 2007, se inició con el desarrollo de las diferentes aplicaciones de software con las correspondientes medidas de seguridad. para que solamente usuarios registrados tuvieran acceso a las diferentes funcionalidades de acuerdo con un perfil. En aquel momento no se consideró centralizar las credenciales de acceso de los diferentes usuarios; esto conllevó a que cada aplicación tuviera un esquema de seguridad propio, derivado de los problemas administrativos que representa.</p>
+<p>Fue en el año 2019 donde se comenzaron a investigar diferentes opciones para facilitar la administración de usuarios; como resultado se desarrolló un prototipo, el cual demostró que existía viabilidad para su implementación. En el 2021 se perfiló el desarrollo del proyecto denominado Sistema de inicio de sesión único (SSO) para el Instituto Nacional de Ciencias Forenses de Guatemala, el cual fue desarrollado por estudiantes de pregrado en atención a su Ejercicio Profesional Supervisado (EPS) de graduación de la Escuela de Ciencias y Sistemas, Facultad de Ingeniería, Universidad de San Carlos de Guatemala. Bajo el desarrollo de este proyecto se buscó configurar una solución tipo SSO (Single Sign On) para las aplicaciones de los departamentos técnico científico y administrativo financiero del INACIF. Dada la envergadura del proyecto y la estructura organizacional interna, el proyecto fue desarrollado por los estudiantes de fin de carrera Andrea Nicté Vicente Campos y Javier Alexander Chacón Samol, supervisados y asesorados de manera interna por el Ingeniero Irvin Roberto García Flores y mi persona.</p>
+</div>
+<div id="artículo-8" class="section level2 hasAnchor">
+<h2><span class="header-section-number">10.5</span> Artículo<a href="10_pareja49.html#artículo-8" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<p>Todas las aplicaciones de software buscan un fin común, optimizar la ejecución de tareas diarias enfocadas hacia un grupo objetivo. De acuerdo con Douglas da Silva, el uso de las herramientas de software en la organización seleccionadas de manera correcta pueden mejorar la gestión del tiempo en un 38 %. F Fácilmente se pueden encontrar diversas aplicaciones de software en el mercado para los diferentes dispositivos tecnológicos que se utilizan de manera cotidiana (computadoras de escritorio, teléfonos inteligentes, entre otros). El Instituto Nacional de Ciencias Forenses de Guatemala -INACIF- no es la excepción; para mejorar la productividad de sus colaboradores por medio de la sección de desarrollo de software de la Unidad de Informática se ha buscado desarrollar la plataforma tecnológica que permita agilizar procesos con el objetivo común de dar trazabilidad a las tareas que se realizan en las diferentes dependencias del Instituto.</p>
+<p>El Instituto Nacional de Ciencias Forenses de Guatemala -INACIF- fue creado con el Decreto 32-2006 del Congreso de la República de Guatemala publicado en el Diario de Centroamérica el dieciocho de septiembre de dos mil seis, como resultado de la necesidad de contar con medios de prueba válidos y fehacientes en los procesos judiciales. Cuenta con la cooperación de expertos y peritos en ciencias forenses que aplican los avances tecnológicos, metodológicos y científicos de la medicina legal y criminalística, como elementos esenciales en la investigación criminal y de cualquier otra naturaleza. INACIF inicia sus funciones el 19 de julio de 2007; “nace como institución auxiliar de la administración de justicia, con autonomía funcional, personalidad jurídica, patrimonio propio y con toda la responsabilidad en materia de peritajes técnico-científicos”. En su estructura organizacional está dividida en dos departamentos: el Departamento Técnico Científico (DTC) el cual ejecuta las tareas sustantivas del Instituto y el Departamento Administrativo Financiero (DAF) que ejecuta las tareas de apoyo hacia las diferentes dependencias del DTC.</p>
+<p>Desde su creación, INACIF ha utilizado las diferentes aplicaciones de software en los correspondientes esquemas de trabajo para manejar la seguridad de estas; con el fin de que, exclusivamente los usuarios registrados tuvieran acceso a las diferentes funcionalidades, de acuerdo con un rol o perfil de usuario. De manera sencilla un rol de usuario corresponde al conjunto de permisos o privilegios que puede tener uno o varios usuarios. Nethunt.com lo define como: “una plantilla de permisos que tiene un usuario”. En este punto, cada aplicación desarrollada a lo interno no consideró unificar un único criterio para la administración de usuarios, lo cual derivó en varios problemas que a continuación se citan:</p>
+<ul>
+<li><p>Un usuario podría ser nombrado de manera particular para cada aplicación, por ejemplo, el usuario en la aplicación “A” puede ser nombrado como: user1 y en la aplicación “B” como user01. Al no existir un estándar y por tener una administración no centralizada (individual para cada aplicación), el creador de la cuenta de usuario difícilmente podría identificar este problema.</p></li>
+<li><p>La contraseña de un usuario muy probablemente será diferente para cada aplicación. Al igual que el problema anterior, los usuarios deberán recordar diferentes nombres de acceso y contraseñas para cada una de ellas. Esto genera un error común en varias organizaciones al tener pegados post-it en el área de su computador, exponiendo la seguridad en cuanto al uso indebido y no autorizado de aplicaciones de software por parte de terceros. De acuerdo con un estudio realizado por CyberArk de nada sirve utilizar los mejores métodos de cifrado, si al final se almacena la contraseña maestra de administrador que da acceso a todas en un Word, Excel o cualquier archivo de texto sin cifrar, e incluso lo que es peor, hay quien las deja en un post-it pegado a un monitor.</p></li>
+<li><p>Desde la perspectiva administrativa y de creación de aplicaciones de software, se debe considerar un esquema de seguridad individual para garantizar el acceso exclusivo a los diferentes recursos bajo un rol de usuario.
+Fue en el 2019 donde se inició a investigar diferentes opciones para facilitar la administración de usuarios y mitigar la brecha de seguridad que pudiera existir al exponer las credenciales de seguridad por parte de los usuarios; como resultado se desarrolló un prototipo que demostró la existencia de viabilidad para su implementación. Así es como en el 2021 se perfiló el desarrollo del proyecto denominado “Sistema de inicio de sesión único (SSO) para el Instituto Nacional de Ciencias Forenses de Guatemala”.</p></li>
+</ul>
+<p><strong><strong>Objetivos del proyecto</strong></strong></p>
+<p><strong>General</strong></p>
+<p>Desarrollar un único canal que permita validar y brindar acceso a usuarios de los diferentes sistemas de información del Instituto Nacional de Ciencias Forenses de Guatemala.</p>
+<p><strong>Específicos</strong></p>
+<ul>
+<li>Realizar una investigación documental que describa los problemas relacionados con la falta de una herramienta que permita brindar acceso a los sistemas de información del INACIF.</li>
+<li>Definir una arquitectura de software robusta y escalable, sobre la cual se dará solución a los problemas identificados.</li>
+<li>Describir el alcance de la solución, especificar los requerimientos funcionales que se van a implementar como parte del desarrollo del sistema de información.</li>
+<li>Analizar el rol de los usuarios involucrados, y relacionarlos con las funciones que deben realizar en el sistema de información.</li>
+</ul>
+<p>Dada la envergadura del proyecto y a la estructura organizacional interna, el proyecto fue desarrollado por los estudiantes de fin de carrera de la Escuela de Ciencias y Sistemas, Facultad de Ingeniería de la Universidad de San Carlos de Guatemala, Andrea Nicté Vicente Campos y Javier Alexander Chacón Samol. Como parte de los requerimientos funcionales solicitados se incluyó el modificar parte de las aplicaciones existentes hacia un modelo de Single Sign On.</p>
+<p>Un sistema de inicio de sesión único (Single Sign On) admite centralizar la administración de usuarios bajo un único modelo de registro, el cual permite añadir nombres de usuario, credenciales, roles en un conjunto de aplicaciones de software. La siguiente figura ejemplifica la estructura general de este tipo de software.</p>
+
+
+<div class="figure" style="text-align: center"><span style="display:block;" id="fig:unnamed-chunk-96"></span>
+<img src="imagenes_articulos/p49_01.png" alt="Fuente: Manageengine. Recuperado de: https://acortar.link/G58L0t. Consultado el 21 de abril de 2022."  />
+<p class="caption">
+Figura 10.1: Fuente: Manageengine. Recuperado de: <a href="https://acortar.link/G58L0t" class="uri">https://acortar.link/G58L0t</a>. Consultado el 21 de abril de 2022.
+</p>
+</div>
+
+<p>De acuerdo con Teravainen (2022), Single Sign On (SSO) es un servicio para el manejo de sesiones y autenticación de usuarios que permite, bajo una única credencial, por ejemplo: usuario y contraseña, acceder a múltiples aplicaciones; SSO puede ser utilizada por todo tipo de organizaciones (pequeñas, medianas, grandes e inclusive individuales) para la fácil administración, y con ello evitar el uso de múltiples usuarios y contraseñas para un mismo usuario.</p>
+<p><strong>Detalles generales de la implementación</strong></p>
+<p>El proyecto buscó centralizar la autenticación de las aplicaciones de software, seleccionadas bajo un único sistema de autenticación, estandarizando además la integración del servicio para la implementación de futuros proyectos a desarrollarse de manera interna. Se inició con una investigación documental respecto de soluciones SSO tomando como punto de partida el software Keycloak, el cual fue utilizado para desarrollar un primer prototipo años atrás. Se realizó la identificación y priorización de las aplicaciones web existentes que serían parte del proceso de integración. Para el proyecto se consideró integrar aplicaciones desarrolladas con tecnología Java Web y .net (Aspx). Finalmente, se identificaron y establecieron los elementos necesarios para crear una arquitectura robusta buscando escalabilidad y resiliencia. Con estos puntos alcanzados se procedió a realizar las configuraciones necesarias para integrar las aplicaciones existentes con el software SSO seleccionado. Enel siguiente cuadro se describen los elementos seleccionados para la implementación del proyecto.</p>
+
+<table>
+<colgroup>
+<col width="11%" />
+<col width="88%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th align="left">Herramienta de software</th>
+<th align="left">Breve descripción</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">Keycloak</td>
+<td align="left">Es un software de código abierto que permite el inicio de sesión único con IAM (Identity Management y Access Management) para aplicaciones y servicios modernos, bajo licencia de Apache; por lo que no requiere costos adicionales de licenciamiento. Posterior a la investigación se definió como la herramienta que se utiliza para crear la relación de confianza entre usuarios y aplicaciones de software.</td>
+</tr>
+<tr class="even">
+<td align="left">Docker</td>
+<td align="left">Se utiliza para la contenerización de aplicaciones de código abierto; permite empaquetar todo lo necesario para que una aplicación de software pueda ser desplegada. Se buscó alojar Keycloak como una aplicación contenida dentro de Docker.</td>
+</tr>
+<tr class="odd">
+<td align="left">Docker Compose</td>
+<td align="left">Componente de docker que permite definir y ejecutar aplicaciones Docker en varios contenedores. Se buscó que el software Keycloak fuera escalable y resiliente; por medio de este componente fue posible alcanzar el objetivo.</td>
+</tr>
+<tr class="even">
+<td align="left">Active Directory</td>
+<td align="left">Es un servicio de directorio de Microsoft que se utiliza para registrar los diferentes recursos de una red, incluyendo credenciales de usuario. El área de operaciones de la Unidad de Informática de INACIF cuenta con el licenciamiento necesario para administrar los usuarios de red por medio de un directorio activo; esto permitió garantizar el tener un único usuario y contraseña para acceder a la red y además a las aplicaciones de software.</td>
+</tr>
+<tr class="odd">
+<td align="left">Apache</td>
+<td align="left">Servidor de aplicaciones de código abierto, el cual es popular para el despliegue de sitios web en la www. Se utilizó para crear el directorio de aplicaciones de software.</td>
+</tr>
+</tbody>
+</table>
+<p>Tabla 1. Herramientas seleccionadas para la implementación de la solución SSO para INACIF</p>
+
+<p>Un aspecto importante es que las aplicaciones de software consideradas para el proyecto contenían una estructura de seguridad propia, por lo que fue necesario identificar un atributo en el esquema de registro de un usuario con el cual se pudiera vincular con el directorio activo; se tuvo colaboración del equipo de Operaciones de la Unidad de Informática para añadir la metadata necesaria dentro del Directorio Activo, en caso de que no se contara con estos datos.</p>
+<p>Otro punto importante para las aplicaciones involucradas en el proyecto fue que no se consideró el manejo de roles mediante Keycloak; esto porque conllevaría mayor tiempo de desarrollo para la adecuación dentro de ellas, y aunque se pudo haber realizado no hubiera dado tiempo para concluir con los dos proyectos de EPS. Para las aplicaciones que puedan desarrollarse en un futuro, se hará uso de esta consideración para mejorar la administración de roles de usuario.</p>
+<p>Como un último detalle se solicitó la creación de un directorio para acceder a las aplicaciones de software considerada, utilizando SSO. Un aspecto importante es que para el cierre de sesión se solicitó crear la funcionalidad desde este portal para que el manejo interno de sesión de las aplicaciones no afectara al cierre de sesión por medio de Keycloak. La figura siguiente muestra el directorio de aplicaciones desarrollado bajo el modelo SSO.</p>
+
+
+<div class="figure" style="text-align: center"><span style="display:block;" id="fig:unnamed-chunk-98"></span>
+<img src="imagenes_articulos/p49_02.png" alt="Fuente: Directorio de aplicaciones bajo SSO"  />
+<p class="caption">
+Figura 10.2: Fuente: Directorio de aplicaciones bajo SSO
+</p>
+</div>
+
+</div>
+<div id="conclusiones-8" class="section level2 hasAnchor">
+<h2><span class="header-section-number">10.6</span> Conclusiones<a href="10_pareja49.html#conclusiones-8" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<p>Se implementó el software Keycloak como solución de sistema único de inicio de sesión para realizar los procesos de identificación y acceso a usuarios para las aplicaciones de software desarrolladas por INACIF.</p>
+<p>La implementación desarrollada hace uso de un directorio activo para la centralización y utilización de una única credencial de acceso (usuario y contraseña); de ser positiva al momento de hacer la autenticación, también es posible trasladar metadatos registrados del usuario. Keycloak hace uso del protocolo OAuth2.0 para este propósito, proveyendo a la aplicación un token con la información correspondiente siguiendo el estándar JWT.</p>
+<p>En el presente proyecto fueron integradas cuatro aplicaciones desarrolladas internamente con tecnología Java Web y cuatro con tecnología .net (aspx); como un adicional, las aplicaciones .net cuentan con su antiguo mecanismo de inicio de sesión, en caso fuera necesario hacer uso de este.</p>
+</div>
+<div id="referencias-8" class="section level2 hasAnchor">
+<h2><span class="header-section-number">10.7</span> Referencias<a href="10_pareja49.html#referencias-8" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<ul>
+<li>[1] García, A. (2022). Guardar contraseñas en Word o en papel, un error del que pocos escapan. Recuperado de <a href="https://www.adslzone.net/2016/09/26/guardar-contrasenas-word-papel" class="uri">https://www.adslzone.net/2016/09/26/guardar-contrasenas-word-papel</a>. Último acceso: 20 de marzo de 2023.</li>
+<li>[2] NELHUNT (2022). Qué es un rol de usuario. Recuperado de <a href="https://help.nethunt.com/es" class="uri">https://help.nethunt.com/es</a> /articles/2647890-que-es-un-rol-de-usuario. Último acceso: 20 de marzo de 2023.</li>
+<li>[3] Teravainen, Taina (2022). Single Sign-on (SSO). Techtarget. Recuperado de <a href="https://www.techtarget.com/searchsecurity/definition/single-sign-on" class="uri">https://www.techtarget.com/searchsecurity/definition/single-sign-on</a>. Último acceso: 20 de marzo de 2023.</li>
+</ul>
+
+
+
+
+
+</div>
+</div>
+            </section>
+
+          </div>
+        </div>
+      </div>
+<a href="09_pareja48.html" class="navigation navigation-prev " aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
+<a href="11_pareja50.html" class="navigation navigation-next " aria-label="Next page"><i class="fa fa-angle-right"></i></a>
+    </div>
+  </div>
+<script src="libs/gitbook-2.6.7/js/app.min.js"></script>
+<script src="libs/gitbook-2.6.7/js/clipboard.min.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-search.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-sharing.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-fontsettings.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-bookdown.js"></script>
+<script src="libs/gitbook-2.6.7/js/jquery.highlight.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-clipboard.js"></script>
+<script>
+gitbook.require(["gitbook"], function(gitbook) {
+gitbook.start({
+"sharing": null,
+"fontsettings": {
+"theme": "white",
+"family": "sans",
+"size": 2
+},
+"edit": {
+"link": null,
+"text": null
+},
+"history": {
+"link": null,
+"text": null
+},
+"view": {
+"link": null,
+"text": null
+},
+"download": ["QuintaEdicion-RevistaDigital.pdf", "QuintaEdicion-RevistaDigital.epub"],
+"search": {
+"engine": "fuse",
+"options": null
+},
+"toc": {
+"collapse": "section"
+}
+});
+});
+</script>
+
+</body>
+
+</html>

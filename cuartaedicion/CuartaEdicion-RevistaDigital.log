@@ -1,0 +1,5305 @@
+This is XeTeX, Version 3.14159265-2.6-0.999992 (MiKTeX 21.1) (preloaded format=xelatex 2022.9.25)  1 NOV 2022 10:45
+entering extended mode
+**./CuartaEdicion-RevistaDigital.tex
+(CuartaEdicion-RevistaDigital.tex
+LaTeX2e <2020-10-01> patch level 4
+L3 programming layer <2021-01-09> xparse <2020-03-03>
+(C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/latex/base\book.cls
+Document Class: book 2020/04/10 v1.4m Standard LaTeX document class
+(C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/latex/base\bk12.clo
+File: bk12.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
+)
+\c@part=\count173
+\c@chapter=\count174
+\c@section=\count175
+\c@subsection=\count176
+\c@subsubsection=\count177
+\c@paragraph=\count178
+\c@subparagraph=\count179
+\c@figure=\count180
+\c@table=\count181
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/latex/lm\lmodern.sty
+Package: lmodern 2009/10/30 v1.6 Latin Modern Fonts
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/lmr/m/n on input line 22.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/lmm/m/it on input line 23.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/lmsy/m/n on input line 24.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 25.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 26.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/lmm/b/it on input line 27.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/lmsy/b/n on input line 28.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 29.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 31.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/lmss/m/n on input line 32.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/lmr/m/it on input line 33.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/lmss/bx/n on input line 36.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/lmr/bx/it on input line 37.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 38.
+)
+(C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/latex/setspace\setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+(C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks15
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)) (C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2020/09/23 v2.17i AMS math features
+\@mathmargin=\skip49
+
+For additional information on amsmath, use the `?' option.
+(C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks16
+\ex@=\dimen139
+))
+(C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen140
+)
+(C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count182
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count183
+\leftroot@=\count184
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count185
+\DOTSCASE@=\count186
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box47
+\strutbox@=\box48
+\big@size=\dimen141
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count187
+\c@MaxMatrixCols=\count188
+\dotsspace@=\muskip16
+\c@parentequation=\count189
+\dspbrk@lvl=\count190
+\tag@help=\toks17
+\row@=\count191
+\column@=\count192
+\maxfields@=\count193
+\andhelp@=\toks18
+\eqnshift@=\dimen142
+\alignsep@=\dimen143
+\tagshift@=\dimen144
+\tagwidth@=\dimen145
+\totwidth@=\dimen146
+\lineht@=\dimen147
+\@envbody=\toks19
+\multlinegap=\skip50
+\multlinetaggap=\skip51
+\mathdisplay@stack=\toks20
+LaTeX Info: Redefining \[ on input line 2923.
+LaTeX Info: Redefining \] on input line 2924.
+)
+(C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifxetex.sty
+Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
+
+(C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+))
+(C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifluatex.sty
+Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
+)
+(C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/latex/base\fixltx2e.sty
+Package: fixltx2e 2016/12/29 v2.1a fixes to LaTeX (obsolete)
+Applying: [2015/01/01] Old fixltx2e package on input line 46.
+
+
+Package fixltx2e Warning: fixltx2e is not required with releases after 2015
+(fixltx2e)                All fixes are now in the LaTeX kernel.
+(fixltx2e)                See the latexrelease package for details.
+
+Already applied: [0000/00/00] Old fixltx2e package on input line 53.
+)
+(C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/xelatex/mathspec\mathspec.sty
+Package: mathspec 2016/12/22 v0.2b LaTeX Package (Mathematics font selection fo
+r XeLaTeX)
+(C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count194
+)
+(C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/latex/fontspec\fontspec.sty
+(C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xpars
+e.sty
+(C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
+Package: expl3 2021-01-09 L3 programming layer (loader) 
+
+(C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-xet
+ex.def
+File: l3backend-xetex.def 2021-01-09 L3 backend support: XeTeX
+ ()
+\c__kernel_sys_dvipdfmx_version_int=\count195
+\g__color_stack_int=\count196
+\l__kernel_color_stack_int=\count197
+\g__graphics_track_int=\count198
+\l__pdf_internal_box=\box49
+\g__pdf_backend_object_int=\count199
+\g__pdf_backend_annotation_int=\count266
+\g__pdf_backend_link_int=\count267
+))
+Package: xparse 2020-10-27 L3 Experimental document command parser
+
+(C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xpars
+e-generic.tex))
+Package: fontspec 2020/02/21 v2.7i Font selection for XeLaTeX and LuaLaTeX
+
+(C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/latex/fontspec\fontspec-xetex
+.sty
+Package: fontspec-xetex 2020/02/21 v2.7i Font selection for XeLaTeX and LuaLaTe
+X
+\l__fontspec_script_int=\count268
+\l__fontspec_language_int=\count269
+\l__fontspec_strnum_int=\count270
+\l__fontspec_tmp_int=\count271
+\l__fontspec_tmpa_int=\count272
+\l__fontspec_tmpb_int=\count273
+\l__fontspec_tmpc_int=\count274
+\l__fontspec_em_int=\count275
+\l__fontspec_emdef_int=\count276
+\l__fontspec_strong_int=\count277
+\l__fontspec_strongdef_int=\count278
+\l__fontspec_tmpa_dim=\dimen148
+\l__fontspec_tmpb_dim=\dimen149
+\l__fontspec_tmpc_dim=\dimen150
+ (C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+Package: fontenc 2020/08/10 v2.0s Standard LaTeX package
+)
+(C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/latex/fontspec\fontspec.cfg))
+) (C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/latex/xkeyval\xkeyval.sty
+Package: xkeyval 2020/11/20 v2.8 package option processing (HA)
+
+(C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkeyval.tex
+(C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkvutils.tex
+\XKV@toks=\toks21
+\XKV@tempa@toks=\toks22
+
+(C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\keyval.tex))
+\XKV@depth=\count279
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+\c@eu@=\count280
+\c@eu@i=\count281
+\c@mkern=\count282
+)
+
+Package fontspec Info: Corbel scale = 0.9291421898514533.
+
+
+Package fontspec Info: Corbel scale = 0.9291421898514533.
+
+
+Package fontspec Info: Corbel scale = 0.9291421898514533.
+
+
+Package fontspec Info: Corbel/B scale = 0.910923764502267.
+
+
+Package fontspec Info: Corbel/B scale = 0.910923764502267.
+
+
+Package fontspec Info: Corbel/I scale = 0.9291421898514533.
+
+
+Package fontspec Info: Corbel/I scale = 0.9291421898514533.
+
+
+Package fontspec Info: Corbel/BI scale = 0.910923764502267.
+
+
+Package fontspec Info: Corbel/BI scale = 0.910923764502267.
+
+
+Package fontspec Info: Font family 'Corbel(0)' created for font 'Corbel' with
+(fontspec)             options
+(fontspec)             [Ligatures=TeX,Scale=MatchLowercase,Ligatures=TeX,Scale=
+1.0,HyphenChar=None].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->s*[1.0]"Corbel/OT:script=latn;language=dflt;mapping=t
+ex-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->s*[1.0]"Corbel/OT:script=latn;language=dflt;+smcp;map
+ping=tex-text;"
+(fontspec)             and font adjustment code:
+(fontspec)             \tex_hyphenchar:D \font =-1\scan_stop: 
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->s*[1.0]"Corbel/B/OT:script=latn;language=dflt;mapping
+=tex-text;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
+(fontspec)             <->s*[1.0]"Corbel/B/OT:script=latn;language=dflt;+smcp;m
+apping=tex-text;"
+(fontspec)             and font adjustment code:
+(fontspec)             \tex_hyphenchar:D \font =-1\scan_stop: 
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->s*[1.0]"Corbel/I/OT:script=latn;language=dflt;mapping
+=tex-text;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
+(fontspec)             <->s*[1.0]"Corbel/I/OT:script=latn;language=dflt;+smcp;m
+apping=tex-text;"
+(fontspec)             and font adjustment code:
+(fontspec)             \tex_hyphenchar:D \font =-1\scan_stop: 
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->s*[1.0]"Corbel/BI/OT:script=latn;language=dflt;mappin
+g=tex-text;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
+(fontspec)             <->s*[1.0]"Corbel/BI/OT:script=latn;language=dflt;+smcp;
+mapping=tex-text;"
+(fontspec)             and font adjustment code:
+(fontspec)             \tex_hyphenchar:D \font =-1\scan_stop: 
+
+LaTeX Font Info:    Font shape `TU/Corbel(0)/m/n' will be
+(Font)              scaled to size 12.0pt on input line 19.
+
+Package fontspec Info: Corbel scale = 0.9999972587794442.
+
+
+Package fontspec Info: Corbel scale = 0.9999972587794442.
+
+
+Package fontspec Info: Corbel scale = 0.9999972587794442.
+
+
+Package fontspec Info: Corbel/B scale = 0.9803895220869828.
+
+
+Package fontspec Info: Corbel/B scale = 0.9803895220869828.
+
+
+Package fontspec Info: Corbel/I scale = 0.9999972587794442.
+
+
+Package fontspec Info: Corbel/I scale = 0.9999972587794442.
+
+
+Package fontspec Info: Corbel/BI scale = 0.9803895220869828.
+
+
+Package fontspec Info: Corbel/BI scale = 0.9803895220869828.
+
+
+Package fontspec Info: Font family 'Corbel(1)' created for font 'Corbel' with
+(fontspec)             options
+(fontspec)             [Ligatures=TeX,Scale=MatchLowercase,Ligatures=TeX].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->s*[0.9999972587794442]"Corbel/OT:script=latn;language
+=dflt;mapping=tex-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->s*[0.9999972587794442]"Corbel/OT:script=latn;language
+=dflt;+smcp;mapping=tex-text;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->s*[0.9803895220869828]"Corbel/B/OT:script=latn;langua
+ge=dflt;mapping=tex-text;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
+(fontspec)             <->s*[0.9803895220869828]"Corbel/B/OT:script=latn;langua
+ge=dflt;+smcp;mapping=tex-text;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->s*[0.9999972587794442]"Corbel/I/OT:script=latn;langua
+ge=dflt;mapping=tex-text;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
+(fontspec)             <->s*[0.9999972587794442]"Corbel/I/OT:script=latn;langua
+ge=dflt;+smcp;mapping=tex-text;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->s*[0.9803895220869828]"Corbel/BI/OT:script=latn;langu
+age=dflt;mapping=tex-text;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
+(fontspec)             <->s*[0.9803895220869828]"Corbel/BI/OT:script=latn;langu
+age=dflt;+smcp;mapping=tex-text;"
+
+
+Package fontspec Info: Corbel scale = 0.9999972587794442.
+
+
+Package fontspec Info: Corbel scale = 0.9999972587794442.
+
+
+Package fontspec Info: Corbel scale = 0.9999972587794442.
+
+
+Package fontspec Info: Corbel/B scale = 0.9803895220869828.
+
+
+Package fontspec Info: Corbel/B scale = 0.9803895220869828.
+
+
+Package fontspec Info: Corbel/I scale = 0.9999972587794442.
+
+
+Package fontspec Info: Corbel/I scale = 0.9999972587794442.
+
+
+Package fontspec Info: Corbel/BI scale = 0.9803895220869828.
+
+
+Package fontspec Info: Corbel/BI scale = 0.9803895220869828.
+
+
+Package fontspec Info: Font family 'Corbel(2)' created for font 'Corbel' with
+(fontspec)             options
+(fontspec)             [Ligatures=TeX,Scale=MatchLowercase,WordSpace={1,0,0},Hy
+phenChar=None,PunctuationSpace=WordSpace,Mapping=tex-ansi].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->s*[0.9999972587794442]"Corbel/OT:script=latn;language
+=dflt;mapping=tex-ansi;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->s*[0.9999972587794442]"Corbel/OT:script=latn;language
+=dflt;+smcp;mapping=tex-ansi;"
+(fontspec)             and font adjustment code:
+(fontspec)             \fontdimen 2\font =1\fontdimen 2\font \fontdimen 3\font
+(fontspec)             =0\fontdimen 3\font \fontdimen 4\font =0\fontdimen
+(fontspec)             4\font \fontdimen 7\font =0\fontdimen 2\font
+(fontspec)             \tex_hyphenchar:D \font =-1\scan_stop: 
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->s*[0.9803895220869828]"Corbel/B/OT:script=latn;langua
+ge=dflt;mapping=tex-ansi;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
+(fontspec)             <->s*[0.9803895220869828]"Corbel/B/OT:script=latn;langua
+ge=dflt;+smcp;mapping=tex-ansi;"
+(fontspec)             and font adjustment code:
+(fontspec)             \fontdimen 2\font =1\fontdimen 2\font \fontdimen 3\font
+(fontspec)             =0\fontdimen 3\font \fontdimen 4\font =0\fontdimen
+(fontspec)             4\font \fontdimen 7\font =0\fontdimen 2\font
+(fontspec)             \tex_hyphenchar:D \font =-1\scan_stop: 
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->s*[0.9999972587794442]"Corbel/I/OT:script=latn;langua
+ge=dflt;mapping=tex-ansi;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
+(fontspec)             <->s*[0.9999972587794442]"Corbel/I/OT:script=latn;langua
+ge=dflt;+smcp;mapping=tex-ansi;"
+(fontspec)             and font adjustment code:
+(fontspec)             \fontdimen 2\font =1\fontdimen 2\font \fontdimen 3\font
+(fontspec)             =0\fontdimen 3\font \fontdimen 4\font =0\fontdimen
+(fontspec)             4\font \fontdimen 7\font =0\fontdimen 2\font
+(fontspec)             \tex_hyphenchar:D \font =-1\scan_stop: 
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->s*[0.9803895220869828]"Corbel/BI/OT:script=latn;langu
+age=dflt;mapping=tex-ansi;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
+(fontspec)             <->s*[0.9803895220869828]"Corbel/BI/OT:script=latn;langu
+age=dflt;+smcp;mapping=tex-ansi;"
+(fontspec)             and font adjustment code:
+(fontspec)             \fontdimen 2\font =1\fontdimen 2\font \fontdimen 3\font
+(fontspec)             =0\fontdimen 3\font \fontdimen 4\font =0\fontdimen
+(fontspec)             4\font \fontdimen 7\font =0\fontdimen 2\font
+(fontspec)             \tex_hyphenchar:D \font =-1\scan_stop: 
+
+
+(C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.c
+fg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: xetex.def on input line 105.
+
+(C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\xetex.def
+File: xetex.def 2020/08/26 v5.0i Graphics/color driver for xetex
+))
+\Gin@req@height=\dimen151
+\Gin@req@width=\dimen152
+)
+(C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/latex/booktabs\booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen153
+\lightrulewidth=\dimen154
+\cmidrulewidth=\dimen155
+\belowrulesep=\dimen156
+\belowbottomsep=\dimen157
+\aboverulesep=\dimen158
+\abovetopsep=\dimen159
+\cmidrulesep=\dimen160
+\cmidrulekern=\dimen161
+\defaultaddspace=\dimen162
+\@cmidla=\count283
+\@cmidlb=\count284
+\@aboverulesep=\dimen163
+\@belowrulesep=\dimen164
+\@thisruleclass=\count285
+\@lastruleclass=\count286
+\@thisrulewidth=\dimen165
+)
+(C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/latex/latex-tools\multicol.st
+y
+Package: multicol 2019/12/09 v1.8y multicolumn formatting (FMi)
+\c@tracingmulticols=\count287
+\mult@box=\box50
+\multicol@leftmargin=\dimen166
+\c@unbalance=\count288
+\c@collectmore=\count289
+\doublecol@number=\count290
+\multicoltolerance=\count291
+\multicolpretolerance=\count292
+\full@width=\dimen167
+\page@free=\dimen168
+\premulticols=\dimen169
+\postmulticols=\dimen170
+\multicolsep=\skip52
+\multicolbaselineskip=\skip53
+\partial@page=\box51
+\last@line=\box52
+\maxbalancingoverflow=\dimen171
+\mult@rightbox=\box53
+\mult@grightbox=\box54
+\mult@gfirstbox=\box55
+\mult@firstbox=\box56
+\@tempa=\box57
+\@tempa=\box58
+\@tempa=\box59
+\@tempa=\box60
+\@tempa=\box61
+\@tempa=\box62
+\@tempa=\box63
+\@tempa=\box64
+\@tempa=\box65
+\@tempa=\box66
+\@tempa=\box67
+\@tempa=\box68
+\@tempa=\box69
+\@tempa=\box70
+\@tempa=\box71
+\@tempa=\box72
+\@tempa=\box73
+\@tempa=\box74
+\@tempa=\box75
+\@tempa=\box76
+\@tempa=\box77
+\@tempa=\box78
+\@tempa=\box79
+\@tempa=\box80
+\@tempa=\box81
+\@tempa=\box82
+\@tempa=\box83
+\@tempa=\box84
+\@tempa=\box85
+\@tempa=\box86
+\@tempa=\box87
+\@tempa=\box88
+\@tempa=\box89
+\@tempa=\box90
+\@tempa=\box91
+\@tempa=\box92
+\@tempa=\box93
+\c@minrows=\count293
+\c@columnbadness=\count294
+\c@finalcolumnbadness=\count295
+\last@try=\dimen172
+\multicolovershoot=\dimen173
+\multicolundershoot=\dimen174
+\mult@nat@firstbox=\box94
+\colbreak@box=\box95
+\mc@col@check@num=\count296
+) (C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/latex/base\doc.sty
+Package: doc 2020/06/15 v2.1m Standard LaTeX documentation package (FMi)
+\c@StandardModuleDepth=\count297
+\guard@level=\count298
+\MacrocodeTopsep=\skip54
+\MacroIndent=\dimen175
+LaTeX Font Info:    Font shape `TU/Corbel(0)/m/n' will be
+(Font)              scaled to size 8.0pt on input line 192.
+\macro@cnt=\count299
+\MacroTopsep=\skip55
+\index@excludelist=\toks23
+\IndexMin=\dimen176
+\c@IndexColumns=\count300
+\GlossaryMin=\dimen177
+\c@GlossaryColumns=\count301
+\check@sum=\count302
+\bslash@cnt=\count303
+\wrong@table=\toks24
+\c@CodelineNo=\count304
+)
+(C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count305
+\float@exts=\toks25
+\float@box=\box96
+\@float@everytoks=\toks26
+\@floatcapt=\box97
+)
+(C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcolorbox.sty
+Package: tcolorbox 2020/10/09 version 4.42 text color boxes
+(C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgf.sty
+(C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfrcs.st
+y
+(C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil
+-common.tex
+\pgfutil@everybye=\toks27
+\pgfutil@tempdima=\dimen178
+\pgfutil@tempdimb=\dimen179
+
+(C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil
+-common-lists.tex))
+(C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil
+-latex.def
+\pgfutil@abb=\box98
+)
+(C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfrcs.
+code.tex
+(C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/generic/pgf\pgf.revision.tex)
+Package: pgfrcs 2020/12/27 v3.1.8b (3.1.8b)
+))
+Package: pgf 2020/12/27 v3.1.8b (3.1.8b)
+
+(C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgfcore.
+sty
+(C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/latex/pgf/systemlayer\pgfsys.
+sty
+(C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+s.code.tex
+Package: pgfsys 2020/12/27 v3.1.8b (3.1.8b)
+
+(C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys
+.code.tex
+\pgfkeys@pathtoks=\toks28
+\pgfkeys@temptoks=\toks29
+
+(C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys
+filtered.code.tex
+\pgfkeys@tmptoks=\toks30
+))
+\pgf@x=\dimen180
+\pgf@y=\dimen181
+\pgf@xa=\dimen182
+\pgf@ya=\dimen183
+\pgf@xb=\dimen184
+\pgf@yb=\dimen185
+\pgf@xc=\dimen186
+\pgf@yc=\dimen187
+\pgf@xd=\dimen188
+\pgf@yd=\dimen189
+\w@pgf@writea=\write3
+\r@pgf@reada=\read2
+\c@pgf@counta=\count306
+\c@pgf@countb=\count307
+\c@pgf@countc=\count308
+\c@pgf@countd=\count309
+\t@pgf@toka=\toks31
+\t@pgf@tokb=\toks32
+\t@pgf@tokc=\toks33
+\pgf@sys@id@count=\count310
+
+(C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf.c
+fg
+File: pgf.cfg 2020/12/27 v3.1.8b (3.1.8b)
+)
+Driver file for pgf: pgfsys-xetex.def
+
+(C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+s-xetex.def
+File: pgfsys-xetex.def 2020/12/27 v3.1.8b (3.1.8b)
+
+(C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+s-dvipdfmx.def
+File: pgfsys-dvipdfmx.def 2020/12/27 v3.1.8b (3.1.8b)
+
+(C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+s-common-pdf.def
+File: pgfsys-common-pdf.def 2020/12/27 v3.1.8b (3.1.8b)
+)
+\pgfsys@objnum=\count311
+)))
+(C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+ssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgfsyssoftpath@smallbuffer@items=\count312
+\pgfsyssoftpath@bigbuffer@items=\count313
+)
+(C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+sprotocol.code.tex
+File: pgfsysprotocol.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+))
+(C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: xetex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+(C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+e.code.tex
+Package: pgfcore 2020/12/27 v3.1.8b (3.1.8b)
+
+(C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code
+.tex
+(C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathcalc.
+code.tex
+(C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathutil.
+code.tex)
+(C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathparse
+r.code.tex
+\pgfmath@dimen=\dimen190
+\pgfmath@count=\count314
+\pgfmath@box=\box99
+\pgfmath@toks=\toks34
+\pgfmath@stack@operand=\toks35
+\pgfmath@stack@operation=\toks36
+)
+(C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.code.tex
+(C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.basic.code.tex)
+(C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.trigonometric.code.tex)
+(C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.random.code.tex)
+(C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.comparison.code.tex)
+(C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.base.code.tex)
+(C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.round.code.tex)
+(C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.misc.code.tex)
+(C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.integerarithmetics.code.tex)))
+(C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfloat
+.code.tex
+\c@pgfmathroundto@lastzeros=\count315
+))
+(C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfint.code.
+tex)
+(C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epoints.code.tex
+File: pgfcorepoints.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgf@picminx=\dimen191
+\pgf@picmaxx=\dimen192
+\pgf@picminy=\dimen193
+\pgf@picmaxy=\dimen194
+\pgf@pathminx=\dimen195
+\pgf@pathmaxx=\dimen196
+\pgf@pathminy=\dimen197
+\pgf@pathmaxy=\dimen198
+\pgf@xx=\dimen199
+\pgf@xy=\dimen256
+\pgf@yx=\dimen257
+\pgf@yy=\dimen258
+\pgf@zx=\dimen259
+\pgf@zy=\dimen260
+)
+(C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgf@path@lastx=\dimen261
+\pgf@path@lasty=\dimen262
+)
+(C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epathusage.code.tex
+File: pgfcorepathusage.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgf@shorten@end@additional=\dimen263
+\pgf@shorten@start@additional=\dimen264
+)
+(C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+escopes.code.tex
+File: pgfcorescopes.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgfpic=\box100
+\pgf@hbox=\box101
+\pgf@layerbox@main=\box102
+\pgf@picture@serial@count=\count316
+)
+(C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+egraphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgflinewidth=\dimen265
+)
+(C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+etransformations.code.tex
+File: pgfcoretransformations.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgf@pt@x=\dimen266
+\pgf@pt@y=\dimen267
+\pgf@pt@temp=\dimen268
+)
+(C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+equick.code.tex
+File: pgfcorequick.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+)
+(C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+eobjects.code.tex
+File: pgfcoreobjects.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+)
+(C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epathprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+)
+(C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+earrows.code.tex
+File: pgfcorearrows.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgfarrowsep=\dimen269
+)
+(C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+eshade.code.tex
+File: pgfcoreshade.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgf@max=\dimen270
+\pgf@sys@shading@range@num=\count317
+\pgf@shadingcount=\count318
+)
+(C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+eimage.code.tex
+File: pgfcoreimage.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+
+(C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+eexternal.code.tex
+File: pgfcoreexternal.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgfexternal@startupbox=\box103
+))
+(C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+elayers.code.tex
+File: pgfcorelayers.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+)
+(C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+etransparency.code.tex
+File: pgfcoretransparency.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+)
+(C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epatterns.code.tex
+File: pgfcorepatterns.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+)
+(C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+erdf.code.tex
+File: pgfcorerdf.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+)))
+(C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodule
+shapes.code.tex
+File: pgfmoduleshapes.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgfnodeparttextbox=\box104
+)
+(C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodule
+plot.code.tex
+File: pgfmoduleplot.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+)
+(C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfco
+mp-version-0-65.sty
+Package: pgfcomp-version-0-65 2020/12/27 v3.1.8b (3.1.8b)
+\pgf@nodesepstart=\dimen271
+\pgf@nodesepend=\dimen272
+)
+(C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfco
+mp-version-1-18.sty
+Package: pgfcomp-version-1-18 2020/12/27 v3.1.8b (3.1.8b)
+))
+(C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/latex/latex-tools\verbatim.st
+y
+Package: verbatim 2020-07-07 v1.5u LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks37
+\verbatim@line=\toks38
+\verbatim@in@stream=\read3
+) (C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/latex/environ\environ.sty
+Package: environ 2014/05/04 v0.3 A new way to define environments
+
+(C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/latex/trimspaces\trimspaces.s
+ty
+Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
+))
+\tcb@titlebox=\box105
+\tcb@upperbox=\box106
+\tcb@lowerbox=\box107
+\tcb@phantombox=\box108
+\c@tcbbreakpart=\count319
+\c@tcblayer=\count320
+\c@tcolorbox@number=\count321
+\tcb@temp=\box109
+\tcb@temp=\box110
+\tcb@temp=\box111
+\tcb@temp=\box112
+\tcb@out=\write4
+\tcb@record@out=\write5
+) (C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/latex/lipsum\lipsum.sty
+(C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/l3keys2e\l3k
+eys2e.sty
+Package: l3keys2e 2020-10-27 LaTeX2e option processing using LaTeX3 keys
+)
+Package: lipsum 2021-09-20 v2.7 150 paragraphs of Lorem Ipsum dummy text
+\g__lipsum_par_int=\count322
+\l__lipsum_a_int=\count323
+\l__lipsum_b_int=\count324
+
+(C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/latex/lipsum\lipsum.ltd.tex))
+
+(C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/latex/pgf/frontendlayer\tikz.
+sty
+(C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgffor.st
+y
+(C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfkeys.s
+ty
+(C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys
+.code.tex))
+(C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/latex/pgf/math\pgfmath.sty
+(C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code
+.tex))
+(C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgffor.
+code.tex
+Package: pgffor 2020/12/27 v3.1.8b (3.1.8b)
+
+(C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code
+.tex)
+\pgffor@iter=\dimen273
+\pgffor@skip=\dimen274
+\pgffor@stack=\toks39
+\pgffor@toks=\toks40
+))
+(C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z\tikz.code.tex
+Package: tikz 2020/12/27 v3.1.8b (3.1.8b)
+
+(C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibr
+aryplothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgf@plot@mark@count=\count325
+\pgfplotmarksize=\dimen275
+)
+\tikz@lastx=\dimen276
+\tikz@lasty=\dimen277
+\tikz@lastxsaved=\dimen278
+\tikz@lastysaved=\dimen279
+\tikz@lastmovetox=\dimen280
+\tikz@lastmovetoy=\dimen281
+\tikzleveldistance=\dimen282
+\tikzsiblingdistance=\dimen283
+\tikz@figbox=\box113
+\tikz@figbox@bg=\box114
+\tikz@tempbox=\box115
+\tikz@tempbox@bg=\box116
+\tikztreelevel=\count326
+\tikznumberofchildren=\count327
+\tikznumberofcurrentchild=\count328
+\tikz@fig@count=\count329
+
+(C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodule
+matrix.code.tex
+File: pgfmodulematrix.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgfmatrixcurrentrow=\count330
+\pgfmatrixcurrentcolumn=\count331
+\pgf@matrix@numberofcolumns=\count332
+)
+\tikz@expandcount=\count333
+
+(C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+)))
+(C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/latex/nonfloat\nonfloat.sty
+(C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+))
+(C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/latex/pdfpages\pdfpages.sty
+Package: pdfpages 2022/05/22 v0.5v Insert pages of external PDF documents (AM)
+
+(C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/latex/latex-tools\calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count334
+\calc@Bcount=\count335
+\calc@Adimen=\dimen284
+\calc@Bdimen=\dimen285
+\calc@Askip=\skip56
+\calc@Bskip=\skip57
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count336
+\calc@Cskip=\skip58
+)
+(C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/latex/eso-pic\eso-pic.sty
+Package: eso-pic 2020/10/14 v3.0a eso-pic (RN)
+\ESO@tempdima=\dimen286
+\ESO@tempdimb=\dimen287
+)
+\AM@pagewidth=\dimen288
+\AM@pageheight=\dimen289
+\AM@fboxrule=\dimen290
+
+(C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/latex/pdfpages\ppxetex.def
+File: ppxetex.def 2022/05/22 v0.5v Pdfpages driver for XeTeX (AM)
+)
+\pdfpages@includegraphics@status=\count337
+\AM@pagebox=\box117
+\AM@global@opts=\toks41
+\AM@pagecnt=\count338
+\AM@toc@title=\toks42
+\c@AM@survey=\count339
+\AM@templatesizebox=\box118
+)
+(C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/latex/background\background.s
+ty
+Package: background 2014/03/04 v2.1 background material
+
+(C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/latex/everypage\everypage.sty
+Package: everypage 2020/10/17 R2.0b Hooks to run on every page
+
+Package everypage Warning: Functionality similar to this package has recently
+(everypage)                been implemented in LaTeX. This package is now in
+(everypage)                legacy status.
+(everypage)                Please, don't use it in new documents and packages.
+
+
+Package everypage Warning: You appear to be running a version of LaTeX
+(everypage)                providing the new functionality.
+(everypage)                Doing the best to deliver the original `everypage`
+(everypage)                interface on top of it. Strict equivalence is
+(everypage)                not possible, breakage may occur.
+(everypage)                If truly needed, Use `everypage-1x` to force the
+(everypage)                loading of an older code base.
+
+)
+(C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/latex/latex-tools\afterpage.s
+ty
+Package: afterpage 2014/10/28 v1.08 After-Page Package (DPC)
+\AP@output=\toks43
+\AP@partial=\box119
+\AP@footins=\box120
+))
+(C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/latex/titlesec\titlesec.sty
+Package: titlesec 2021/07/05 v2.14 Sectioning titles
+\ttl@box=\box121
+\beforetitleunit=\skip59
+\aftertitleunit=\skip60
+\ttl@plus=\dimen291
+\ttl@minus=\dimen292
+\ttl@toksa=\toks44
+\titlewidth=\dimen293
+\titlewidthlast=\dimen294
+\titlewidthfirst=\dimen295
+
+(C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/latex/titlesec\titleps.sty))
+(C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/latex/framed\framed.sty
+Package: framed 2011/10/22 v 0.96: framed or shaded text with page breaks
+\OuterFrameSep=\skip61
+\fb@frw=\dimen296
+\fb@frh=\dimen297
+\FrameRule=\dimen298
+\FrameSep=\dimen299
+)
+(C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/latex/upquote\upquote.sty
+Package: upquote 2012/04/19 v1.3 upright-quote and grave-accent glyphs in verba
+tim
+
+(C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/latex/base\textcomp.sty
+Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
+))
+(C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype.sty
+Package: microtype 2022/06/23 v3.0f Micro-typographical refinements (RS)
+\MT@toks=\toks45
+\MT@tempbox=\box122
+\MT@count=\count340
+LaTeX Info: Redefining \noprotrusionifhmode on input line 1045.
+LaTeX Info: Redefining \leftprotrusion on input line 1046.
+LaTeX Info: Redefining \rightprotrusion on input line 1056.
+LaTeX Info: Redefining \textls on input line 1234.
+\MT@outer@kern=\dimen300
+LaTeX Info: Redefining \textmicrotypecontext on input line 1858.
+\MT@listname@count=\count341
+
+(C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype-xet
+ex.def
+File: microtype-xetex.def 2022/06/23 v3.0f Definitions specific to xetex (RS)
+LaTeX Info: Redefining \lsstyle on input line 236.
+)
+Package microtype Info: Loading configuration file microtype.cfg.
+
+(C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype.cfg
+File: microtype.cfg 2022/06/23 v3.0f microtype main configuration file (RS)
+))
+(C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+)
+\Gm@cnth=\count342
+\Gm@cntv=\count343
+\c@Gm@tempcnt=\count344
+\Gm@bindingoffset=\dimen301
+\Gm@wd@mp=\dimen302
+\Gm@odd@mp=\dimen303
+\Gm@even@mp=\dimen304
+\Gm@layoutwidth=\dimen305
+\Gm@layoutheight=\dimen306
+\Gm@layouthoffset=\dimen307
+\Gm@layoutvoffset=\dimen308
+\Gm@dimlist=\toks46
+
+(C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/xelatex/xetexconfig\geometry.
+cfg))
+(C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
+Package: hyperref 2020-05-15 v7.00e Hypertext links for LaTeX
+
+(C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+(C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds
+.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.s
+ty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode not found.
+)
+(C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/generic/kvsetkeys\kvsetkeys.s
+ty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+)
+(C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefine
+keys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape.s
+ty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+) (C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/latex/letltxmacro\letltxmacro
+.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+(C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/latex/auxhook\auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+(C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+)
+\@linkdim=\dimen309
+\Hy@linkcounter=\count345
+\Hy@pagecounter=\count346
+ (C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
+File: pd1enc.def 2020-05-15 v7.00e Hyperref: PDFDocEncoding definition (HO)
+)
+(C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+(C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/generic/etexcmds\etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count347
+
+! Undefined control sequence.
+<recently read> \@remove@eq@value 
+                                  
+l.4338 \ProcessKeyvalOptions{Hyp}
+                                 
+? r
+OK, entering \nonstopmode...
+! Undefined control sequence.
+<argument> ...@eq@value \KVO@CurrentOption =\@nil 
+                                                  
+l.4338 \ProcessKeyvalOptions{Hyp}
+                                 
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Package hyperref Info: Hyper figures OFF on input line 4464.
+Package hyperref Info: Link nesting OFF on input line 4469.
+Package hyperref Info: Hyper index ON on input line 4472.
+Package hyperref Info: Plain pages OFF on input line 4479.
+Package hyperref Info: Backreferencing OFF on input line 4484.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4717.
+\c@Hy@tempcnt=\count348
+(C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5076.
+\XeTeXLinkMargin=\dimen310
+
+(C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcalc
+.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count349
+\Field@Width=\dimen311
+\Fld@charsize=\dimen312
+Package hyperref Info: Hyper figures OFF on input line 6347.
+Package hyperref Info: Link nesting OFF on input line 6352.
+Package hyperref Info: Hyper index ON on input line 6355.
+Package hyperref Info: backreferencing OFF on input line 6362.
+Package hyperref Info: Link coloring OFF on input line 6367.
+Package hyperref Info: Link coloring with OCG OFF on input line 6372.
+Package hyperref Info: PDF/A mode OFF on input line 6377.
+LaTeX Info: Redefining \ref on input line 6417.
+LaTeX Info: Redefining \pageref on input line 6421.
+
+(C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/latex/base\atbegshi-ltx.sty
+Package: atbegshi-ltx 2020/08/17 v1.0a Emulation of the original atbegshi packa
+ge
+with kernel methods
+)
+\Hy@abspage=\count350
+\c@Item=\count351
+\c@Hfootnote=\count352
+)
+Package hyperref Info: Driver (autodetected): hxetex.
+(C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hxetex.def
+File: hxetex.def 2020-05-15 v7.00e Hyperref driver for XeTeX
+
+(C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
+File: puenc.def 2020-05-15 v7.00e Hyperref: PDF Unicode definition (HO)
+)
+(C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/generic/stringenc\stringenc.s
+ty
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
+)
+)
+\pdfm@box=\box123
+\c@Hy@AnnotLevel=\count353
+\HyField@AnnotCount=\count354
+\Fld@listcount=\count355
+\c@bookmark@seq@number=\count356
+
+(C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfil
+echeck.sty
+Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
+
+(C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/latex/base\atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atvery packag
+e
+with kernel methods
+)
+(C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniquec
+ounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+85.
+)
+\Hy@SectionHShift=\skip62
+)
+Package hyperref Info: Option `unicode' set `true' on input line 93.
+
+(C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/generic/stringenc\se-ascii-pr
+int.def
+File: se-ascii-print.def 2019/11/29 v1.12 stringenc: Printable ASCII characters
+
+)
+Package hyperref Info: Option `breaklinks' set `true' on input line 93.
+
+(C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/latex/polyglossia\polyglossia
+.sty
+Package: polyglossia 2022/07/18 v1.57 Modern multilingual typesetting with XeLa
+TeX and LuaLaTeX
+
+(C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/latex/makecmds\makecmds.sty
+Package: makecmds 2009/09/03 v1.0a extra command making commands
+)
+\xpg@normalclass=\XeTeXcharclass1
+
+(C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/latex/polyglossia\gloss-latex
+.lde
+Package: gloss-latex 2021/07/10 vv1.53 polyglossia: module for default language
+
+The property list \polyglossia@langsetup contains the pairs (without outer
+braces):
+>  {latex/script}  =>  {latin}
+>  {latex/lcscript}  =>  {latin}
+>  {latex/scripttag}  =>  {}
+>  {latex/language}  =>  {Latex}
+>  {latex/langtag}  =>  {ENG}
+>  {latex/bcp47}  =>  {}
+>  {latex/hyphennames}  =>  {english}
+>  {latex/direction}  =>  {LR}
+>  {latex/hyphenmins}  =>  {2,3}
+>  {latex/frenchspacing}  =>  {false}
+>  {latex/indentfirst}  =>  {false}
+>  {latex/fontsetup}  =>  {true}
+>  {latex/envname}  =>  {latex}
+>  {latex/babelname}  =>  {latex}
+>  {latex/localnumeral}  =>  {polyglossia@C@localnumeral}
+>  {latex/Localnumeral}  =>  {polyglossia@C@localnumeral}
+>  {latex/DefineCommandsCmd}  =>  {use_none:n}.
+)
+Package polyglossia Info: Default language is latex.
+)
+(C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/latex/polyglossia\gloss-spani
+sh.ldf
+File: gloss-spanish.ldf polyglossia: module for spanish
+The property list \polyglossia@langsetup contains the pairs (without outer
+braces):
+>  {latex/script}  =>  {latin}
+>  {latex/lcscript}  =>  {latin}
+>  {latex/scripttag}  =>  {}
+>  {latex/language}  =>  {Latex}
+>  {latex/langtag}  =>  {ENG}
+>  {latex/bcp47}  =>  {}
+>  {latex/hyphennames}  =>  {english}
+>  {latex/direction}  =>  {LR}
+>  {latex/hyphenmins}  =>  {2,3}
+>  {latex/frenchspacing}  =>  {false}
+>  {latex/indentfirst}  =>  {false}
+>  {latex/fontsetup}  =>  {true}
+>  {latex/envname}  =>  {latex}
+>  {latex/babelname}  =>  {latex}
+>  {latex/localnumeral}  =>  {polyglossia@C@localnumeral}
+>  {latex/Localnumeral}  =>  {polyglossia@C@localnumeral}
+>  {latex/DefineCommandsCmd}  =>  {use_none:n}
+>  {spanish/script}  =>  {latin}
+>  {spanish/lcscript}  =>  {latin}
+>  {spanish/scripttag}  =>  {}
+>  {spanish/language}  =>  {Spanish}
+>  {spanish/langtag}  =>  {ESP}
+>  {spanish/bcp47}  =>  {es-ES}
+>  {spanish/hyphennames}  =>  {spanish}
+>  {spanish/direction}  =>  {LR}
+>  {spanish/hyphenmins}  =>  {2,2}
+>  {spanish/frenchspacing}  =>  {true}
+>  {spanish/indentfirst}  =>  {true}
+>  {spanish/fontsetup}  =>  {true}
+>  {spanish/envname}  =>  {spanish}
+>  {spanish/babelname}  =>  {spanish}
+>  {spanish/localnumeral}  =>  {polyglossia@C@localnumeral}
+>  {spanish/Localnumeral}  =>  {polyglossia@C@localnumeral}
+>  {spanish/DefineCommandsCmd}  =>  {xpg_define_language_commands:e}
+>  {spanish/totalhyphenmin}  =>  {5}.
+Package polyglossia Info: Option: spanish, variant=spanish.
+Package polyglossia Info: Option: Spanish, spanishoperators=none.
+)
+Package polyglossia Info: Default language is spanish.
+
+(C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/latex/natbib\natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip63
+\bibsep=\skip64
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count357
+)
+(C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/latex/latex-tools\longtable.s
+ty
+Package: longtable 2020/01/07 v4.13 Multi-page Table package (DPC)
+\LTleft=\skip65
+\LTright=\skip66
+\LTpre=\skip67
+\LTpost=\skip68
+\LTchunksize=\count358
+\LTcapwidth=\dimen313
+\LT@head=\box124
+\LT@firsthead=\box125
+\LT@foot=\box126
+\LT@lastfoot=\box127
+\LT@cols=\count359
+\LT@rows=\count360
+\c@LT@tables=\count361
+\c@LT@chunks=\count362
+\LT@p@ftn=\toks47
+) (C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/latex/parskip\parskip.sty
+Package: parskip 2021-03-14 v2.0h non-zero parskip adjustments
+) (C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
+Rollback for package 'caption' requested -> version 'v1'.
+         This corresponds to the release introduced on 1994-10-27.
+
+(C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption_1995-04
+-05.sty
+Package: caption 1995/04/05 v1.4b caption package (AS)
+\captionmargin=\skip69
+\as@captionbox=\box128
+\as@captionwidth=\skip70
+
+         `float' package detected
+))
+(C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/latex/latex-tools\indentfirst
+.sty
+Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
+)
+(C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/latex/enumitem\enumitem.sty
+Package: enumitem 2019/06/20 v3.9 Customized lists
+\enitkv@toks@=\toks48
+\labelindent=\skip71
+\enit@outerparindent=\dimen314
+\enit@toks=\toks49
+\enit@inbox=\box129
+\enit@count@id=\count363
+\enitdp@description=\count364
+)
+(C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/latex/titlesec\titletoc.sty
+Package: titletoc 2021/07/05 v2.14 TOC entries
+\ttl@leftsep=\dimen315
+)
+
+LaTeX Warning: Unused global option(s):
+    [spanish,Letterpaper].
+
+(CuartaEdicion-RevistaDigital.aux)
+\openout1 = `CuartaEdicion-RevistaDigital.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 307.
+LaTeX Font Info:    ... okay on input line 307.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 307.
+LaTeX Font Info:    ... okay on input line 307.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 307.
+LaTeX Font Info:    ... okay on input line 307.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 307.
+LaTeX Font Info:    ... okay on input line 307.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 307.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 3
+07.
+
+(C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/latex/base\ts1cmr.fd
+File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 307.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 307.
+LaTeX Font Info:    ... okay on input line 307.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 307.
+LaTeX Font Info:    ... okay on input line 307.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 307.
+LaTeX Font Info:    ... okay on input line 307.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 307.
+LaTeX Font Info:    ... okay on input line 307.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 307.
+LaTeX Font Info:    ... okay on input line 307.
+
+(C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/latex/pdflscape\pdflscape.sty
+Package: pdflscape 2019/12/05 v0.12 Display of landscape pages in PDF (HO)
+(C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/latex/graphics\lscape.sty
+Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: dvipdfm (xetex) on input line 98.
+
+)
+LaTeX Info: Redefining \microtypecontext on input line 307.
+Package microtype Info: Applying patch `item' on input line 307.
+Package microtype Info: Applying patch `toc' on input line 307.
+Package microtype Info: Applying patch `eqnum' on input line 307.
+Package microtype Info: Applying patch `footnote' on input line 307.
+Package microtype Info: Character protrusion enabled (level 2).
+Package microtype Info: Using protrusion set `basicmath'.
+Package microtype Info: No adjustment of tracking.
+Package microtype Info: No adjustment of spacing.
+Package microtype Info: No adjustment of kerning.
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `Corbel' (encoding: TU).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(36.13498pt, 542.02504pt, 36.13498pt)
+* v-part:(T,H,B)=(36.98857pt, 698.23064pt, 59.75078pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=542.02504pt
+* \textheight=698.23064pt
+* \oddsidemargin=-36.13501pt
+* \evensidemargin=-36.13501pt
+* \topmargin=-67.15521pt
+* \headheight=12.0pt
+* \headsep=19.8738pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=96.0pt
+* \marginparsep=7.0pt
+* \columnsep=12.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemargintrue
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+Package hyperref Info: Link coloring OFF on input line 307.
+(C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
+Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
+
+(C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gettit
+lestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count365
+)
+LaTeX Info: Redefining \ref on input line 307.
+LaTeX Info: Redefining \pageref on input line 307.
+LaTeX Info: Redefining \nameref on input line 307.
+ (CuartaEdicion-RevistaDigital.out)
+(CuartaEdicion-RevistaDigital.out)
+\@outlinefile=\write6
+\openout6 = `CuartaEdicion-RevistaDigital.out'.
+
+
+
+Package hyperref Warning: Rerun to get /PageLabels entry.
+
+The property list \__xpg_alias contains the pairs (without outer braces):
+>  {latex/target}  =>  {latex}
+>  {spanish/target}  =>  {spanish}
+>  {es/target}  =>  {spanish}
+>  {es-MX/target}  =>  {spanish}
+>  {es-MX/variant}  =>  {mexican}
+>  {es-MX/options}  =>  {variant=mexican}
+>  {es-ES/target}  =>  {spanish}
+>  {es-ES/variant}  =>  {spanish}
+>  {es-ES/options}  =>  {variant=spanish}
+>  {spanishmx/target}  =>  {spanish}
+>  {spanishmx/variant}  =>  {mexican}
+>  {spanishmx/options}  =>  {variant=mexican}.
+LaTeX Info: Redefining \rmfamily on input line 307.
+LaTeX Info: Redefining \sffamily on input line 307.
+LaTeX Info: Redefining \ttfamily on input line 307.
+
+! Package pdfpages Error: Cannot find file `images/cover.pdf'.
+
+See the pdfpages package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.311 \includepdf{images/cover.pdf}
+                                   
+This error message was generated by an \errmessage
+command, so I can't give any explicit help.
+Pretend that you're Hercule Poirot: Examine all clues,
+and deduce the truth by order and method.
+
+
+! Package pdfpages Error: Cannot find file `1'.
+
+See the pdfpages package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.311 \includepdf{images/cover.pdf}
+                                   
+(That was another \errmessage.)
+
+! Undefined control sequence.
+\AM@checkpagenumber #1->\ifnum #1>\AM@pagecount 
+                                                \relax \ifthenelse {\boolean...
+l.311 \includepdf{images/cover.pdf}
+                                   
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   \relax 
+l.311 \includepdf{images/cover.pdf}
+                                   
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+
+! Package pdfpages Error: Page 1 of `\AM@currentdocname ' does not exist.
+
+See the pdfpages package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.311 \includepdf{images/cover.pdf}
+                                   
+You have set a wrong page number in the `pages' option. Document 
+`\AM@currentdocname ' does not have 1 pages.
+
+LaTeX Font Info:    Font shape `TU/Corbel(1)/m/n' will be
+(Font)              scaled to size 12.0pt on input line 343.
+LaTeX Font Info:    Font shape `TU/Corbel(1)/b/n' will be
+(Font)              scaled to size 11.76471pt on input line 343.
+LaTeX Font Info:    Font shape `TU/Corbel(1)/b/sl' in size <12> not available
+(Font)              Font shape `TU/Corbel(1)/b/it' tried instead on input line 
+343.
+LaTeX Font Info:    Font shape `TU/Corbel(1)/b/it' will be
+(Font)              scaled to size 11.76471pt on input line 343.
+
+LaTeX Warning: File `latex/background_numberimpar.pdf' not found on input line 
+343.
+
+! Unable to load picture or PDF file 'latex/background_numberimpar.pdf'.
+<to be read again> 
+                   }
+l.343 \chapter*{Editorial}\label{editorial}}
+                                            
+The requested image couldn't be read because
+it was not a recognized image format.
+
+
+! Package graphics Error: Division by 0.
+
+See the graphics package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.343 \chapter*{Editorial}\label{editorial}}
+                                            
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! Package graphics Error: Division by 0.
+
+See the graphics package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.343 \chapter*{Editorial}\label{editorial}}
+                                            
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+File: latex/background_numberimpar.pdf Graphic file (type pdf)
+<use latex/background_numberimpar.pdf>
+! Unable to load picture or PDF file 'latex/background_numberimpar.pdf'.
+<to be read again> 
+                   \GPT@clipend 
+l.343 \chapter*{Editorial}\label{editorial}}
+                                            
+The requested image couldn't be read because
+it was not a recognized image format.
+
+[1
+
+]
+LaTeX Font Info:    Font shape `TU/Corbel(0)/b/n' will be
+(Font)              scaled to size 12.0pt on input line 343.
+LaTeX Font Info:    Font shape `TU/Corbel(0)/b/n' will be
+(Font)              scaled to size 24.88pt on input line 343.
+
+
+LaTeX Warning: File `latex/background_numberpar.pdf' not found on input line 36
+1.
+
+! Unable to load picture or PDF file 'latex/background_numberpar.pdf'.
+<to be read again> 
+                   }
+l.361 ...Nómina de Junta Directiva}\label{nomina}}
+                                                  
+The requested image couldn't be read because
+it was not a recognized image format.
+
+
+! Package graphics Error: Division by 0.
+
+See the graphics package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.361 ...Nómina de Junta Directiva}\label{nomina}}
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! Package graphics Error: Division by 0.
+
+See the graphics package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.361 ...Nómina de Junta Directiva}\label{nomina}}
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+File: latex/background_numberpar.pdf Graphic file (type pdf)
+<use latex/background_numberpar.pdf>
+! Unable to load picture or PDF file 'latex/background_numberpar.pdf'.
+<to be read again> 
+                   \GPT@clipend 
+l.361 ...Nómina de Junta Directiva}\label{nomina}}
+                                                  
+The requested image couldn't be read because
+it was not a recognized image format.
+
+[2
+
+]
+File: images/logo.png Graphic file (type bmp)
+<images/logo.png>
+
+
+Package longtable Warning: Column widths have changed
+(longtable)                in table 1 on input line 385.
+
+
+LaTeX Warning: File `latex/background_numberimpar.pdf' not found on input line 
+413.
+
+
+! Package graphics Error: Division by 0.
+
+See the graphics package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.413 \chapter*{Directorio}\label{directorio}}
+                                              
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! Package graphics Error: Division by 0.
+
+See the graphics package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.413 \chapter*{Directorio}\label{directorio}}
+                                              
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+File: latex/background_numberimpar.pdf Graphic file (type pdf)
+<use latex/background_numberimpar.pdf>
+! Unable to load picture or PDF file 'latex/background_numberimpar.pdf'.
+<to be read again> 
+                   \GPT@clipend 
+l.413 \chapter*{Directorio}\label{directorio}}
+                                              
+The requested image couldn't be read because
+it was not a recognized image format.
+
+[3
+
+]
+LaTeX Font Info:    Font shape `TU/Corbel(0)/m/n' will be
+(Font)              scaled to size 17.28pt on input line 422.
+LaTeX Font Info:    Font shape `TU/Corbel(0)/b/n' will be
+(Font)              scaled to size 17.28pt on input line 422.
+
+
+Package hyperref Warning: The anchor of a bookmark and its parent's must not
+(hyperref)                be the same. Added a new anchor on input line 423.
+
+
+LaTeX Warning: File `latex/background_numberpar.pdf' not found on input line 54
+0.
+
+
+! Package graphics Error: Division by 0.
+
+See the graphics package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.540 ...Comité Editorial}\label{comiteeditorial}}
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! Package graphics Error: Division by 0.
+
+See the graphics package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.540 ...Comité Editorial}\label{comiteeditorial}}
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+File: latex/background_numberpar.pdf Graphic file (type pdf)
+<use latex/background_numberpar.pdf>
+! Unable to load picture or PDF file 'latex/background_numberpar.pdf'.
+<to be read again> 
+                   \GPT@clipend 
+l.540 ...Comité Editorial}\label{comiteeditorial}}
+                                                  
+The requested image couldn't be read because
+it was not a recognized image format.
+
+[4
+
+]
+
+LaTeX Warning: File `latex/background_numberimpar.pdf' not found on input line 
+613.
+
+
+! Package graphics Error: Division by 0.
+
+See the graphics package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.613 \tableofcontents
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! Package graphics Error: Division by 0.
+
+See the graphics package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.613 \tableofcontents
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+File: latex/background_numberimpar.pdf Graphic file (type pdf)
+<use latex/background_numberimpar.pdf>
+! Unable to load picture or PDF file 'latex/background_numberimpar.pdf'.
+<to be read again> 
+                   \GPT@clipend 
+l.613 \tableofcontents
+                      
+The requested image couldn't be read because
+it was not a recognized image format.
+
+[5
+
+] (CuartaEdicion-RevistaDigital.toc
+! Undefined control sequence.
+l.1 \babel@toc
+               {spanish}{}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.2 \babel@toc
+               {spanish}{}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+LaTeX Font Info:    Font shape `TU/Corbel(0)/m/it' will be
+(Font)              scaled to size 12.0pt on input line 3.
+! Undefined control sequence.
+l.11 \babel@toc
+                {spanish}{}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.12 ...ocio componible inteligente}{7}{chapter.1}
+                                                  %
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+)
+\tf@toc=\write7
+\openout7 = `CuartaEdicion-RevistaDigital.toc'.
+
+
+
+LaTeX Warning: File `latex/background_numberpar.pdf' not found on input line 62
+0.
+
+
+! Package graphics Error: Division by 0.
+
+See the graphics package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.620 ... componible inteligente}\label{Cristian}}
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! Package graphics Error: Division by 0.
+
+See the graphics package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.620 ... componible inteligente}\label{Cristian}}
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+File: latex/background_numberpar.pdf Graphic file (type pdf)
+<use latex/background_numberpar.pdf>
+! Unable to load picture or PDF file 'latex/background_numberpar.pdf'.
+<to be read again> 
+                   \GPT@clipend 
+l.620 ... componible inteligente}\label{Cristian}}
+                                                  
+The requested image couldn't be read because
+it was not a recognized image format.
+
+[6
+
+]
+Artículo 1.
+File: images/cJuarez_image1.png Graphic file (type bmp)
+<images/cJuarez_image1.png>
+
+Underfull \hbox (badness 10000) in paragraph at lines 629--631
+\TU/Corbel(1)/m/n/12 para impulsar una transformación digital más
+ []
+
+
+Underfull \hbox (badness 5490) in paragraph at lines 629--631
+\TU/Corbel(1)/m/n/12 en ese momento. Para hacer esto con éxito las
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 629--631
+\TU/Corbel(1)/m/n/12 organizaciones deben permitir un mejor acceso
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 629--631
+\TU/Corbel(1)/m/n/12 a la información, y aumentarla con un mejor
+ []
+
+
+Underfull \hbox (badness 6758) in paragraph at lines 629--631
+\TU/Corbel(1)/m/n/12 democratización en toda la organización, lo que
+ []
+
+
+Underfull \hbox (badness 5345) in paragraph at lines 629--631
+\TU/Corbel(1)/m/n/12 permitirá que partes de las empresas reaccionen
+ []
+
+
+Underfull \hbox (badness 6396) in paragraph at lines 635--636
+\TU/Corbel(1)/m/n/12 this successfully, organizations must allow better
+ []
+
+
+Underfull \hbox (badness 7851) in paragraph at lines 646--648
+\TU/Corbel(1)/m/n/12 inteligente. En un ambiente donde los negocios
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 646--648
+\TU/Corbel(1)/m/n/12 requieren múltiples cambios para mantener las
+ []
+
+
+Underfull \hbox (badness 6316) in paragraph at lines 646--648
+\TU/Corbel(1)/m/n/12 ventajas o para no quedar definitivamente fuera
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 646--648
+\TU/Corbel(1)/m/n/12 soluciones empresariales componibles. Los Chief
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 662--665
+\TU/Corbel(1)/m/n/12 casos se utiliza, habitualmente, BPM (Business
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 662--665
+\TU/Corbel(1)/m/n/12 Process Management) en combinación con AI
+ []
+
+
+Underfull \hbox (badness 5331) in paragraph at lines 662--665
+\TU/Corbel(1)/m/n/12 empresa. En términos simples, la automatización
+ []
+
+
+Underfull \hbox (badness 7238) in paragraph at lines 662--665
+\TU/Corbel(1)/m/n/12 directo es el funcionamiento de los automóviles
+ []
+
+
+LaTeX Warning: File `latex/background_numberimpar.pdf' not found on input line 
+665.
+
+
+! Package graphics Error: Division by 0.
+
+See the graphics package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.665 
+      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! Package graphics Error: Division by 0.
+
+See the graphics package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.665 
+      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+File: latex/background_numberimpar.pdf Graphic file (type pdf)
+<use latex/background_numberimpar.pdf>
+! Unable to load picture or PDF file 'latex/background_numberimpar.pdf'.
+<to be read again> 
+                   \GPT@clipend 
+l.665 
+      
+The requested image couldn't be read because
+it was not a recognized image format.
+
+[7
+
+]
+Overfull \hbox (3.20428pt too wide) in paragraph at lines 666--667
+[]\TU/Corbel(1)/m/n/12 Negocio componible significa crear una organización
+ []
+
+
+Underfull \hbox (badness 7064) in paragraph at lines 672--675
+\TU/Corbel(1)/m/n/12 bles. La configuración modular permite que una
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 672--675
+\TU/Corbel(1)/m/n/12 repentino en la cadena de suministro o en los
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 676--677
+[]\TU/Corbel(1)/m/n/12 Las organizaciones deben seguir los cuatro
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 694--695
+\TU/Corbel(1)/m/n/12 componibles requieren un cambio fundamental
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 700--702
+[]\TU/Corbel(1)/m/n/12 Pensamiento componible: esto evita que se
+ []
+
+File: images/cJuarez_image2.png Graphic file (type bmp)
+<images/cJuarez_image2.png>
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 7
+15.
+(C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/latex/lm\ot1lmr.fd
+File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+(C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-LatinModer
+nRoman.cfg
+File: mt-LatinModernRoman.cfg 2021/02/21 v1.1 microtype config. file: Latin Mod
+ern Roman (RS)
+)
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 7
+15.
+
+(C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/latex/lm\omllmm.fd
+File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
+715.
+
+(C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/latex/lm\omslmsy.fd
+File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 
+715.
+
+(C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/latex/lm\omxlmex.fd
+File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <12> on input line 715.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <8> on input line 715.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <6> on input line 715.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 715
+.
+
+(C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+(C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-msa.cfg
+File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 715
+.
+
+(C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+(C:\Users\50259\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-msb.cfg
+File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
+)
+Underfull \hbox (badness 10000) in paragraph at lines 718--719
+[]\TU/Corbel(1)/m/n/12 Los cuatro principios son objetivos de diseño
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 718--719
+\TU/Corbel(1)/m/n/12 de productos que impulsan las características
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 718--719
+\TU/Corbel(1)/m/n/12 de la tecnología que respaldan las nociones de
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 720--721
+[]\TU/Corbel(1)/m/n/12 Cuando se combinan los principios con los
+ []
+
+
+Underfull \hbox (badness 6268) in paragraph at lines 720--721
+\TU/Corbel(1)/m/n/12 componentes básicos de un negocio componible,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 729--731
+[]\TU/Corbel(1)/m/n/12 Para sobrevivir a momentos disruptivos, las
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 729--731
+\TU/Corbel(1)/m/n/12 empresas deben de adoptar las soluciones
+ []
+
+
+Underfull \hbox (badness 6542) in paragraph at lines 731--733
+\TU/Corbel(1)/m/n/12 entender bien los elementos reutilizables de
+ []
+
+
+LaTeX Warning: File `latex/background_numberpar.pdf' not found on input line 73
+3.
+
+
+! Package graphics Error: Division by 0.
+
+See the graphics package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.733   L
+         as empresas buscan soluciones a problemas concretos; la búsqueda de...
+
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! Package graphics Error: Division by 0.
+
+See the graphics package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.733   L
+         as empresas buscan soluciones a problemas concretos; la búsqueda de...
+
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+File: latex/background_numberpar.pdf Graphic file (type pdf)
+<use latex/background_numberpar.pdf>
+! Unable to load picture or PDF file 'latex/background_numberpar.pdf'.
+<to be read again> 
+                   \GPT@clipend 
+l.733   L
+         as empresas buscan soluciones a problemas concretos; la búsqueda de...
+The requested image couldn't be read because
+it was not a recognized image format.
+
+[8]
+Underfull \hbox (badness 10000) in paragraph at lines 733--734
+\TU/Corbel(1)/m/n/12 de los elementos y la adquisición de otros
+ []
+
+
+Underfull \hbox (badness 6364) in paragraph at lines 733--734
+\TU/Corbel(1)/m/n/12 elementos tecnológicos, en la medida de lo
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 741--743
+[]\TU/Corbel(1)/m/n/12 [1] [Burke, B. (2020)][Gartner Top Strategic
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 741--743
+[]$[][][][] [] [] [] [][][][][] [] [][] [] [][][][]$[]\TU/Corbel(1)/m/n/12 . [Ú
+ltimo acceso: 29 de
+ []
+
+
+Underfull \hbox (badness 6995) in paragraph at lines 745--747
+\TU/Corbel(1)/m/n/12 Unidos]. Recuperado de: []$[][][][] [] [] [] [][][][][] []
+ [][] [] [][][][]$[].
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 747--748
+[]\TU/Corbel(1)/m/n/12 [4] [Saran, C. (2020)][Gartner: Composability
+ []
+
+
+Underfull \hbox (badness 6001) in paragraph at lines 747--748
+\TU/Corbel(1)/m/n/12 will make business more resilient and agile].
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 747--748
+\TU/Corbel(1)/m/n/12 Recuperado de: []$[][][][] [] [] [] [][][][][] [] [][] [] 
+[][][][]$[]. [Último
+ []
+
+
+LaTeX Warning: File `latex/background_numberimpar.pdf' not found on input line 
+756.
+
+
+! Package graphics Error: Division by 0.
+
+See the graphics package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.756 ...Facultad de Veterinaria}\label{Denilson}}
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! Package graphics Error: Division by 0.
+
+See the graphics package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.756 ...Facultad de Veterinaria}\label{Denilson}}
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+File: latex/background_numberimpar.pdf Graphic file (type pdf)
+<use latex/background_numberimpar.pdf>
+! Unable to load picture or PDF file 'latex/background_numberimpar.pdf'.
+<to be read again> 
+                   \GPT@clipend 
+l.756 ...Facultad de Veterinaria}\label{Denilson}}
+                                                  
+The requested image couldn't be read because
+it was not a recognized image format.
+
+[9]
+Artículo 2.
+
+! LaTeX Error: File `images/denilson_00' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.758 ...cs[width=1\linewidth]{images/denilson_00}
+                                                   \end{center}
+I could not locate the file with any of these extensions:
+.pdf,.PDF,.ai,.AI,.png,.PNG,.jpg,.JPG,.jpeg,.JPEG,.jp2,.JP2,.jpf,.JPF,.bmp,.BMP
+,.ps,.PS,.eps,.EPS,.mps,.MPS,.pz,.eps.Z,.ps.Z,.ps.gz,.eps.gz
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Underfull \hbox (badness 6708) in paragraph at lines 767--769
+[]\TU/Corbel(1)/m/n/12 El estudio se realizó a base de entrevistas al
+ []
+
+
+Underfull \hbox (badness 7291) in paragraph at lines 773--775
+\TU/Corbel(1)/m/n/12 various internal processes in the animal medical
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 781--782
+[]\TU/Corbel(1)/m/n/12 Digitalización, procesamiento, centralización de
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 786--787
+\TU/Corbel(1)/m/n/12 la transformación digital es una necesidad que
+ []
+
+
+Underfull \hbox (badness 7851) in paragraph at lines 795--796
+\TU/Corbel(1)/m/n/12 de volver a imprimirlos; los laboratorios pueden
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 797--799
+[]\TU/Corbel(1)/m/n/12 Es importante recalcar que se ha tenido que
+ []
+
+
+LaTeX Warning: File `latex/background_numberpar.pdf' not found on input line 79
+9.
+
+
+! Package graphics Error: Division by 0.
+
+See the graphics package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.799 
+      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! Package graphics Error: Division by 0.
+
+See the graphics package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.799 
+      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+File: latex/background_numberpar.pdf Graphic file (type pdf)
+<use latex/background_numberpar.pdf>
+! Unable to load picture or PDF file 'latex/background_numberpar.pdf'.
+<to be read again> 
+                   \GPT@clipend 
+l.799 
+      
+The requested image couldn't be read because
+it was not a recognized image format.
+
+[10
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 800--801
+\TU/Corbel(1)/m/n/12 debe estar registrado en el sistema para poder
+ []
+
+
+! LaTeX Error: File `images/denilson_01' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.805 ...cs[width=1\linewidth]{images/denilson_01}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.PDF,.ai,.AI,.png,.PNG,.jpg,.JPG,.jpeg,.JPEG,.jp2,.JP2,.jpf,.JPF,.bmp,.BMP
+,.ps,.PS,.eps,.EPS,.mps,.MPS,.pz,.eps.Z,.ps.Z,.ps.gz,.eps.gz
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Underfull \hbox (badness 6876) in paragraph at lines 811--812
+\TU/Corbel(1)/m/n/12 en qué laboratorio quiere realizar sus exámenes.
+ []
+
+
+Underfull \hbox (badness 7379) in paragraph at lines 811--812
+\TU/Corbel(1)/m/n/12 solicitar exámenes. Estos formularios los pueden
+ []
+
+
+Underfull \hbox (badness 6876) in paragraph at lines 811--812
+\TU/Corbel(1)/m/n/12 configurar los encargados de los laboratorios en
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 811--812
+\TU/Corbel(1)/m/n/12 cualquier momento y modificar el orden de las
+ []
+
+
+! LaTeX Error: File `images/denilson_02' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.816 ...cs[width=1\linewidth]{images/denilson_02}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.PDF,.ai,.AI,.png,.PNG,.jpg,.JPG,.jpeg,.JPEG,.jp2,.JP2,.jpf,.JPF,.bmp,.BMP
+,.ps,.PS,.eps,.EPS,.mps,.MPS,.pz,.eps.Z,.ps.Z,.ps.gz,.eps.gz
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Underfull \hbox (badness 5331) in paragraph at lines 822--823
+[]\TU/Corbel(1)/m/n/12 Una vez que el cliente llene el formulario del
+ []
+
+
+! LaTeX Error: File `images/denilson_03' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.827 ...cs[width=1\linewidth]{images/denilson_03}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.PDF,.ai,.AI,.png,.PNG,.jpg,.JPG,.jpeg,.JPEG,.jp2,.JP2,.jpf,.JPF,.bmp,.BMP
+,.ps,.PS,.eps,.EPS,.mps,.MPS,.pz,.eps.Z,.ps.Z,.ps.gz,.eps.gz
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: File `images/denilson_04' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.838 ...cs[width=1\linewidth]{images/denilson_04}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.PDF,.ai,.AI,.png,.PNG,.jpg,.JPG,.jpeg,.JPEG,.jp2,.JP2,.jpf,.JPF,.bmp,.BMP
+,.ps,.PS,.eps,.EPS,.mps,.MPS,.pz,.eps.Z,.ps.Z,.ps.gz,.eps.gz
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 844--845
+[]\TU/Corbel(1)/m/n/12 Los encargados de los laboratorios pueden
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 844--845
+\TU/Corbel(1)/m/n/12 consultar en cualquier momento la cantidad de
+ []
+
+
+Underfull \hbox (badness 7685) in paragraph at lines 855--856
+[]\TU/Corbel(1)/m/n/12 Actualmente, los clientes son notificados de
+ []
+
+
+LaTeX Warning: File `latex/background_numberimpar.pdf' not found on input line 
+864.
+
+
+! Package graphics Error: Division by 0.
+
+See the graphics package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.864 ...pter{Internet of Behavior}\label{freddy}}
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! Package graphics Error: Division by 0.
+
+See the graphics package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.864 ...pter{Internet of Behavior}\label{freddy}}
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+File: latex/background_numberimpar.pdf Graphic file (type pdf)
+<use latex/background_numberimpar.pdf>
+! Unable to load picture or PDF file 'latex/background_numberimpar.pdf'.
+<to be read again> 
+                   \GPT@clipend 
+l.864 ...pter{Internet of Behavior}\label{freddy}}
+                                                  
+The requested image couldn't be read because
+it was not a recognized image format.
+
+[11]
+Artículo 3.
+File: images/fRamirez_image1.png Graphic file (type bmp)
+<images/fRamirez_image1.png>
+
+Underfull \hbox (badness 10000) in paragraph at lines 873--875
+\TU/Corbel(1)/m/n/12 dido como el análisis de toda la información
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 873--875
+\TU/Corbel(1)/m/n/12 y con esto, las empresas buscan métodos de
+ []
+
+
+Underfull \hbox (badness 6542) in paragraph at lines 889--890
+\TU/Corbel(1)/m/n/12 la información recaudada por los distintos sitios,
+ []
+
+
+Underfull \hbox (badness 7685) in paragraph at lines 889--890
+\TU/Corbel(1)/m/n/12 dispositivos móviles y dispositivos de IoT. Se le
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 889--890
+\TU/Corbel(1)/m/n/12 dispositivos de IoT; sin embargo, el analizar la
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 894--895
+[]\TU/Corbel(1)/m/n/12 Las predicciones que Peter Cashmore expone
+ []
+
+
+Underfull \hbox (badness 5832) in paragraph at lines 894--895
+\TU/Corbel(1)/m/n/12 en su artículo The Top 10 tech trends for 2012
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 894--895
+\TU/Corbel(1)/m/n/12 ofrecen una vista clara que las redes sociales
+ []
+
+
+Underfull \hbox (badness 6157) in paragraph at lines 894--895
+\TU/Corbel(1)/m/n/12 que hacemos y vemos sin tener que interactuar
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 894--895
+\TU/Corbel(1)/m/n/12 donde inicia la acumulación de información sin
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 896--898
+[]\TU/Corbel(1)/m/n/12 Con tanta información en las redes sociales
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 913--914
+\TU/Corbel(1)/m/n/12 Recuperado de: []$[][][][][] [] [] [] [][][][][][][] [] []
+[][][] [] [][][][][][]$[].
+ []
+
+
+Overfull \vbox (8.39346pt too high) has occurred while \output is active []
+
+
+
+LaTeX Warning: File `latex/background_numberpar.pdf' not found on input line 91
+6.
+
+
+! Package graphics Error: Division by 0.
+
+See the graphics package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.916 \end {multicols}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! Package graphics Error: Division by 0.
+
+See the graphics package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.916 \end {multicols}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+File: latex/background_numberpar.pdf Graphic file (type pdf)
+<use latex/background_numberpar.pdf>
+! Unable to load picture or PDF file 'latex/background_numberpar.pdf'.
+<to be read again> 
+                   \GPT@clipend 
+l.916 \end {multicols}
+                      
+The requested image couldn't be read because
+it was not a recognized image format.
+
+[12
+
+]
+
+LaTeX Warning: File `latex/background_numberimpar.pdf' not found on input line 
+922.
+
+
+! Package graphics Error: Division by 0.
+
+See the graphics package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.922 ...nanza de la información}\label{cArzudia}}
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! Package graphics Error: Division by 0.
+
+See the graphics package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.922 ...nanza de la información}\label{cArzudia}}
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+File: latex/background_numberimpar.pdf Graphic file (type pdf)
+<use latex/background_numberimpar.pdf>
+! Unable to load picture or PDF file 'latex/background_numberimpar.pdf'.
+<to be read again> 
+                   \GPT@clipend 
+l.922 ...nanza de la información}\label{cArzudia}}
+                                                  
+The requested image couldn't be read because
+it was not a recognized image format.
+
+[13]
+Artículo 4.
+File: images/jAzurdia_image1.png Graphic file (type bmp)
+<images/jAzurdia_image1.png>
+
+Underfull \hbox (badness 6559) in paragraph at lines 931--932
+[]\TU/Corbel(1)/m/n/12 La gobernanza de datos ayuda a realizar una
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 931--932
+\TU/Corbel(1)/m/n/12 administración adecuada respecto de cualquier
+ []
+
+
+Underfull \hbox (badness 5302) in paragraph at lines 936--937
+\TU/Corbel(1)/m/n/12 La gobernanza de datos es una combinación de
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 941--942
+[]\TU/Corbel(1)/m/n/12 Información, administración, análisis, gestión,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 946--947
+[]\TU/Corbel(1)/m/n/12 La gobernanza de datos está empezando a
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 946--947
+\TU/Corbel(1)/m/n/12 introducirse en empresas que desean tener una
+ []
+
+
+Underfull \hbox (badness 6995) in paragraph at lines 961--963
+[]\TU/Corbel(1)/m/n/12 Calidad de datos: mejorar la calidad de los
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 961--963
+\TU/Corbel(1)/m/n/12 datos es una actividad constante para una
+ []
+
+
+! LaTeX Error: File `images/arzudia_01' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.973 ...s[width=0.8\linewidth]{images/arzudia_01}
+                                                   \end{center}
+I could not locate the file with any of these extensions:
+.pdf,.PDF,.ai,.AI,.png,.PNG,.jpg,.JPG,.jpeg,.JPEG,.jp2,.JP2,.jpf,.JPF,.bmp,.BMP
+,.ps,.PS,.eps,.EPS,.mps,.MPS,.pz,.eps.Z,.ps.Z,.ps.gz,.eps.gz
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: File `latex/background_numberpar.pdf' not found on input line 98
+2.
+
+
+! Package graphics Error: Division by 0.
+
+See the graphics package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.982 
+      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! Package graphics Error: Division by 0.
+
+See the graphics package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.982 
+      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+File: latex/background_numberpar.pdf Graphic file (type pdf)
+<use latex/background_numberpar.pdf>
+! Unable to load picture or PDF file 'latex/background_numberpar.pdf'.
+<to be read again> 
+                   \GPT@clipend 
+l.982 
+      
+The requested image couldn't be read because
+it was not a recognized image format.
+
+[14
+
+]
+
+! LaTeX Error: File `images/arzudia_02' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.986 ...s[width=0.8\linewidth]{images/arzudia_02}
+                                                   \end{center}
+I could not locate the file with any of these extensions:
+.pdf,.PDF,.ai,.AI,.png,.PNG,.jpg,.JPG,.jpeg,.JPEG,.jp2,.JP2,.jpf,.JPF,.bmp,.BMP
+,.ps,.PS,.eps,.EPS,.mps,.MPS,.pz,.eps.Z,.ps.Z,.ps.gz,.eps.gz
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 987--987
+[]\TU/Corbel(1)/m/n/12 Figura 4.2: []Profisee (s.f). The Data Governance
+ []
+
+
+Underfull \hbox (badness 6927) in paragraph at lines 993--994
+[]\TU/Corbel(1)/m/n/12 Un ejemplo de la gobernanza de datos es la
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1003--1005
+[]\TU/Corbel(1)/m/n/12 Una gobernanza de datos ayuda al análisis
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1005--1007
+[]\TU/Corbel(1)/m/n/12 Este modelo propone definir propietarios,
+ []
+
+
+Underfull \hbox (badness 6125) in paragraph at lines 1007--1008
+\TU/Corbel(1)/m/n/12 control de los suministros que una empresa
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1015--1017
+\TU/Corbel(1)/m/n/12 Guide to Data Governance (DG). Hubspot.].
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1015--1017
+\TU/Corbel(1)/m/n/12 Recuperado de: []$[][][][][] [] [] [] [][][][][][][] [] []
+[][][] [] [][][][][][]$[].
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1017--1019
+\TU/Corbel(1)/m/n/12 of business Is composable]. Recuperado de:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1019--1021
+\TU/Corbel(1)/m/n/12 Lake: la política de datos a nuestro favor].
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1019--1021
+\TU/Corbel(1)/m/n/12 Recuperado de: []$[][][][][] [] [] [] [][][][][][][] [] []
+[][][] [] [][][][][][]$[].
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1021--1023
+[]\TU/Corbel(1)/m/n/12 [4] [PowerData (s.f)][Desmitificando el Data
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1021--1023
+\TU/Corbel(1)/m/n/12 Recuperado de: []$[][][][][] [] [] [] [][][][][][][] [] []
+[][][] [] [][][][][][]$[].
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1023--1025
+[]\TU/Corbel(1)/m/n/12 [5] [PROFISEE (s.f)][Data Governance: What,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1025--1026
+[]\TU/Corbel(1)/m/n/12 [6] [Prometeus.(s.f)][Alinea los datos a la
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1025--1026
+\TU/Corbel(1)/m/n/12 estrategia de tu organización, bienvenido al
+ []
+
+
+Underfull \hbox (badness 6316) in paragraph at lines 1025--1026
+\TU/Corbel(1)/m/n/12 de 2019]. Recuperado de: []$[][][][][] [] [] [] [][][][][]
+[][] [] [][][][] []
+ []
+
+
+LaTeX Warning: File `latex/background_numberimpar.pdf' not found on input line 
+1034.
+
+
+! Package graphics Error: Division by 0.
+
+See the graphics package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1034 \chapter{Experiencia total}\label{Estrada}}
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! Package graphics Error: Division by 0.
+
+See the graphics package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1034 \chapter{Experiencia total}\label{Estrada}}
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+File: latex/background_numberimpar.pdf Graphic file (type pdf)
+<use latex/background_numberimpar.pdf>
+! Unable to load picture or PDF file 'latex/background_numberimpar.pdf'.
+<to be read again> 
+                   \GPT@clipend 
+l.1034 \chapter{Experiencia total}\label{Estrada}}
+                                                  
+The requested image couldn't be read because
+it was not a recognized image format.
+
+[15]
+Artículo 5.
+File: images/jEstrada_image1.png Graphic file (type bmp)
+<images/jEstrada_image1.png>
+
+Underfull \hbox (badness 10000) in paragraph at lines 1043--1044
+\TU/Corbel(1)/m/n/12 2021: experiencia total. Esta tendencia combina
+ []
+
+
+Overfull \hbox (2.1688pt too wide) in paragraph at lines 1043--1044
+\TU/Corbel(1)/m/n/12 multiexperiencia, experiencia del cliente, del empleado
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1048--1049
+\TU/Corbel(1)/m/n/12 The total experience combines multi-experience,
+ []
+
+
+Underfull \hbox (badness 7433) in paragraph at lines 1058--1059
+[]\TU/Corbel(1)/m/n/12 Tradicionalmente se han tratado por separado
+ []
+
+
+! LaTeX Error: File `images/estrada_01' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1070 ...cs[width=1\linewidth]{images/estrada_01}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.PDF,.ai,.AI,.png,.PNG,.jpg,.JPG,.jpeg,.JPEG,.jp2,.JP2,.jpf,.JPF,.bmp,.BMP
+,.ps,.PS,.eps,.EPS,.mps,.MPS,.pz,.eps.Z,.ps.Z,.ps.gz,.eps.gz
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1079--1080
+\TU/Corbel(1)/m/n/12 Las organizaciones están realizando importantes
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1083--1084
+\TU/Corbel(1)/m/n/12 más de 50 métricas de CX, algunas hasta 200;
+ []
+
+
+Underfull \hbox (badness 6284) in paragraph at lines 1092--1094
+\TU/Corbel(1)/m/n/12 usabilidad y funcionalidad de su producto o
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1094--1096
+\TU/Corbel(1)/m/n/12 general, la sensación y la calidad de sus
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1096--1097
+[]\TU/Corbel(1)/m/n/12 La experiencia del empleado: hace alusión
+ []
+
+
+LaTeX Warning: File `latex/background_numberpar.pdf' not found on input line 10
+97.
+
+
+! Package graphics Error: Division by 0.
+
+See the graphics package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1097 \end{itemize}
+                    
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! Package graphics Error: Division by 0.
+
+See the graphics package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1097 \end{itemize}
+                    
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+File: latex/background_numberpar.pdf Graphic file (type pdf)
+<use latex/background_numberpar.pdf>
+! Unable to load picture or PDF file 'latex/background_numberpar.pdf'.
+<to be read again> 
+                   \GPT@clipend 
+l.1097 \end{itemize}
+                    
+The requested image couldn't be read because
+it was not a recognized image format.
+
+[16
+
+]
+Underfull \hbox (badness 7415) in paragraph at lines 1102--1103
+\TU/Corbel(1)/m/n/12 incluidos el trabajo remoto, los clientes móviles,
+ []
+
+
+Overfull \hbox (1.01955pt too wide) in paragraph at lines 1110--1111
+[]\TU/Corbel(1)/m/n/12 [1] [Panneta, K. (2020)][Las principales tendencias
+ []
+
+
+LaTeX Warning: File `latex/background_numberimpar.pdf' not found on input line 
+1119.
+
+
+! Package graphics Error: Division by 0.
+
+See the graphics package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1119 \chapter{Realidad aumentada}\label{ramiro}}
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! Package graphics Error: Division by 0.
+
+See the graphics package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1119 \chapter{Realidad aumentada}\label{ramiro}}
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+File: latex/background_numberimpar.pdf Graphic file (type pdf)
+<use latex/background_numberimpar.pdf>
+! Unable to load picture or PDF file 'latex/background_numberimpar.pdf'.
+<to be read again> 
+                   \GPT@clipend 
+l.1119 \chapter{Realidad aumentada}\label{ramiro}}
+                                                  
+The requested image couldn't be read because
+it was not a recognized image format.
+
+[17]
+Artículo 6.
+File: images/jMateo_image1.png Graphic file (type bmp)
+<images/jMateo_image1.png>
+
+Underfull \hbox (badness 10000) in paragraph at lines 1128--1129
+[]\TU/Corbel(1)/m/n/12 La realidad virtual es una tecnología que ha
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1128--1129
+\TU/Corbel(1)/m/n/12 aumentado considerablemente con ingresos de
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1143--1144
+[]\TU/Corbel(1)/m/n/12 El auge del marketing digital ha hecho que
+ []
+
+
+Underfull \hbox (badness 7081) in paragraph at lines 1143--1144
+\TU/Corbel(1)/m/n/12 que la tecnología se ha vuelto una herramienta
+ []
+
+
+Underfull \hbox (badness 7649) in paragraph at lines 1143--1144
+\TU/Corbel(1)/m/n/12 la realidad aumentada es ideal para realizar las
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1148--1149
+\TU/Corbel(1)/m/n/12 La realidad virtual busca reemplazar la realidad
+ []
+
+
+LaTeX Warning: File `latex/background_numberpar.pdf' not found on input line 11
+50.
+
+
+! Package graphics Error: Division by 0.
+
+See the graphics package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1150 L
+        a realidad aumentada es una forma de la realidad, pero más precisa; ...
+
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! Package graphics Error: Division by 0.
+
+See the graphics package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1150 L
+        a realidad aumentada es una forma de la realidad, pero más precisa; ...
+
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+File: latex/background_numberpar.pdf Graphic file (type pdf)
+<use latex/background_numberpar.pdf>
+! Unable to load picture or PDF file 'latex/background_numberpar.pdf'.
+<to be read again> 
+                   \GPT@clipend 
+l.1150 L
+        a realidad aumentada es una forma de la realidad, pero más precisa; ...
+The requested image couldn't be read because
+it was not a recognized image format.
+
+[18
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 1150--1151
+[]\TU/Corbel(1)/m/n/12 La realidad aumentada es una forma de la
+ []
+
+
+Underfull \hbox (badness 5533) in paragraph at lines 1150--1151
+\TU/Corbel(1)/m/n/12 el Google glass. Estos lentes permiten conseguir
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1150--1151
+\TU/Corbel(1)/m/n/12 información referente a rutas, clima, negocios,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1152--1153
+\TU/Corbel(1)/m/n/12 digital para sobreponer información sobre los
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1152--1153
+\TU/Corbel(1)/m/n/12 formatos convencionales de imágenes, vídeos o
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1152--1153
+\TU/Corbel(1)/m/n/12 esta tecnología superpone datos generados por
+ []
+
+
+Underfull \hbox (badness 7814) in paragraph at lines 1159--1160
+\TU/Corbel(1)/m/n/12 a la realidad aumentada los usuarios no vivirán
+ []
+
+
+Underfull \hbox (badness 5787) in paragraph at lines 1159--1160
+\TU/Corbel(1)/m/n/12 únicamente una campaña de marketing más. Se
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1163--1164
+[]\TU/Corbel(1)/m/n/12 La realidad aumentada favorece el inicio de
+ []
+
+
+Underfull \hbox (badness 6220) in paragraph at lines 1165--1166
+[]\TU/Corbel(1)/m/n/12 La realidad aumentada busca el requerimiento
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1165--1166
+\TU/Corbel(1)/m/n/12 primordial que se desea de toda campaña de
+ []
+
+
+! LaTeX Error: File `images/ramiro_01' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1170 ...ics[width=1\linewidth]{images/ramiro_01}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.PDF,.ai,.AI,.png,.PNG,.jpg,.JPG,.jpeg,.JPEG,.jp2,.JP2,.jpf,.JPF,.bmp,.BMP
+,.ps,.PS,.eps,.EPS,.mps,.MPS,.pz,.eps.Z,.ps.Z,.ps.gz,.eps.gz
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1180--1181
+[]\TU/Corbel(1)/m/n/12 La realidad aumentada como herramienta de
+ []
+
+
+Overfull \hbox (0.51288pt too wide) in paragraph at lines 1180--1181
+\TU/Corbel(1)/m/n/12 marketing digital es un activo potencial que aumentará
+ []
+
+
+Underfull \hbox (badness 5563) in paragraph at lines 1187--1189
+[]\TU/Corbel(1)/m/n/12 [1] [Arreguin González, J. F. (2014)][Realidad
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1189--1191
+[] [] [][][][][][][] [] [][][][] [] [][][][][][]$[]\TU/Corbel(1)/m/n/12 . [Últi
+mo acceso: 30 de
+ []
+
+
+LaTeX Warning: File `latex/background_numberimpar.pdf' not found on input line 
+1193.
+
+
+! Package graphics Error: Division by 0.
+
+See the graphics package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1193   {
+          [}4{]} {[}Neosentec (2018){]}{[}Realidad Aumentada. D{]}. Recupera...
+
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! Package graphics Error: Division by 0.
+
+See the graphics package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1193   {
+          [}4{]} {[}Neosentec (2018){]}{[}Realidad Aumentada. D{]}. Recupera...
+
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+File: latex/background_numberimpar.pdf Graphic file (type pdf)
+<use latex/background_numberimpar.pdf>
+! Unable to load picture or PDF file 'latex/background_numberimpar.pdf'.
+<to be read again> 
+                   \GPT@clipend 
+l.1193   {
+          [}4{]} {[}Neosentec (2018){]}{[}Realidad Aumentada. D{]}. Recupera...
+The requested image couldn't be read because
+it was not a recognized image format.
+
+[19]
+Underfull \hbox (badness 10000) in paragraph at lines 1193--1194
+[]\TU/Corbel(1)/m/n/12 [4] [Neosentec (2018)][Realidad Aumentada.
+ []
+
+
+LaTeX Warning: File `latex/background_numberpar.pdf' not found on input line 12
+02.
+
+
+! Package graphics Error: Division by 0.
+
+See the graphics package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1202 ...dencias tecnológicas 2021}\label{marco}}
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! Package graphics Error: Division by 0.
+
+See the graphics package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1202 ...dencias tecnológicas 2021}\label{marco}}
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+File: latex/background_numberpar.pdf Graphic file (type pdf)
+<use latex/background_numberpar.pdf>
+! Unable to load picture or PDF file 'latex/background_numberpar.pdf'.
+<to be read again> 
+                   \GPT@clipend 
+l.1202 ...dencias tecnológicas 2021}\label{marco}}
+                                                  
+The requested image couldn't be read because
+it was not a recognized image format.
+
+[20]
+Artículo 7.
+File: images/mChavez_image1.png Graphic file (type bmp)
+<images/mChavez_image1.png>
+
+Underfull \hbox (badness 7415) in paragraph at lines 1211--1212
+\TU/Corbel(1)/m/n/12 nosotros; sin embargo, aún no se ha explotado
+ []
+
+
+Underfull \hbox (badness 5446) in paragraph at lines 1211--1212
+\TU/Corbel(1)/m/n/12 lo suficiente este campo. Durante estos años se
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1211--1212
+\TU/Corbel(1)/m/n/12 tienen nuevas tecnologías de asistencia virtual
+ []
+
+
+Underfull \hbox (badness 5050) in paragraph at lines 1226--1228
+\TU/Corbel(1)/m/n/12 el 2010 hasta la fecha; se evaluará la razón del
+ []
+
+
+Underfull \hbox (badness 5504) in paragraph at lines 1226--1228
+\TU/Corbel(1)/m/n/12 tecnologías que están sobresaliendo son aquellas
+ []
+
+
+! LaTeX Error: File `images/marco_01' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1237 ...cs[width=0.9\linewidth]{images/marco_01}
+                                                   \end{center}
+I could not locate the file with any of these extensions:
+.pdf,.PDF,.ai,.AI,.png,.PNG,.jpg,.JPG,.jpeg,.JPEG,.jp2,.JP2,.jpf,.JPF,.bmp,.BMP
+,.ps,.PS,.eps,.EPS,.mps,.MPS,.pz,.eps.Z,.ps.Z,.ps.gz,.eps.gz
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1238--1238
+[]\TU/Corbel(1)/m/n/12 Figura 7.1: []Fuente: Gartner (2021), Consultado
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1238--1238
+\TU/Corbel(1)/m/n/12 el 30 de octubre de 2022. Recuperado de
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1243--1244
+\TU/Corbel(1)/m/n/12 virtuales de inteligencia artificial, de facturación
+ []
+
+
+Underfull \hbox (badness 7451) in paragraph at lines 1245--1246
+\TU/Corbel(1)/m/n/12 y Tecnologías, dando a conocer, además de los
+ []
+
+
+Overfull \hbox (1.49574pt too wide) in paragraph at lines 1249--1251
+[]\TU/Corbel(1)/m/n/12 Interfaces y experiencias: son aquellas tecnologías
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1249--1251
+\TU/Corbel(1)/m/n/12 que están cambiando el modo en que se
+ []
+
+
+Overfull \hbox (1.06624pt too wide) in paragraph at lines 1251--1254
+[]\TU/Corbel(1)/m/n/12 Habilitadores empresariales: son aquellas tecnolo-
+ []
+
+
+Underfull \hbox (badness 7759) in paragraph at lines 1254--1255
+[]\TU/Corbel(1)/m/n/12 Revolución de la productividad: la unión de
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1254--1255
+\TU/Corbel(1)/m/n/12 a organizaciones a operar de manera más
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1254--1255
+\TU/Corbel(1)/m/n/12 eficiente para resolver problemas que estas
+ []
+
+
+Underfull \hbox (badness 6094) in paragraph at lines 1259--1262
+\TU/Corbel(1)/m/n/12 funciones como reconocimiento facial y sensores
+ []
+
+
+Underfull \hbox (badness 5316) in paragraph at lines 1259--1262
+\TU/Corbel(1)/m/n/12 biométricos. Por ejemplo, un bot presente en la
+ []
+
+
+LaTeX Warning: File `latex/background_numberimpar.pdf' not found on input line 
+1262.
+
+
+! Package graphics Error: Division by 0.
+
+See the graphics package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1262 
+       
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! Package graphics Error: Division by 0.
+
+See the graphics package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1262 
+       
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+File: latex/background_numberimpar.pdf Graphic file (type pdf)
+<use latex/background_numberimpar.pdf>
+! Unable to load picture or PDF file 'latex/background_numberimpar.pdf'.
+<to be read again> 
+                   \GPT@clipend 
+l.1262 
+       
+The requested image couldn't be read because
+it was not a recognized image format.
+
+[21
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 1278--1281
+\TU/Corbel(1)/m/n/12 palabras como secuencias en una oración. Esta
+ []
+
+
+Overfull \hbox (0.76173pt too wide) in paragraph at lines 1278--1281
+\TU/Corbel(1)/m/n/12 tecnología también mejora la traducción, transcripción
+ []
+
+
+Underfull \hbox (badness 6708) in paragraph at lines 1278--1281
+\TU/Corbel(1)/m/n/12 de comercialización de 1 a 3 años. Capacidades
+ []
+
+
+Underfull \hbox (badness 5274) in paragraph at lines 1278--1281
+\TU/Corbel(1)/m/n/12 o crean. Para admitir el negocio componible los
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1278--1281
+\TU/Corbel(1)/m/n/12 empresariales empaquetadas que representen un
+ []
+
+
+Overfull \hbox (1.97382pt too wide) in paragraph at lines 1278--1281
+\TU/Corbel(1)/m/n/12 conjunto bien definido de características empresariales
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1284--1285
+\TU/Corbel(1)/m/n/12 y contextual superpuesto en personas, objetos
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1284--1285
+\TU/Corbel(1)/m/n/12 y ubicaciones, para proporcionar a las personas
+ []
+
+
+Underfull \hbox (badness 7981) in paragraph at lines 1289--1290
+\TU/Corbel(1)/m/n/12 protagonismo. En el área de ciberseguridad, los
+ []
+
+
+Underfull \hbox (badness 5217) in paragraph at lines 1289--1290
+\TU/Corbel(1)/m/n/12 algoritmos permitirán detectar múltiples tipos de
+ []
+
+
+Overfull \hbox (2.54184pt too wide) in paragraph at lines 1293--1294
+\TU/Corbel(1)/m/n/12 según Gartner, citado por Jordan (2021), las tecnologías
+ []
+
+
+Underfull \hbox (badness 5847) in paragraph at lines 1293--1294
+\TU/Corbel(1)/m/n/12 la actual modalidad de trabajo maduraron sobre
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1309--1310
+[] [] [][][][][][][] [] [][][][] [] [][][][][][]$[]\TU/Corbel(1)/m/n/12 . [Últi
+mo acceso: 30 de
+ []
+
+
+LaTeX Warning: File `latex/background_numberpar.pdf' not found on input line 13
+10.
+
+
+! Package graphics Error: Division by 0.
+
+See the graphics package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1310 \end{itemize}
+                    
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! Package graphics Error: Division by 0.
+
+See the graphics package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1310 \end{itemize}
+                    
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+File: latex/background_numberpar.pdf Graphic file (type pdf)
+<use latex/background_numberpar.pdf>
+! Unable to load picture or PDF file 'latex/background_numberpar.pdf'.
+<to be read again> 
+                   \GPT@clipend 
+l.1310 \end{itemize}
+                    
+The requested image couldn't be read because
+it was not a recognized image format.
+
+[22]
+
+LaTeX Warning: File `latex/background_numberimpar.pdf' not found on input line 
+1318.
+
+
+! Package graphics Error: Division by 0.
+
+See the graphics package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1318 ...de protocolos de salud?}\label{cJuarez}}
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! Package graphics Error: Division by 0.
+
+See the graphics package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1318 ...de protocolos de salud?}\label{cJuarez}}
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+File: latex/background_numberimpar.pdf Graphic file (type pdf)
+<use latex/background_numberimpar.pdf>
+! Unable to load picture or PDF file 'latex/background_numberimpar.pdf'.
+<to be read again> 
+                   \GPT@clipend 
+l.1318 ...de protocolos de salud?}\label{cJuarez}}
+                                                  
+The requested image couldn't be read because
+it was not a recognized image format.
+
+[23]
+Artículo 8.
+File: images/mSic_image1.png Graphic file (type bmp)
+<images/mSic_image1.png>
+
+Underfull \hbox (badness 7486) in paragraph at lines 1329--1330
+\TU/Corbel(1)/m/n/12 solución muy útil para la nueva situación de la
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1329--1330
+\TU/Corbel(1)/m/n/12 humanidad: COVID-19. Cada compañía quiere
+ []
+
+
+Underfull \hbox (badness 6063) in paragraph at lines 1329--1330
+\TU/Corbel(1)/m/n/12 ¿Qué pasa si la tecnología pudiera resolver este
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1329--1330
+\TU/Corbel(1)/m/n/12 ¿Cómo? Con esta nueva tecnología de Gartner:
+ []
+
+
+Underfull \hbox (badness 5475) in paragraph at lines 1334--1336
+\TU/Corbel(1)/m/n/12 company wants security and guidelines for “new
+ []
+
+
+Overfull \hbox (0.66098pt too wide) in paragraph at lines 1340--1341
+[]\TU/Corbel(1)/m/n/12 COVID-19, internet del comportamiento, tecnología
+ []
+
+
+Underfull \hbox (badness 6608) in paragraph at lines 1345--1346
+[]\TU/Corbel(1)/m/n/12 Hoy en día debido a la pandemia que se ha
+ []
+
+
+Overfull \hbox (1.29573pt too wide) in paragraph at lines 1345--1346
+\TU/Corbel(1)/m/n/12 presentado en el mundo, COVID-19, muchas empresas,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1345--1346
+\TU/Corbel(1)/m/n/12 requiere mucha observación; dejar esa tarea en
+ []
+
+
+Underfull \hbox (badness 6675) in paragraph at lines 1350--1355
+\TU/Corbel(1)/m/n/12 de dispositivos conectados a una misma red de
+ []
+
+
+Underfull \hbox (badness 7468) in paragraph at lines 1350--1355
+\TU/Corbel(1)/m/n/12 para un estudio de mercadeo que signifique un
+ []
+
+
+! LaTeX Error: File `images/mariana' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1359 ...ics[width=0.8\linewidth]{images/mariana}
+                                                   \end{center}
+I could not locate the file with any of these extensions:
+.pdf,.PDF,.ai,.AI,.png,.PNG,.jpg,.JPG,.jpeg,.JPEG,.jp2,.JP2,.jpf,.JPF,.bmp,.BMP
+,.ps,.PS,.eps,.EPS,.mps,.MPS,.pz,.eps.Z,.ps.Z,.ps.gz,.eps.gz
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Underfull \hbox (badness 6995) in paragraph at lines 1366--1367
+\TU/Corbel(1)/m/n/12 conceptos envuelven otros útiles para soluciones
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1366--1367
+\TU/Corbel(1)/m/n/12 de tecnología, análisis de datos y ciencia del
+ []
+
+
+LaTeX Warning: File `latex/background_numberpar.pdf' not found on input line 13
+69.
+
+
+! Package graphics Error: Division by 0.
+
+See the graphics package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1369 
+       
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! Package graphics Error: Division by 0.
+
+See the graphics package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1369 
+       
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+File: latex/background_numberpar.pdf Graphic file (type pdf)
+<use latex/background_numberpar.pdf>
+! Unable to load picture or PDF file 'latex/background_numberpar.pdf'.
+<to be read again> 
+                   \GPT@clipend 
+l.1369 
+       
+The requested image couldn't be read because
+it was not a recognized image format.
+
+[24
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 1373--1374
+[]\TU/Corbel(1)/m/n/12 Algunas aplicaciones del Internet of Behavior
+ []
+
+
+Underfull \hbox (badness 6445) in paragraph at lines 1396--1398
+[]\TU/Corbel(1)/m/n/12 [2] [Costello, K. y Rimol, M. (2020)][Gartner
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1396--1398
+[] [] [][][][][][][] [] [][][][] [] [][][][][][]$[]\TU/Corbel(1)/m/n/12 . [Últi
+mo acceso: 30 de
+ []
+
+
+LaTeX Warning: File `latex/background_numberimpar.pdf' not found on input line 
+1409.
+
+
+! Package graphics Error: Division by 0.
+
+See the graphics package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1409 ... del distanciamiento social}\label{tun}}
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! Package graphics Error: Division by 0.
+
+See the graphics package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1409 ... del distanciamiento social}\label{tun}}
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+File: latex/background_numberimpar.pdf Graphic file (type pdf)
+<use latex/background_numberimpar.pdf>
+! Unable to load picture or PDF file 'latex/background_numberimpar.pdf'.
+<to be read again> 
+                   \GPT@clipend 
+l.1409 ... del distanciamiento social}\label{tun}}
+                                                  
+The requested image couldn't be read because
+it was not a recognized image format.
+
+[25]
+Artículo 9.
+File: images/mTun_image1.png Graphic file (type bmp)
+<images/mTun_image1.png>
+
+Underfull \hbox (badness 6236) in paragraph at lines 1418--1419
+\TU/Corbel(1)/m/n/12 del Covid-19. El cumplimiento de dichas normas
+ []
+
+
+Underfull \hbox (badness 5504) in paragraph at lines 1418--1419
+\TU/Corbel(1)/m/n/12 herramientas automatizadas, desde prototipos de
+ []
+
+
+Underfull \hbox (badness 5189) in paragraph at lines 1418--1419
+\TU/Corbel(1)/m/n/12 de cómputo y programas que ayudan a que los
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1428--1429
+[]\TU/Corbel(1)/m/n/12 Robótica, Softwares, innovación, Home office,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1433--1434
+\TU/Corbel(1)/m/n/12 tiempos de pandemia, la población y empresas
+ []
+
+
+Underfull \hbox (badness 7540) in paragraph at lines 1442--1444
+[]\TU/Corbel(1)/m/n/12 Inteligencia artificial: es la habilidad de una
+ []
+
+
+LaTeX Warning: File `latex/background_numberpar.pdf' not found on input line 14
+46.
+
+
+! Package graphics Error: Division by 0.
+
+See the graphics package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1446   T
+          ecnología 5G: esta nueva tecnología móvil aumentará la velocidad d...
+
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! Package graphics Error: Division by 0.
+
+See the graphics package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1446   T
+          ecnología 5G: esta nueva tecnología móvil aumentará la velocidad d...
+
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+File: latex/background_numberpar.pdf Graphic file (type pdf)
+<use latex/background_numberpar.pdf>
+! Unable to load picture or PDF file 'latex/background_numberpar.pdf'.
+<to be read again> 
+                   \GPT@clipend 
+l.1446   T
+          ecnología 5G: esta nueva tecnología móvil aumentará la velocidad d...
+The requested image couldn't be read because
+it was not a recognized image format.
+
+[26
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 1446--1448
+[]\TU/Corbel(1)/m/n/12 Tecnología 5G: esta nueva tecnología móvil
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1453--1454
+[]\TU/Corbel(1)/m/n/12 Para tener una mejor idea de por qué estas
+ []
+
+
+! LaTeX Error: File `images/tum01' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1458 ...raphics[width=1\linewidth]{images/tum01}
+                                                   \end{center}
+I could not locate the file with any of these extensions:
+.pdf,.PDF,.ai,.AI,.png,.PNG,.jpg,.JPG,.jpeg,.JPEG,.jp2,.JP2,.jpf,.JPF,.bmp,.BMP
+,.ps,.PS,.eps,.EPS,.mps,.MPS,.pz,.eps.Z,.ps.Z,.ps.gz,.eps.gz
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: File `images/tum02' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1467 ...hics[width=0.95\linewidth]{images/tum02}
+                                                   \end{center}
+I could not locate the file with any of these extensions:
+.pdf,.PDF,.ai,.AI,.png,.PNG,.jpg,.JPG,.jpeg,.JPEG,.jp2,.JP2,.jpf,.JPF,.bmp,.BMP
+,.ps,.PS,.eps,.EPS,.mps,.MPS,.pz,.eps.Z,.ps.Z,.ps.gz,.eps.gz
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: File `images/tum4' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1478 ...graphics[width=1\linewidth]{images/tum4}
+                                                   \end{center}
+I could not locate the file with any of these extensions:
+.pdf,.PDF,.ai,.AI,.png,.PNG,.jpg,.JPG,.jpeg,.JPEG,.jp2,.JP2,.jpf,.JPF,.bmp,.BMP
+,.ps,.PS,.eps,.EPS,.mps,.MPS,.pz,.eps.Z,.ps.Z,.ps.gz,.eps.gz
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1479--1479
+[]\TU/Corbel(1)/m/n/12 Figura 9.3: []Fuente: Canal de YouTube
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1479--1479
+\TU/Corbel(1)/m/n/12 Vodafone Empresas. Recuperado de:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1484--1485
+[]\TU/Corbel(1)/m/n/12 A continuación, se presenta otro modelo de
+ []
+
+
+! LaTeX Error: File `images/tum5' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1489 ...graphics[width=1\linewidth]{images/tum5}
+                                                   \end{center}
+I could not locate the file with any of these extensions:
+.pdf,.PDF,.ai,.AI,.png,.PNG,.jpg,.JPG,.jpeg,.JPEG,.jp2,.JP2,.jpf,.JPF,.bmp,.BMP
+,.ps,.PS,.eps,.EPS,.mps,.MPS,.pz,.eps.Z,.ps.Z,.ps.gz,.eps.gz
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (6.42694pt too wide) in paragraph at lines 1500--1502
+[]\TU/Corbel(1)/m/n/12 Para mantener un distanciamiento social adecuado
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1511--1512
+[] [] [][][][][][][] [] [][][][] [] [][][][][][]$[]\TU/Corbel(1)/m/n/12 . [Últi
+mo acceso: 30 de
+ []
+
+
+LaTeX Warning: File `latex/background_numberimpar.pdf' not found on input line 
+1520.
+
+
+! Package graphics Error: Division by 0.
+
+See the graphics package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1520 ...que mejora la privacidad}\label{widvin}}
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! Package graphics Error: Division by 0.
+
+See the graphics package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1520 ...que mejora la privacidad}\label{widvin}}
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+File: latex/background_numberimpar.pdf Graphic file (type pdf)
+<use latex/background_numberimpar.pdf>
+! Unable to load picture or PDF file 'latex/background_numberimpar.pdf'.
+<to be read again> 
+                   \GPT@clipend 
+l.1520 ...que mejora la privacidad}\label{widvin}}
+                                                  
+The requested image couldn't be read because
+it was not a recognized image format.
+
+[27]
+Artículo 10.
+File: images/wQuiñonez_image1.png Graphic file (type bmp)
+<images/wQuiñonez_image1.png>
+
+Underfull \hbox (badness 10000) in paragraph at lines 1534--1535
+[]\TU/Corbel(1)/m/n/12 Computación, privacidad, digital, tecnologías,
+ []
+
+
+Underfull \hbox (badness 5475) in paragraph at lines 1539--1540
+\TU/Corbel(1)/m/n/12 diversos sitios que frecuentamos en internet. De
+ []
+
+
+Underfull \hbox (badness 8189) in paragraph at lines 1544--1545
+\TU/Corbel(1)/m/n/12 Existen diversas formas de ver la privacidad en
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1552--1553
+[]\TU/Corbel(1)/m/n/12 Es un registro consensuado donde todos los
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1556--1557
+\TU/Corbel(1)/m/n/12 importante en la industria tecnológica. Existen
+ []
+
+
+LaTeX Warning: File `latex/background_numberpar.pdf' not found on input line 15
+57.
+
+
+! Package graphics Error: Division by 0.
+
+See the graphics package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1557 
+       
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! Package graphics Error: Division by 0.
+
+See the graphics package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1557 
+       
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+File: latex/background_numberpar.pdf Graphic file (type pdf)
+<use latex/background_numberpar.pdf>
+! Unable to load picture or PDF file 'latex/background_numberpar.pdf'.
+<to be read again> 
+                   \GPT@clipend 
+l.1557 
+       
+The requested image couldn't be read because
+it was not a recognized image format.
+
+[28
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 1558--1559
+\TU/Corbel(1)/m/n/12 metodológica para la empresa, donde se puede
+ []
+
+
+Underfull \hbox (badness 7151) in paragraph at lines 1558--1559
+\TU/Corbel(1)/m/n/12 datos de nivel 1, que se refieren a información
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1562--1563
+[]\TU/Corbel(1)/m/n/12 Cuando se habla de seguridad del diseño de
+ []
+
+
+Overfull \hbox (11.63593pt too wide) in paragraph at lines 1562--1563
+\TU/Corbel(1)/m/n/12 hardware en general se hace referencia a la incorporación
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1562--1563
+\TU/Corbel(1)/m/n/12 de la seguridad adecuada en el diseño de los
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1562--1563
+\TU/Corbel(1)/m/n/12 componentes de cómputo en todo el ciclo de
+ []
+
+
+Underfull \hbox (badness 5288) in paragraph at lines 1562--1563
+\TU/Corbel(1)/m/n/12 puedan respaldar esa seguridad a futuro para el
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1562--1563
+\TU/Corbel(1)/m/n/12 prácticas de programación puede evitarse dejar
+ []
+
+
+Overfull \hbox (0.16524pt too wide) in paragraph at lines 1567--1568
+[]\TU/Corbel(1)/m/n/12 A continuación, se presentan modelos de protección
+ []
+
+File: images/wQuiñonez_image2.png Graphic file (type bmp)
+<images/wQuiñonez_image2.png>
+File: images/wQuiñonez_image3.png Graphic file (type bmp)
+<images/wQuiñonez_image3.png>
+File: images/wQuiñonez_image4.png Graphic file (type bmp)
+<images/wQuiñonez_image4.png>
+
+Underfull \hbox (badness 10000) in paragraph at lines 1591--1591
+[]\TU/Corbel(1)/m/n/12 Figura 10.3: []Fuente: Redeszone. Recuperado de
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1621--1623
+[]\TU/Corbel(1)/m/n/12 [2] [Red Seguridad (2021)][El gran desafío
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1621--1623
+\TU/Corbel(1)/m/n/12 de la ciberseguridad en el sector sanitario].
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1621--1623
+\TU/Corbel(1)/m/n/12 Recuperado de: []$[][][][][] [] [] [] [][][][][][][] [] []
+[][][] [] [][][][][][]$[].
+ []
+
+
+LaTeX Warning: File `latex/background_numberimpar.pdf' not found on input line 
+1624.
+
+
+! Package graphics Error: Division by 0.
+
+See the graphics package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1624 \end{itemize}
+                    
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! Package graphics Error: Division by 0.
+
+See the graphics package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1624 \end{itemize}
+                    
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+File: latex/background_numberimpar.pdf Graphic file (type pdf)
+<use latex/background_numberimpar.pdf>
+! Unable to load picture or PDF file 'latex/background_numberimpar.pdf'.
+<to be read again> 
+                   \GPT@clipend 
+l.1624 \end{itemize}
+                    
+The requested image couldn't be read because
+it was not a recognized image format.
+
+[29]
+
+LaTeX Warning: File `latex/background_numberpar.pdf' not found on input line 16
+32.
+
+
+! Package graphics Error: Division by 0.
+
+See the graphics package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1632 ...s Prácticas Profesionales}\label{mayra}}
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! Package graphics Error: Division by 0.
+
+See the graphics package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1632 ...s Prácticas Profesionales}\label{mayra}}
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+File: latex/background_numberpar.pdf Graphic file (type pdf)
+<use latex/background_numberpar.pdf>
+! Unable to load picture or PDF file 'latex/background_numberpar.pdf'.
+<to be read again> 
+                   \GPT@clipend 
+l.1632 ...s Prácticas Profesionales}\label{mayra}}
+                                                  
+The requested image couldn't be read because
+it was not a recognized image format.
+
+[30]
+Artículo 11.
+
+! LaTeX Error: File `images/MscMayra_02' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1634 ...s[width=1\linewidth]{images/MscMayra_02}
+                                                   \end{center}
+I could not locate the file with any of these extensions:
+.pdf,.PDF,.ai,.AI,.png,.PNG,.jpg,.JPG,.jpeg,.JPEG,.jp2,.JP2,.jpf,.JPF,.bmp,.BMP
+,.ps,.PS,.eps,.EPS,.mps,.MPS,.pz,.eps.Z,.ps.Z,.ps.gz,.eps.gz
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Underfull \hbox (badness 6559) in paragraph at lines 1641--1642
+\TU/Corbel(1)/m/n/12 debe estar encaminada hacia una sola dirección:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1643--1645
+\TU/Corbel(1)/m/n/12 encia de los futuros profesionales y su entrada
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1643--1645
+\TU/Corbel(1)/m/n/12 estudiantes y representa una oportunidad para
+ []
+
+
+Underfull \hbox (badness 7221) in paragraph at lines 1646--1647
+[]\TU/Corbel(1)/m/n/12 Se puede decir que la práctica profesional es
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1646--1647
+\TU/Corbel(1)/m/n/12 también el proceso en el cual el estudiante se
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1646--1647
+\TU/Corbel(1)/m/n/12 en el proceso educativo, para aplicar todos los
+ []
+
+
+Underfull \hbox (badness 6608) in paragraph at lines 1653--1654
+[]\TU/Corbel(1)/m/n/12 Práctica profesional, habilidades, características,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1658--1659
+[]\TU/Corbel(1)/m/n/12 La práctica profesional es un proceso muy
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1658--1659
+\TU/Corbel(1)/m/n/12 importante para todo estudiante, porque es el
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1665--1666
+\TU/Corbel(1)/m/n/12 exigen profesionales eficientes para desarrollar
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1665--1666
+\TU/Corbel(1)/m/n/12 objetivos de la compañía. Para tener un buen
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1665--1666
+\TU/Corbel(1)/m/n/12 pues es de suma importancia la adquisición de
+ []
+
+
+Underfull \hbox (badness 6396) in paragraph at lines 1667--1668
+\TU/Corbel(1)/m/n/12 la investigación permanente y la acción práctica.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1667--1668
+\TU/Corbel(1)/m/n/12 Pretenden generar conocimientos, productos y
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1669--1670
+\TU/Corbel(1)/m/n/12 componentes se consolida una formación más
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1671--1672
+[]\TU/Corbel(1)/m/n/12 Según Castellanos (2008, p. 3), “la práctica
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1671--1672
+\TU/Corbel(1)/m/n/12 y supervisado por asesores externos y tutores,
+ []
+
+
+Underfull \hbox (badness 8056) in paragraph at lines 1671--1672
+\TU/Corbel(1)/m/n/12 “La Práctica Profesional constituye una actividad
+ []
+
+
+LaTeX Warning: File `latex/background_numberimpar.pdf' not found on input line 
+1672.
+
+
+! Package graphics Error: Division by 0.
+
+See the graphics package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1672 
+       
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! Package graphics Error: Division by 0.
+
+See the graphics package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1672 
+       
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+File: latex/background_numberimpar.pdf Graphic file (type pdf)
+<use latex/background_numberimpar.pdf>
+! Unable to load picture or PDF file 'latex/background_numberimpar.pdf'.
+<to be read again> 
+                   \GPT@clipend 
+l.1672 
+       
+The requested image couldn't be read because
+it was not a recognized image format.
+
+[31
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 1673--1674
+\TU/Corbel(1)/m/n/12 para tener un buen desempeño en el mercado
+ []
+
+
+Underfull \hbox (badness 6775) in paragraph at lines 1673--1674
+\TU/Corbel(1)/m/n/12 de la ciencia y la tecnología (Díaz Pérez, 2012).
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1673--1674
+\TU/Corbel(1)/m/n/12 que permita emprender negocios en diferentes
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1675--1676
+\TU/Corbel(1)/m/n/12 de investigación, análisis, síntesis, resolución de
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1675--1676
+\TU/Corbel(1)/m/n/12 problemas, manejo de software avanzado, así
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1677--1678
+\TU/Corbel(1)/m/n/12 más valoradas son la capacidad para formar y
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1677--1678
+\TU/Corbel(1)/m/n/12 trabajar en equipo, la posibilidad de establecer
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1677--1678
+\TU/Corbel(1)/m/n/12 una comunicación adecuada y el liderazgo. Las
+ []
+
+
+Underfull \hbox (badness 7256) in paragraph at lines 1679--1680
+\TU/Corbel(1)/m/n/12 practicar para poder desarrollarlas y potenciarlas
+ []
+
+
+Underfull \hbox (badness 7907) in paragraph at lines 1679--1680
+\TU/Corbel(1)/m/n/12 fortalecer harán que las habilidades surjan y se
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1683--1685
+[]\TU/Corbel(1)/m/n/12 Es una actividad sustantiva de la formación
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1683--1685
+\TU/Corbel(1)/m/n/12 rios, que permite la aplicación práctica de los
+ []
+
+
+Underfull \hbox (badness 5475) in paragraph at lines 1686--1687
+\TU/Corbel(1)/m/n/12 universidades suele fomentarse el aprendizaje de
+ []
+
+
+Underfull \hbox (badness 5970) in paragraph at lines 1686--1687
+\TU/Corbel(1)/m/n/12 perplejo a la hora de aplicarlas a la experiencia
+ []
+
+
+Underfull \hbox (badness 5563) in paragraph at lines 1686--1687
+\TU/Corbel(1)/m/n/12 un puente entre ambas situaciones que implican
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1686--1687
+\TU/Corbel(1)/m/n/12 un primer aproximamiento mediante prácticas
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1686--1687
+\TU/Corbel(1)/m/n/12 que están escasamente remuneradas, pero que
+ []
+
+
+Underfull \hbox (badness 5924) in paragraph at lines 1694--1696
+[]\TU/Corbel(1)/m/n/12 Promueven la motivación y curiosidad en el
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1696--1698
+\TU/Corbel(1)/m/n/12 ante situaciones profesionales y sociables,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1702--1704
+[]\TU/Corbel(1)/m/n/12 Advierten al futuro egresado acerca de la
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1704--1706
+[]\TU/Corbel(1)/m/n/12 Forman para la elaboración de informes y
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1706--1708
+[]\TU/Corbel(1)/m/n/12 Promueven aprendizajes a través de una
+ []
+
+
+LaTeX Warning: File `latex/background_numberpar.pdf' not found on input line 17
+12.
+
+
+! Package graphics Error: Division by 0.
+
+See the graphics package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1712   E
+          xtienden el aprendizaje más allá del aula o campus.
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! Package graphics Error: Division by 0.
+
+See the graphics package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1712   E
+          xtienden el aprendizaje más allá del aula o campus.
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+File: latex/background_numberpar.pdf Graphic file (type pdf)
+<use latex/background_numberpar.pdf>
+! Unable to load picture or PDF file 'latex/background_numberpar.pdf'.
+<to be read again> 
+                   \GPT@clipend 
+l.1712   E
+          xtienden el aprendizaje más allá del aula o campus.
+The requested image couldn't be read because
+it was not a recognized image format.
+
+[32]
+Overfull \hbox (0.44061pt too wide) in paragraph at lines 1714--1715
+[]\TU/Corbel(1)/m/n/12 Los estudiantes adquieren certeza de la necesidad
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1719--1720
+[]\TU/Corbel(1)/m/n/12 Es una excelente oportunidad para entrar al
+ []
+
+
+Underfull \hbox (badness 6691) in paragraph at lines 1719--1720
+\TU/Corbel(1)/m/n/12 sector profesional que el estudiante eligió como
+ []
+
+
+Underfull \hbox (badness 7925) in paragraph at lines 1721--1722
+\TU/Corbel(1)/m/n/12 conocer cómo funcionan las dinámicas laborales,
+ []
+
+
+Underfull \hbox (badness 6047) in paragraph at lines 1723--1724
+\TU/Corbel(1)/m/n/12 de trabajo relacionados con el área. Algunas de
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1743--1744
+\TU/Corbel(1)/m/n/12 la Universidad de San Carlos de Guatemala, a
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1743--1744
+\TU/Corbel(1)/m/n/12 contribuyendo a la solución de la problemática
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1747--1750
+\TU/Corbel(1)/m/n/12 de Ingeniería presenta las opciones de práctica
+ []
+
+
+Underfull \hbox (badness 5036) in paragraph at lines 1747--1750
+\TU/Corbel(1)/m/n/12 laboral, práctica docente y Empresarios Juveniles.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1747--1750
+\TU/Corbel(1)/m/n/12 realizadas por alguien denominado “practicante”,
+ []
+
+
+Underfull \hbox (badness 6445) in paragraph at lines 1747--1750
+\TU/Corbel(1)/m/n/12 que se encuentra trabajando de forma temporal
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1747--1750
+\TU/Corbel(1)/m/n/12 en algún lugar, poniendo especial énfasis en el
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1747--1750
+\TU/Corbel(1)/m/n/12 proceso de aprendizaje y entrenamiento laboral.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1747--1750
+\TU/Corbel(1)/m/n/12 La práctica docente constituye un proceso de
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1747--1750
+\TU/Corbel(1)/m/n/12 actividades académico-docentes, esencialmente
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1751--1752
+\TU/Corbel(1)/m/n/12 que consiste en la ejecución de actividades de
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1751--1752
+\TU/Corbel(1)/m/n/12 de estudiantes de las carreras que se imparten
+ []
+
+
+Underfull \hbox (badness 5681) in paragraph at lines 1751--1752
+\TU/Corbel(1)/m/n/12 afines, según la naturaleza de la investigación a
+ []
+
+
+Underfull \hbox (badness 7888) in paragraph at lines 1755--1756
+\TU/Corbel(1)/m/n/12 o privada. Así mismo, con la práctica se busca
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1766--1768
+[]\TU/Corbel(1)/m/n/12 Propiciar la continuación del aprendizaje, el
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1768--1769
+[]\TU/Corbel(1)/m/n/12 Complementar los saberes teóricos con las
+ []
+
+
+Underfull \hbox (badness 7256) in paragraph at lines 1776--1778
+[]\TU/Corbel(1)/m/n/12 Es una oportunidad de selección de futuros
+ []
+
+
+LaTeX Warning: File `latex/background_numberimpar.pdf' not found on input line 
+1778.
+
+
+! Package graphics Error: Division by 0.
+
+See the graphics package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1778   P
+          ermite una visión de la institución por una persona ajena a la misma.
+
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! Package graphics Error: Division by 0.
+
+See the graphics package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1778   P
+          ermite una visión de la institución por una persona ajena a la misma.
+
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+File: latex/background_numberimpar.pdf Graphic file (type pdf)
+<use latex/background_numberimpar.pdf>
+! Unable to load picture or PDF file 'latex/background_numberimpar.pdf'.
+<to be read again> 
+                   \GPT@clipend 
+l.1778   P
+          ermite una visión de la institución por una persona ajena a la misma.
+The requested image couldn't be read because
+it was not a recognized image format.
+
+[33]
+Overfull \hbox (0.97186pt too wide) in paragraph at lines 1780--1781
+[]\TU/Corbel(1)/m/n/12 Las instituciones son coformadoras del estudiante
+ []
+
+
+Overfull \hbox (4.44923pt too wide) in paragraph at lines 1785--1786
+\TU/Corbel(1)/m/n/12 organizaciones gubernamentales, no gubernamentales
+ []
+
+
+Underfull \hbox (badness 7613) in paragraph at lines 1789--1790
+\TU/Corbel(1)/m/n/12 mejores impresiones para dejar huella donde se
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1789--1790
+\TU/Corbel(1)/m/n/12 profesional. A continuación, se mencionarán los
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1791--1792
+[]\TU/Corbel(1)/m/n/12 Distintas investigaciones de evaluación de la
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1791--1792
+\TU/Corbel(1)/m/n/12 carrera: comunicación oral y escrita, capacidad
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1791--1792
+\TU/Corbel(1)/m/n/12 para analizar y resolver problemas, aplicaciones
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1793--1794
+\TU/Corbel(1)/m/n/12 edificio, entrevistas de trabajo y escritura del
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1793--1794
+\TU/Corbel(1)/m/n/12 curriculum vitae, como variables determinantes
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1798--1800
+[]\TU/Corbel(1)/m/n/12 Habilidades de comunicación, incluyendo
+ []
+
+
+Overfull \hbox (5.50197pt too wide) in paragraph at lines 1798--1800
+\TU/Corbel(1)/m/n/12 presentaciones orales, la redacción de propuestas
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1800--1801
+[]\TU/Corbel(1)/m/n/12 Habilidades académicas como la capacidad
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1800--1801
+\TU/Corbel(1)/m/n/12 el pensamiento creativo, la búsqueda de
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1800--1801
+\TU/Corbel(1)/m/n/12 información y resolución de problemas se
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1813--1815
+[]\TU/Corbel(1)/m/n/12 [1] [Castellanos, A. (2008).][Desarrollo de la
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1813--1815
+\TU/Corbel(1)/m/n/12 práctica profesional, para una integración
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1815--1817
+\TU/Corbel(1)/m/n/12 prácticas profesionales en la formación en
+ []
+
+
+Overfull \hbox (2.10353pt too wide) in paragraph at lines 1820--1822
+[]\TU/Corbel(1)/m/n/12 [4] [Durham, R. C. (1979).][Lewinsohn’s behavioral
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1820--1822
+\TU/Corbel(1)/m/n/12 measures of social skill: Their stability and
+ []
+
+
+Underfull \hbox (badness 6510) in paragraph at lines 1820--1822
+\TU/Corbel(1)/m/n/12 35, 599-604.]. Recuperado de: []$[][][][][] [] [] [] [][][
+][][][][] []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1822--1824
+[]\TU/Corbel(1)/m/n/12 [5] [EPS. Unidad de Ejercicio Profesional
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1822--1824
+\TU/Corbel(1)/m/n/12 Supervisado][Descripción de EPS. Facultad
+ []
+
+
+Underfull \hbox (badness 6268) in paragraph at lines 1822--1824
+\TU/Corbel(1)/m/n/12 de Ingeniería, Universidad de San Carlos de
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1824--1826
+[]\TU/Corbel(1)/m/n/12 [6] [Escuela de Administración, Universidad
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1824--1826
+\TU/Corbel(1)/m/n/12 de Rosario. (s.f.).][Características y tipos de
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1824--1826
+\TU/Corbel(1)/m/n/12 prácticas. Bogotá, Colombia.]. Recuperado
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1824--1826
+\TU/Corbel(1)/m/n/12 de:[]$[][][][][] [] [] [] [][][][][][][] [] [][][][] [] []
+[][][][][]$[]. [Último acceso:
+ []
+
+
+LaTeX Warning: File `latex/background_numberpar.pdf' not found on input line 18
+26.
+
+
+! Package graphics Error: Division by 0.
+
+See the graphics package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1826   {
+          [}7{]} {[}Ferreyra, M. G. (2007). {]}{[}Determinantes del desempeñ...
+
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! Package graphics Error: Division by 0.
+
+See the graphics package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1826   {
+          [}7{]} {[}Ferreyra, M. G. (2007). {]}{[}Determinantes del desempeñ...
+
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+File: latex/background_numberpar.pdf Graphic file (type pdf)
+<use latex/background_numberpar.pdf>
+! Unable to load picture or PDF file 'latex/background_numberpar.pdf'.
+<to be read again> 
+                   \GPT@clipend 
+l.1826   {
+          [}7{]} {[}Ferreyra, M. G. (2007). {]}{[}Determinantes del desempeñ...
+The requested image couldn't be read because
+it was not a recognized image format.
+
+[34]
+Underfull \hbox (badness 10000) in paragraph at lines 1826--1828
+[] [] [][][][][][][] [] [][][][] [] [][][][][][]$[]\TU/Corbel(1)/m/n/12 . [Últi
+mo acceso: 30 de
+ []
+
+
+Underfull \hbox (badness 7722) in paragraph at lines 1828--1830
+\TU/Corbel(1)/m/n/12 in Library Schools. Journal of Education for
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1828--1830
+\TU/Corbel(1)/m/n/12 ]. Recuperado de:[]$[][][][][] [] [] [] [][][][][][][] [] 
+[][][][] [] [][][][][][]$[].
+ []
+
+
+Underfull \hbox (badness 6396) in paragraph at lines 1830--1832
+\TU/Corbel(1)/m/n/12 Volumen I. Maracaibo: Universidad del Zulia.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1830--1832
+\TU/Corbel(1)/m/n/12 Vicerrectorado Académico]. Recuperado de:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1832--1833
+\TU/Corbel(1)/m/n/12 reflexión sobre la práctica. Madrid: Morata.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1832--1833
+\TU/Corbel(1)/m/n/12 ]. Recuperado de: []$[][][][][] [] [] [] [][][][][][][] []
+ [][][][] [] [][][][][][]$[].
+ []
+
+
+LaTeX Warning: File `latex/background_numberimpar.pdf' not found on input line 
+1841.
+
+
+! Package graphics Error: Division by 0.
+
+See the graphics package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1841 ...os académicos de la USAC}\label{servio}}
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! Package graphics Error: Division by 0.
+
+See the graphics package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1841 ...os académicos de la USAC}\label{servio}}
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+File: latex/background_numberimpar.pdf Graphic file (type pdf)
+<use latex/background_numberimpar.pdf>
+! Unable to load picture or PDF file 'latex/background_numberimpar.pdf'.
+<to be read again> 
+                   \GPT@clipend 
+l.1841 ...os académicos de la USAC}\label{servio}}
+                                                  
+The requested image couldn't be read because
+it was not a recognized image format.
+
+[35]
+Artículo 12.
+
+! LaTeX Error: File `images/servio' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1843 ...aphics[width=1\linewidth]{images/servio}
+                                                   \end{center}
+I could not locate the file with any of these extensions:
+.pdf,.PDF,.ai,.AI,.png,.PNG,.jpg,.JPG,.jpeg,.JPEG,.jp2,.JP2,.jpf,.JPF,.bmp,.BMP
+,.ps,.PS,.eps,.EPS,.mps,.MPS,.pz,.eps.Z,.ps.Z,.ps.gz,.eps.gz
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1850--1851
+\TU/Corbel(1)/m/n/12 DEPPA, el cual se desarrollaba anteriormente a
+ []
+
+
+Underfull \hbox (badness 8094) in paragraph at lines 1850--1851
+\TU/Corbel(1)/m/n/12 Este nuevo sistema empieza a implementarse a
+ []
+
+
+Underfull \hbox (badness 6641) in paragraph at lines 1850--1851
+\TU/Corbel(1)/m/n/12 capacitación a todos los catedráticos y personal,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1855--1856
+[]\TU/Corbel(1)/m/n/12 This work was developed mainly due to the
+ []
+
+
+Underfull \hbox (badness 6741) in paragraph at lines 1855--1856
+\TU/Corbel(1)/m/n/12 need to solve and optimize the existing system
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1855--1856
+\TU/Corbel(1)/m/n/12 at headquarters and regional level. This update
+ []
+
+
+Underfull \hbox (badness 7133) in paragraph at lines 1855--1856
+\TU/Corbel(1)/m/n/12 envisages a change from the traditional way of
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1865--1866
+[]\TU/Corbel(1)/m/n/12 El Departamento de Evaluación y Promoción
+ []
+
+
+Underfull \hbox (badness 7595) in paragraph at lines 1865--1866
+\TU/Corbel(1)/m/n/12 del Personal Académico (DEPPA) pertenece a la
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1865--1866
+\TU/Corbel(1)/m/n/12 de realizar en forma sistemática el proceso de
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1870--1871
+\TU/Corbel(1)/m/n/12 del Personal Académico (DEPPA) a través del
+ []
+
+
+Underfull \hbox (badness 5832) in paragraph at lines 1870--1871
+\TU/Corbel(1)/m/n/12 cual se evalúan los méritos académicos de toda
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1870--1871
+\TU/Corbel(1)/m/n/12 la población docente de la USAC, tanto en la
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1870--1871
+\TU/Corbel(1)/m/n/12 requirió de una actualización acorde al avance
+ []
+
+
+Underfull \hbox (badness 6063) in paragraph at lines 1870--1871
+\TU/Corbel(1)/m/n/12 de la tecnología que permitiera beneficios en la
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1870--1871
+\TU/Corbel(1)/m/n/12 de programación Java y el Framework de Vue,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1870--1871
+\TU/Corbel(1)/m/n/12 dio como resultado la optimización del tiempo
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1870--1871
+\TU/Corbel(1)/m/n/12 en el proceso de evaluación y se evitaron las
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1870--1871
+\TU/Corbel(1)/m/n/12 complicaciones como recorrer grandes distancias
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1870--1871
+\TU/Corbel(1)/m/n/12 la incomodidad de hacer correcciones de forma
+ []
+
+
+LaTeX Warning: File `latex/background_numberpar.pdf' not found on input line 18
+71.
+
+
+! Package graphics Error: Division by 0.
+
+See the graphics package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1871 
+       
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! Package graphics Error: Division by 0.
+
+See the graphics package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1871 
+       
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+File: latex/background_numberpar.pdf Graphic file (type pdf)
+<use latex/background_numberpar.pdf>
+! Unable to load picture or PDF file 'latex/background_numberpar.pdf'.
+<to be read again> 
+                   \GPT@clipend 
+l.1871 
+       
+The requested image couldn't be read because
+it was not a recognized image format.
+
+[36
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 1882--1883
+\TU/Corbel(1)/m/n/12 académicos de docentes de la USAC, esto
+ []
+
+
+Overfull \hbox (5.30559pt too wide) in paragraph at lines 1890--1892
+[]\TU/Corbel(1)/m/n/12 [1] [Boguerín, Servio. (30 de julio de 2019)][Sistema
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1892--1893
+\TU/Corbel(1)/m/n/12 de 2020).][Departamento de Evaluación y
+ []
+
+No file CuartaEdicion-RevistaDigital.bbl.
+
+! Package pdfpages Error: Cannot find file `images/contraportada.pdf'.
+
+See the pdfpages package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1906 \includepdf{images/contraportada.pdf}
+                                            
+(That was another \errmessage.)
+
+
+! Package pdfpages Error: Cannot find file `1'.
+
+See the pdfpages package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1906 \includepdf{images/contraportada.pdf}
+                                            
+(That was another \errmessage.)
+
+! Undefined control sequence.
+\AM@checkpagenumber #1->\ifnum #1>\AM@pagecount 
+                                                \relax \ifthenelse {\boolean...
+l.1906 \includepdf{images/contraportada.pdf}
+                                            
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   \relax 
+l.1906 \includepdf{images/contraportada.pdf}
+                                            
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+
+! Package pdfpages Error: Page 1 of `\AM@currentdocname ' does not exist.
+
+See the pdfpages package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1906 \includepdf{images/contraportada.pdf}
+                                            
+You have set a wrong page number in the `pages' option. Document 
+`\AM@currentdocname ' does not have 1 pages.
+
+
+LaTeX Warning: File `latex/background_numberimpar.pdf' not found on input line 
+1909.
+
+
+! Package graphics Error: Division by 0.
+
+See the graphics package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1909 \end{document}
+                     
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! Package graphics Error: Division by 0.
+
+See the graphics package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1909 \end{document}
+                     
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+File: latex/background_numberimpar.pdf Graphic file (type pdf)
+<use latex/background_numberimpar.pdf>
+! Unable to load picture or PDF file 'latex/background_numberimpar.pdf'.
+<to be read again> 
+                   \GPT@clipend 
+l.1909 \end{document}
+                     
+The requested image couldn't be read because
+it was not a recognized image format.
+
+[37]
+The property list \polyglossia@langsetup contains the pairs (without outer
+braces):
+>  {latex/script}  =>  {latin}
+>  {latex/lcscript}  =>  {latin}
+>  {latex/scripttag}  =>  {}
+>  {latex/language}  =>  {Latex}
+>  {latex/langtag}  =>  {ENG}
+>  {latex/bcp47}  =>  {}
+>  {latex/hyphennames}  =>  {english}
+>  {latex/direction}  =>  {LR}
+>  {latex/hyphenmins}  =>  {2,3}
+>  {latex/frenchspacing}  =>  {false}
+>  {latex/indentfirst}  =>  {false}
+>  {latex/fontsetup}  =>  {true}
+>  {latex/envname}  =>  {latex}
+>  {latex/babelname}  =>  {latex}
+>  {latex/localnumeral}  =>  {polyglossia@C@localnumeral}
+>  {latex/Localnumeral}  =>  {polyglossia@C@localnumeral}
+>  {latex/DefineCommandsCmd}  =>  {use_none:n}
+>  {spanish/script}  =>  {latin}
+>  {spanish/lcscript}  =>  {latin}
+>  {spanish/scripttag}  =>  {}
+>  {spanish/language}  =>  {Spanish}
+>  {spanish/langtag}  =>  {ESP}
+>  {spanish/bcp47}  =>  {es-ES}
+>  {spanish/hyphennames}  =>  {spanish}
+>  {spanish/direction}  =>  {LR}
+>  {spanish/hyphenmins}  =>  {2,2}
+>  {spanish/frenchspacing}  =>  {true}
+>  {spanish/indentfirst}  =>  {true}
+>  {spanish/fontsetup}  =>  {true}
+>  {spanish/envname}  =>  {spanish}
+>  {spanish/babelname}  =>  {spanish}
+>  {spanish/localnumeral}  =>  {polyglossia@C@localnumeral}
+>  {spanish/Localnumeral}  =>  {polyglossia@C@localnumeral}
+>  {spanish/DefineCommandsCmd}  =>  {xpg_define_language_commands:e}
+>  {spanish/totalhyphenmin}  =>  {5}.
+The property list \__xpg_alias contains the pairs (without outer braces):
+>  {latex/target}  =>  {latex}
+>  {spanish/target}  =>  {spanish}
+>  {es/target}  =>  {spanish}
+>  {es-MX/target}  =>  {spanish}
+>  {es-MX/variant}  =>  {mexican}
+>  {es-MX/options}  =>  {variant=mexican}
+>  {es-ES/target}  =>  {spanish}
+>  {es-ES/variant}  =>  {spanish}
+>  {es-ES/options}  =>  {variant=spanish}
+>  {spanishmx/target}  =>  {spanish}
+>  {spanishmx/variant}  =>  {mexican}
+>  {spanishmx/options}  =>  {variant=mexican}.
+
+
+Package longtable Warning: Table widths have changed. Rerun LaTeX.
+
+(CuartaEdicion-RevistaDigital.aux
+LaTeX Info: Redefining \rmfamily on input line 22.
+LaTeX Info: Redefining \sffamily on input line 22.
+LaTeX Info: Redefining \ttfamily on input line 22.
+)
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+
+Package rerunfilecheck Warning: File `CuartaEdicion-RevistaDigital.out' has cha
+nged.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `CuartaEdicion-RevistaDigital.out':
+(rerunfilecheck)             Before: A5A636949933B4B594B22C83B7D67228;4417
+(rerunfilecheck)             After:  EAF81F4C8FA22118F37BC837746CEBF5;3669.
+ ) 
+Here is how much of TeX's memory you used:
+ 31418 strings out of 412016
+ 614595 string characters out of 2844936
+ 1098588 words of memory out of 3000000
+ 50491 multiletter control sequences out of 15000+200000
+ 416218 words of font info for 65 fonts, out of 3000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 95i,13n,123p,1219b,1156s stack positions out of 5000i,500n,10000p,200000b,50000s
+
+Output written on CuartaEdicion-RevistaDigital.pdf (37 pages).

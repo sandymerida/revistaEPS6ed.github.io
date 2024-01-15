@@ -1,0 +1,352 @@
+<!DOCTYPE html>
+<html lang="es" xml:lang="es">
+<head>
+
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <title>7 Implementación del sistema de inventarios para la sección de contabilidad del Instituto Nacional de Ciencias Forenses de Guatemala | Revista digital de la escuela de ingeniería en Ciencias y Sistemas</title>
+  <meta name="description" content="Edición de Revista Digital en Formatos: GitBook, EPUB, PDF" />
+  <meta name="generator" content="bookdown 0.32 and GitBook 2.6.7" />
+
+  <meta property="og:title" content="7 Implementación del sistema de inventarios para la sección de contabilidad del Instituto Nacional de Ciencias Forenses de Guatemala | Revista digital de la escuela de ingeniería en Ciencias y Sistemas" />
+  <meta property="og:type" content="book" />
+  <meta property="og:image" content="/images/cover.jpg" />
+  <meta property="og:description" content="Edición de Revista Digital en Formatos: GitBook, EPUB, PDF" />
+  
+
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:title" content="7 Implementación del sistema de inventarios para la sección de contabilidad del Instituto Nacional de Ciencias Forenses de Guatemala | Revista digital de la escuela de ingeniería en Ciencias y Sistemas" />
+  
+  <meta name="twitter:description" content="Edición de Revista Digital en Formatos: GitBook, EPUB, PDF" />
+  <meta name="twitter:image" content="/images/cover.jpg" />
+
+<meta name="author" content="Escuela Ingenieria en Ciencias y Sistemas" />
+
+
+<meta name="date" content="2024-01-14" />
+
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+  
+  
+<link rel="prev" href="06_art06.html"/>
+<link rel="next" href="08_art08.html"/>
+<script src="libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/fuse.js@6.4.6/dist/fuse.min.js"></script>
+<link href="libs/gitbook-2.6.7/css/style.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-table.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-bookdown.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-highlight.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-search.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-fontsettings.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-clipboard.css" rel="stylesheet" />
+
+
+
+
+
+
+
+
+<link href="libs/anchor-sections-1.1.0/anchor-sections.css" rel="stylesheet" />
+<link href="libs/anchor-sections-1.1.0/anchor-sections-hash.css" rel="stylesheet" />
+<script src="libs/anchor-sections-1.1.0/anchor-sections.js"></script>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-173QZVTSVK"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-173QZVTSVK');
+</script>
+
+
+
+
+<link rel="stylesheet" href="css/stylePre.css" type="text/css" />
+<link rel="stylesheet" href="css/toc.css" type="text/css" />
+<link rel="stylesheet" href="css/style-images.css" type="text/css" />
+</head>
+
+<body>
+
+
+
+  <div class="book without-animation with-summary font-size-2 font-family-1" data-basepath=".">
+
+    <div class="book-summary">
+      <nav role="navigation">
+
+<ul class="summary">
+<li class="chapter" data-level="" data-path="00_preface.html"><a href="00_preface.html"><i class="fa fa-check"></i>Editorial</a></li>
+<li class="chapter" data-level="1" data-path="01_art01.html"><a href="01_art01.html"><i class="fa fa-check"></i><b>1</b> Aportes del proceso de graduación modalidad EPS</a><ul>
+<li class="chapter" data-level="1.1" data-path="01_art01.html"><a href="01_art01.html#resumen"><i class="fa fa-check"></i><b>1.1</b> Resumen</a></li>
+<li class="chapter" data-level="1.2" data-path="01_art01.html"><a href="01_art01.html#palabras-claves"><i class="fa fa-check"></i><b>1.2</b> Palabras claves</a></li>
+<li class="chapter" data-level="1.3" data-path="01_art01.html"><a href="01_art01.html#introducción"><i class="fa fa-check"></i><b>1.3</b> Introducción</a></li>
+<li class="chapter" data-level="1.4" data-path="01_art01.html"><a href="01_art01.html#artículo"><i class="fa fa-check"></i><b>1.4</b> Artículo</a></li>
+<li class="chapter" data-level="1.5" data-path="01_art01.html"><a href="01_art01.html#conclusiones"><i class="fa fa-check"></i><b>1.5</b> Conclusiones</a></li>
+<li class="chapter" data-level="1.6" data-path="01_art01.html"><a href="01_art01.html#referencias"><i class="fa fa-check"></i><b>1.6</b> Referencias</a></li>
+</ul></li>
+<li class="chapter" data-level="2" data-path="02_art02.html"><a href="02_art02.html"><i class="fa fa-check"></i><b>2</b> Manejo de desechos sólidos en San Pedro La Laguna, Sololá</a><ul>
+<li class="chapter" data-level="2.1" data-path="02_art02.html"><a href="02_art02.html#resumen-1"><i class="fa fa-check"></i><b>2.1</b> Resumen</a></li>
+<li class="chapter" data-level="2.2" data-path="02_art02.html"><a href="02_art02.html#palabras-claves-1"><i class="fa fa-check"></i><b>2.2</b> Palabras claves</a></li>
+<li class="chapter" data-level="2.3" data-path="02_art02.html"><a href="02_art02.html#introducción-1"><i class="fa fa-check"></i><b>2.3</b> Introducción</a></li>
+<li class="chapter" data-level="2.4" data-path="02_art02.html"><a href="02_art02.html#artículo-1"><i class="fa fa-check"></i><b>2.4</b> Artículo</a></li>
+<li class="chapter" data-level="2.5" data-path="02_art02.html"><a href="02_art02.html#conclusiones-1"><i class="fa fa-check"></i><b>2.5</b> Conclusiones</a></li>
+<li class="chapter" data-level="2.6" data-path="02_art02.html"><a href="02_art02.html#referencias-1"><i class="fa fa-check"></i><b>2.6</b> Referencias</a></li>
+</ul></li>
+<li class="chapter" data-level="3" data-path="03_art03.html"><a href="03_art03.html"><i class="fa fa-check"></i><b>3</b> La virtualidad en el ambiente universitario por pandemia</a><ul>
+<li class="chapter" data-level="3.1" data-path="03_art03.html"><a href="03_art03.html#resumen-2"><i class="fa fa-check"></i><b>3.1</b> Resumen</a></li>
+<li class="chapter" data-level="3.2" data-path="03_art03.html"><a href="03_art03.html#palabras-claves-2"><i class="fa fa-check"></i><b>3.2</b> Palabras claves</a></li>
+<li class="chapter" data-level="3.3" data-path="03_art03.html"><a href="03_art03.html#introducción-2"><i class="fa fa-check"></i><b>3.3</b> Introducción</a></li>
+<li class="chapter" data-level="3.4" data-path="03_art03.html"><a href="03_art03.html#artículo-2"><i class="fa fa-check"></i><b>3.4</b> Artículo</a></li>
+<li class="chapter" data-level="3.5" data-path="03_art03.html"><a href="03_art03.html#conclusión"><i class="fa fa-check"></i><b>3.5</b> Conclusión</a></li>
+<li class="chapter" data-level="3.6" data-path="03_art03.html"><a href="03_art03.html#referencias-2"><i class="fa fa-check"></i><b>3.6</b> Referencias</a></li>
+</ul></li>
+<li class="chapter" data-level="4" data-path="04_art04.html"><a href="04_art04.html"><i class="fa fa-check"></i><b>4</b> Informe de Monitoreo de calidad de aire. Ciudad de Guatemala. Enero y febrero 2023.</a><ul>
+<li class="chapter" data-level="4.1" data-path="04_art04.html"><a href="04_art04.html#artículo-3"><i class="fa fa-check"></i><b>4.1</b> Artículo</a></li>
+<li class="chapter" data-level="4.2" data-path="04_art04.html"><a href="04_art04.html#recomendaciones"><i class="fa fa-check"></i><b>4.2</b> Recomendaciones</a></li>
+<li class="chapter" data-level="4.3" data-path="04_art04.html"><a href="04_art04.html#referencias-3"><i class="fa fa-check"></i><b>4.3</b> Referencias</a></li>
+</ul></li>
+<li class="chapter" data-level="5" data-path="05_art05.html"><a href="05_art05.html"><i class="fa fa-check"></i><b>5</b> Uso del concreto impermeable para plantas de tratamiento en Guatemala</a><ul>
+<li class="chapter" data-level="5.1" data-path="05_art05.html"><a href="05_art05.html#resumen-3"><i class="fa fa-check"></i><b>5.1</b> Resumen</a></li>
+<li class="chapter" data-level="5.2" data-path="05_art05.html"><a href="05_art05.html#palabras-claves-3"><i class="fa fa-check"></i><b>5.2</b> Palabras claves</a></li>
+<li class="chapter" data-level="5.3" data-path="05_art05.html"><a href="05_art05.html#introducción-3"><i class="fa fa-check"></i><b>5.3</b> Introducción</a></li>
+<li class="chapter" data-level="5.4" data-path="05_art05.html"><a href="05_art05.html#artículo-4"><i class="fa fa-check"></i><b>5.4</b> Artículo</a></li>
+<li class="chapter" data-level="5.5" data-path="05_art05.html"><a href="05_art05.html#conclusiones-2"><i class="fa fa-check"></i><b>5.5</b> Conclusiones</a></li>
+<li class="chapter" data-level="5.6" data-path="05_art05.html"><a href="05_art05.html#discusión-de-resultados"><i class="fa fa-check"></i><b>5.6</b> Discusión de resultados</a></li>
+<li class="chapter" data-level="5.7" data-path="05_art05.html"><a href="05_art05.html#recomendaciones-1"><i class="fa fa-check"></i><b>5.7</b> Recomendaciones</a></li>
+<li class="chapter" data-level="5.8" data-path="05_art05.html"><a href="05_art05.html#referencias-4"><i class="fa fa-check"></i><b>5.8</b> Referencias</a></li>
+</ul></li>
+<li class="chapter" data-level="6" data-path="06_art06.html"><a href="06_art06.html"><i class="fa fa-check"></i><b>6</b> Mejoras y desarrollo de nuevos módulos de materiales bibliográficos para la plataforma de Soy Económicas</a><ul>
+<li class="chapter" data-level="6.1" data-path="06_art06.html"><a href="06_art06.html#resumen-4"><i class="fa fa-check"></i><b>6.1</b> Resumen</a></li>
+<li class="chapter" data-level="6.2" data-path="06_art06.html"><a href="06_art06.html#abstract"><i class="fa fa-check"></i><b>6.2</b> Abstract</a></li>
+<li class="chapter" data-level="6.3" data-path="06_art06.html"><a href="06_art06.html#palabras-claves-4"><i class="fa fa-check"></i><b>6.3</b> Palabras claves</a></li>
+<li class="chapter" data-level="6.4" data-path="06_art06.html"><a href="06_art06.html#introducción-4"><i class="fa fa-check"></i><b>6.4</b> Introducción</a></li>
+<li class="chapter" data-level="6.5" data-path="06_art06.html"><a href="06_art06.html#artículo-5"><i class="fa fa-check"></i><b>6.5</b> Artículo</a></li>
+<li class="chapter" data-level="6.6" data-path="06_art06.html"><a href="06_art06.html#conclusiones-3"><i class="fa fa-check"></i><b>6.6</b> Conclusiones</a></li>
+<li class="chapter" data-level="6.7" data-path="06_art06.html"><a href="06_art06.html#recomendaciones-2"><i class="fa fa-check"></i><b>6.7</b> Recomendaciones</a></li>
+<li class="chapter" data-level="6.8" data-path="06_art06.html"><a href="06_art06.html#referencias-5"><i class="fa fa-check"></i><b>6.8</b> Referencias</a></li>
+</ul></li>
+<li class="chapter" data-level="7" data-path="07_art07.html"><a href="07_art07.html"><i class="fa fa-check"></i><b>7</b> Implementación del sistema de inventarios para la sección de contabilidad del Instituto Nacional de Ciencias Forenses de Guatemala</a><ul>
+<li class="chapter" data-level="7.1" data-path="07_art07.html"><a href="07_art07.html#resumen-5"><i class="fa fa-check"></i><b>7.1</b> Resumen</a></li>
+<li class="chapter" data-level="7.2" data-path="07_art07.html"><a href="07_art07.html#abstract-1"><i class="fa fa-check"></i><b>7.2</b> Abstract</a></li>
+<li class="chapter" data-level="7.3" data-path="07_art07.html"><a href="07_art07.html#palabras-claves-5"><i class="fa fa-check"></i><b>7.3</b> Palabras claves</a></li>
+<li class="chapter" data-level="7.4" data-path="07_art07.html"><a href="07_art07.html#introducción-5"><i class="fa fa-check"></i><b>7.4</b> Introducción</a></li>
+<li class="chapter" data-level="7.5" data-path="07_art07.html"><a href="07_art07.html#artículo-6"><i class="fa fa-check"></i><b>7.5</b> Artículo</a></li>
+<li class="chapter" data-level="7.6" data-path="07_art07.html"><a href="07_art07.html#conclusiones-4"><i class="fa fa-check"></i><b>7.6</b> Conclusiones</a></li>
+<li class="chapter" data-level="7.7" data-path="07_art07.html"><a href="07_art07.html#referencias-6"><i class="fa fa-check"></i><b>7.7</b> Referencias</a></li>
+</ul></li>
+<li class="chapter" data-level="8" data-path="08_art08.html"><a href="08_art08.html"><i class="fa fa-check"></i><b>8</b> Análisis, diseño y construcción del módulo de publicación de información para el Consejo Nacional de Áreas Protegidas</a><ul>
+<li class="chapter" data-level="8.1" data-path="08_art08.html"><a href="08_art08.html#resumen-6"><i class="fa fa-check"></i><b>8.1</b> Resumen</a></li>
+<li class="chapter" data-level="8.2" data-path="08_art08.html"><a href="08_art08.html#abstract-2"><i class="fa fa-check"></i><b>8.2</b> Abstract</a></li>
+<li class="chapter" data-level="8.3" data-path="08_art08.html"><a href="08_art08.html#palabras-claves-6"><i class="fa fa-check"></i><b>8.3</b> Palabras claves</a></li>
+<li class="chapter" data-level="8.4" data-path="08_art08.html"><a href="08_art08.html#introducción-6"><i class="fa fa-check"></i><b>8.4</b> Introducción</a></li>
+<li class="chapter" data-level="8.5" data-path="08_art08.html"><a href="08_art08.html#artículo-7"><i class="fa fa-check"></i><b>8.5</b> Artículo</a></li>
+<li class="chapter" data-level="8.6" data-path="08_art08.html"><a href="08_art08.html#conclusiones-5"><i class="fa fa-check"></i><b>8.6</b> Conclusiones</a></li>
+<li class="chapter" data-level="8.7" data-path="08_art08.html"><a href="08_art08.html#referencias-7"><i class="fa fa-check"></i><b>8.7</b> Referencias</a></li>
+</ul></li>
+<li class="chapter" data-level="9" data-path="09_art09.html"><a href="09_art09.html"><i class="fa fa-check"></i><b>9</b> Transformación digital de la herramienta de planificación estratégica del Consejo Nacional De Áreas Protegidas</a><ul>
+<li class="chapter" data-level="9.1" data-path="09_art09.html"><a href="09_art09.html#resumen-7"><i class="fa fa-check"></i><b>9.1</b> Resumen</a></li>
+<li class="chapter" data-level="9.2" data-path="09_art09.html"><a href="09_art09.html#abstract-3"><i class="fa fa-check"></i><b>9.2</b> Abstract</a></li>
+<li class="chapter" data-level="9.3" data-path="09_art09.html"><a href="09_art09.html#palabras-claves-7"><i class="fa fa-check"></i><b>9.3</b> Palabras claves</a></li>
+<li class="chapter" data-level="9.4" data-path="09_art09.html"><a href="09_art09.html#introducción-7"><i class="fa fa-check"></i><b>9.4</b> Introducción</a></li>
+<li class="chapter" data-level="9.5" data-path="09_art09.html"><a href="09_art09.html#artículo-8"><i class="fa fa-check"></i><b>9.5</b> Artículo</a></li>
+<li class="chapter" data-level="9.6" data-path="09_art09.html"><a href="09_art09.html#conclusiones-6"><i class="fa fa-check"></i><b>9.6</b> Conclusiones</a></li>
+<li class="chapter" data-level="9.7" data-path="09_art09.html"><a href="09_art09.html#recomendaciones-3"><i class="fa fa-check"></i><b>9.7</b> Recomendaciones</a></li>
+<li class="chapter" data-level="9.8" data-path="09_art09.html"><a href="09_art09.html#referencias-8"><i class="fa fa-check"></i><b>9.8</b> Referencias</a></li>
+</ul></li>
+<li class="chapter" data-level="10" data-path="10_art10.html"><a href="10_art10.html"><i class="fa fa-check"></i><b>10</b> Observabilidad aplicada</a><ul>
+<li class="chapter" data-level="10.1" data-path="10_art10.html"><a href="10_art10.html#resumen-8"><i class="fa fa-check"></i><b>10.1</b> Resumen</a></li>
+<li class="chapter" data-level="10.2" data-path="10_art10.html"><a href="10_art10.html#abstract-4"><i class="fa fa-check"></i><b>10.2</b> Abstract</a></li>
+<li class="chapter" data-level="10.3" data-path="10_art10.html"><a href="10_art10.html#palabras-claves-8"><i class="fa fa-check"></i><b>10.3</b> Palabras claves</a></li>
+<li class="chapter" data-level="10.4" data-path="10_art10.html"><a href="10_art10.html#introducción-8"><i class="fa fa-check"></i><b>10.4</b> Introducción</a></li>
+<li class="chapter" data-level="10.5" data-path="10_art10.html"><a href="10_art10.html#artículo-9"><i class="fa fa-check"></i><b>10.5</b> Artículo</a></li>
+<li class="chapter" data-level="10.6" data-path="10_art10.html"><a href="10_art10.html#conclusiones-7"><i class="fa fa-check"></i><b>10.6</b> Conclusiones</a></li>
+<li class="chapter" data-level="10.7" data-path="10_art10.html"><a href="10_art10.html#referencias-9"><i class="fa fa-check"></i><b>10.7</b> Referencias</a></li>
+<li class="chapter" data-level="10.8" data-path="10_art10.html"><a href="10_art10.html#anexos"><i class="fa fa-check"></i><b>10.8</b> Anexos</a></li>
+</ul></li>
+<li class="divider"></li>
+<li><a href="https://portal.ingenieria.usac.edu.gt" target="blank">Facultad de Ingeniería - USAC</a></li>
+
+</ul>
+
+      </nav>
+    </div>
+
+    <div class="book-body">
+      <div class="body-inner">
+        <div class="book-header" role="navigation">
+          <h1>
+            <i class="fa fa-circle-o-notch fa-spin"></i><a href="./">Revista digital de la escuela de ingeniería en Ciencias y Sistemas</a>
+          </h1>
+        </div>
+
+        <div class="page-wrapper" tabindex="-1" role="main">
+          <div class="page-inner">
+
+            <section class="normal" id="section-">
+<div id="art07" class="section level1 hasAnchor">
+<h1><span class="header-section-number">7</span> Implementación del sistema de inventarios para la sección de contabilidad del Instituto Nacional de Ciencias Forenses de Guatemala<a href="07_art07.html#art07" class="anchor-section" aria-label="Anchor link to header"></a></h1>
+<p><img src="autores/art7.png" width="100%" style="display: block; margin: auto;" /></p>
+
+<div id="resumen-5" class="section level2 hasAnchor">
+<h2><span class="header-section-number">7.1</span> Resumen<a href="07_art07.html#resumen-5" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<p>El Instituto Nacional de Ciencias Forenses de Guatemala (INACIF) se encuentra en un proceso de análisis y modernización de la plataforma tecnológica actual, con el afán de proveer soluciones a corto, mediano y largo plazo a todas sus unidades administrativas, y proveer información en tiempo real a nivel interno y externo.</p>
+<p>Actualmente la Sección de Contabilidad utiliza el Sistema de Contabilidad Integrado (SICOIN) el cual es un sistema de gobierno implementado en todas las instituciones centralizadas y descentralizadas, que permite el registro contable de activos fijos que están asignados a cada empleado por institución.</p>
+<p>A nivel interno no se cuenta con un sistema de información de control y administración de bienes; el registro se lleva a cabo en una hoja electrónica, lo cual no permite la entrega de resultados en forma eficiente y oportuna, y en muchas ocasiones la información es inconsistente.</p>
+</div>
+<div id="abstract-1" class="section level2 hasAnchor">
+<h2><span class="header-section-number">7.2</span> Abstract<a href="07_art07.html#abstract-1" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<p>The National Institute of Forensic Sciences of Guatemala (INACIF) is in a process of analysis and modernization of the current technological platform, with the aim of providing short, medium and long-term solutions to all its administrative units, allowing the provision of internal and external information in real time.</p>
+<p>Currently the Accounting Department uses the Integrated Accounting System (SICOIN) which is a government system implemented in all centralized and decentralized institutions, which allows the accounting record of fixed assets that are assigned to each employee by institution.</p>
+<p>Internally there is no information system for asset control and administration information system, the record is carried out on an electronic sheet, which does not allow the delivery of results in an efficient and timely manner and on many occasions the information is inconsistent.</p>
+</div>
+<div id="palabras-claves-5" class="section level2 hasAnchor">
+<h2><span class="header-section-number">7.3</span> Palabras claves<a href="07_art07.html#palabras-claves-5" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<p>Activos fijos, fungibles, desagrupados, SICOIN.</p>
+</div>
+<div id="introducción-5" class="section level2 hasAnchor">
+<h2><span class="header-section-number">7.4</span> Introducción<a href="07_art07.html#introducción-5" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<p>INACIF está analizando y modernizando la plataforma tecnológica existente, tanto a nivel de hardware como de software; esto con la finalidad que integre todos los servicios y que cumpla con las expectativas de cada unidad que conforma la institución. Es por ello que se propone un proyecto que lleve el control de activos tecnológicos. Este sistema de información permitirá brindar datos oportunos sobre los activos fijos, fungibles y desagrupados como su ubicación y el empleado que hace uso de los mismos, así como mantener actualizado el registro de bienes.</p>
+</div>
+<div id="artículo-6" class="section level2 hasAnchor">
+<h2><span class="header-section-number">7.5</span> Artículo<a href="07_art07.html#artículo-6" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<p>El sistema debe cumplir con el registro, traslado y consulta de información por parte de cada empleado, de acuerdo con la metodología formal de análisis, diseño e implementación de sistemas. La herramienta debe de brindar información oportuna sobre los bienes de INACIF.</p>
+<p>El Sistema de Información debe de contener un módulo de reportería que servirá de apoyo para los informes que debe entregar la sección de Contabilidad, anualmente, a las diversas instituciones que la auditan.</p>
+<p><strong>Priorización de las necesidades</strong></p>
+<p>El sistema de información está orientado a satisfacer las inconsistencias que se han presentado actualmente en el control de inventarios de bienes que maneja la sección de contabilidad por medio de documentos de Excel. Este proyecto contará con un módulo de traslado de bienes fijos, fungibles y desagrupados, en donde por medio de una solicitud el empleado pide un traslado de bienes a la sección de contabilidad.</p>
+<p>Al momento que el administrador acepte la solicitud se realizará una actualización en la hoja de responsabilidad del empleado solicitante como receptor. Se podrán asignar bienes a los empleados con la condición de que no estén relacionados a una hoja de responsabilidad.</p>
+<p><strong>Módulos desarrollados</strong></p>
+<p><strong><em>Módulo de activos fijos</em></strong></p>
+<p>Este módulo muestra el detalle de los bienes asignados al usuario. La información es proporcionada a través del Ministerio de Finanzas Públicas a través del consumo de un servicio consultado por medio del NIT del usuario; además, cuenta con dos campos que proporcionan la información del empleado que se está consultando.</p>
+<p><strong><em>Módulo de fungibles y desagrupados</em></strong></p>
+<p>El módulo de bienes fungibles y desagrupados muestra el detalle de los bienes asignados al usuario; sí en caso no tuviera bienes asignados se muestra un mensaje en pantalla que da visibilidad al usuario; además, cuenta con dos campos que proporcionan la información del empleado que se está consultando.</p>
+<p><strong><em>Módulo de hoja de responsabilidad</em></strong></p>
+<p>Este módulo muestra en detalle los bienes fijos, fungibles y desagrupados que se encuentran asignados al usuario que ha sido consultado; además, cuenta con dos funcionalidades adicionales:</p>
+<ul>
+<li><p>Hoja de responsabilidad: Descarga un documento de hoja de responsabilidad en formato simple.</p></li>
+<li><p>Solicitud de Contraloría General de Cuentas (CGC): crea una solicitud en donde solicita una hoja de responsabilidad en formato de la Contraloría General de Cuentas.</p></li>
+</ul>
+
+
+<div class="figure" style="text-align: center"><span style="display:block;" id="fig:unnamed-chunk-61"></span>
+<img src="imagenes_articulos/art7_1.png" alt="Reporte de la tarjeta de responsabilidad con formato simple"  />
+<p class="caption">
+Figura 7.1: Reporte de la tarjeta de responsabilidad con formato simple
+</p>
+</div>
+
+<p><strong><em>Módulo de reportes</em></strong></p>
+<p>El menú de reportes es un módulo al cual tendrá acceso únicamente el administrador, cuenta con dos pestañas:</p>
+<ul>
+<li><p>Bitácora del sistema: este reporte proporciona las acciones que se han ejecutado dentro del sistema de información en un rango de fechas seleccionadas en el sistema.</p></li>
+<li><p>Reporte de bienes del sistema: este reporte proporciona la información de los bienes asignados en un rango de fechas seleccionadas en el sistema.</p></li>
+</ul>
+<p><strong><em>Módulo CRUD de fungible</em></strong></p>
+<p>El módulo de fungibles cuenta con un formulario en donde se ingresa la información necesaria para registrar el bien en el sistema de control de inventarios; además, se puede actualizar la información de un fungible buscándolo por código, así como eliminarlo en el sistema.</p>
+<p><strong><em>Módulo carga masiva de fungibles</em></strong></p>
+<p>Por medio de la plantilla que se puede descargar en el módulo se realizará el almacenamiento masivo de fungibles en la base de datos de inventarios.</p>
+<p><strong><em>Módulo de notificaciones</em></strong></p>
+<p>Este módulo es el encargado de notificar al usuario administrador sobre las siguientes situaciones:</p>
+<ul>
+<li><p>Carga masiva de fungibles</p></li>
+<li><p>Registro de un fungible</p></li>
+<li><p>Actualizar un fungible</p></li>
+<li><p>Eliminación de un fungible</p></li>
+<li><p>Activo liberado y no asignado a ningún responsable.</p></li>
+</ul>
+<p>Podrá marcar como leídas las notificaciones que ya no deseen que le aparezcan en el módulo.</p>
+<p><strong><em>Módulo de solicitudes</em></strong></p>
+<p>El módulo de solicitudes tendrá acceso al rol administrador del sistema de información, el cual tendrá el control de las acciones que realizan los usuarios operadores en los módulos. Las solicitudes se podrán aceptar o rechazar y cuentan con 4 tipos de solicitudes diferentes:</p>
+<ul>
+<li><p>De tipo hoja de responsabilidad: el usuario solicita una hoja de responsabilidad en formato de la Contraloría General de Cuentas.</p></li>
+<li><p>De tipo nuevo traslado: el usuario solicita un traslado de bienes de tipo fungible y desagrupado en el sistema de información.</p></li>
+<li><p>De tipo pendiente en SICOIN: el usuario solicita el traslado de activos fijos en el sistema SICOIN; el usuario operador dará por aceptaba la solicitud hasta que dicho traslado se haya realizado en el sistema del Ministerio de Finanzas Públicas.</p></li>
+<li><p>Solicitud de tipo asociar bien: el usuario solicita que se le asignen por primera vez bienes de tipo fungible o desagrupado.</p></li>
+</ul>
+<p><strong><em>Módulo de traslado de bienes</em></strong></p>
+<p>En el módulo de traslado de bienes fijos, fungibles y desagrupados se realizan los traslados de bienes, se seleccionan los bienes que se desean trasladar a un nuevo responsable, seguidamente se ingresa la información obligatoria para llenar el formulario oficial de traslado de bienes, en donde se ingresa la persona que recibe el bien, la persona que da el visto bueno. Al finalizar dicho proceso se genera el formulario de traslado con la información ingresada y los bienes a trasladar; el formulario debe ser firmado por las personas involucradas en la gestión.</p>
+
+
+<div class="figure" style="text-align: center"><span style="display:block;" id="fig:unnamed-chunk-63"></span>
+<img src="imagenes_articulos/art7_2.png" alt="Reporte de la tarjeta de responsabilidad con formato simple"  />
+<p class="caption">
+Figura 7.2: Reporte de la tarjeta de responsabilidad con formato simple
+</p>
+</div>
+
+<p><strong>Beneficios del proyecto</strong></p>
+<p>El sistema de información permitirá automatizar y agilizar de mejor manera las gestiones que realizaban manualmente en la unidad de Inventarios; además, los empleados de INACIF contarán con un sistema en donde podrán consultar los bienes asignados, y realizar sus gestiones sin necesidad de una tercera persona; esto ayudará a brindar una solución optimizable y en tiempo real a los usuarios.</p>
+</div>
+<div id="conclusiones-4" class="section level2 hasAnchor">
+<h2><span class="header-section-number">7.6</span> Conclusiones<a href="07_art07.html#conclusiones-4" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<ul>
+<li><p>El sistema de información satisface las necesidades planteadas; está basado en una metodología de gestión sostenible, lo cual implica que pueden seguir agregándole componentes de acuerdo con nuevos requerimientos.</p></li>
+<li><p>El sistema de información está diseñado para proveer información consistente y en tiempo real sobre los bienes y el responsable que los tiene asignados; esto ayuda a que la Unidad de Contabilidad procese más solicitudes. Es decir reduce el tiempo de respuesta en las mismas, y agiliza las tareas diarias a través de la optimización de procesos implementados en cada módulo.</p></li>
+</ul>
+</div>
+<div id="referencias-6" class="section level2 hasAnchor">
+<h2><span class="header-section-number">7.7</span> Referencias<a href="07_art07.html#referencias-6" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<ul>
+<li>[1] Instituto Nacional de Ciencias Forenses de Guatemala (2023). <a href="https://www.inacif.gob.gt/">https://www.inacif.gob.gt/</a> Último acceso: 05 de mayo de 2023.</li>
+</ul>
+
+
+</div>
+</div>
+            </section>
+
+          </div>
+        </div>
+      </div>
+<a href="06_art06.html" class="navigation navigation-prev " aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
+<a href="08_art08.html" class="navigation navigation-next " aria-label="Next page"><i class="fa fa-angle-right"></i></a>
+    </div>
+  </div>
+<script src="libs/gitbook-2.6.7/js/app.min.js"></script>
+<script src="libs/gitbook-2.6.7/js/clipboard.min.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-search.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-sharing.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-fontsettings.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-bookdown.js"></script>
+<script src="libs/gitbook-2.6.7/js/jquery.highlight.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-clipboard.js"></script>
+<script>
+gitbook.require(["gitbook"], function(gitbook) {
+gitbook.start({
+"sharing": null,
+"fontsettings": {
+"theme": "white",
+"family": "sans",
+"size": 2
+},
+"edit": {
+"link": null,
+"text": null
+},
+"history": {
+"link": null,
+"text": null
+},
+"view": {
+"link": null,
+"text": null
+},
+"download": ["SextaEdicion-RevistaEPS.pdf", "SextaEdicion-RevistaEPS.epub"],
+"search": {
+"engine": "fuse",
+"options": null
+},
+"toc": {
+"collapse": "section"
+}
+});
+});
+</script>
+
+</body>
+
+</html>
