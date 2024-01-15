@@ -84,24 +84,24 @@ pre code {
 }
 
 div.book-header.fixed[style] {
-  background-color: #243663 !important;
+  background-color: #3E829A !important;
 }
 
 
 .book-header.fixed a:hover {
-  color: #FE6E2F !important;
+  color: #3E829A !important;
 }
 
 .book-header.fixed a:active {
-  color: #FE6E2F !important;
+  color: #3E829A !important;
 }
 
 .page-wrapper a:hover {
-  color: #FE6E2F !important;
+  color: #3E829A !important;
 }
 
 .page-wrapper a:active {
-  color: #FE6E2F !important;
+  color: #3E829A !important;
 }
 
 .dropdown-menu .buttons .button {
@@ -334,7 +334,7 @@ div.book-header.fixed[style] {
   /*background: #315479;*/
   /*background: #014463;*/
   background: #0c2c42;
-  border-right: 1px solid #FE6E2Faf;
+  border-right: 1px solid #3E829Aaf;
 }
 
 .book .book-summary ul.summary li a,
@@ -355,7 +355,7 @@ div.book-header.fixed[style] {
   /* border-radius: 10px 10px 10px 10px; */
   color: #0c2c42 ;
   font-weight: bold;
-  background: #FE6E2F;
+  background: #3E829A;
   text-decoration: none;
 }
 
