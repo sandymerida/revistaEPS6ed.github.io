@@ -4,18 +4,18 @@
 
   <meta charset="utf-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-  <title>8 Análisis, diseño y construcción del módulo de publicación de información para el Consejo Nacional de Áreas Protegidas | Aportes del proceso de graduación modalidad EPS</title>
+  <title>Comité editorial | Aportes del proceso de graduación modalidad EPS</title>
   <meta name="description" content="Edición de Revista Digital en Formatos: GitBook, EPUB, PDF" />
   <meta name="generator" content="bookdown 0.32 and GitBook 2.6.7" />
 
-  <meta property="og:title" content="8 Análisis, diseño y construcción del módulo de publicación de información para el Consejo Nacional de Áreas Protegidas | Aportes del proceso de graduación modalidad EPS" />
+  <meta property="og:title" content="Comité editorial | Aportes del proceso de graduación modalidad EPS" />
   <meta property="og:type" content="book" />
   <meta property="og:image" content="/images/cover.jpg" />
   <meta property="og:description" content="Edición de Revista Digital en Formatos: GitBook, EPUB, PDF" />
   
 
   <meta name="twitter:card" content="summary" />
-  <meta name="twitter:title" content="8 Análisis, diseño y construcción del módulo de publicación de información para el Consejo Nacional de Áreas Protegidas | Aportes del proceso de graduación modalidad EPS" />
+  <meta name="twitter:title" content="Comité editorial | Aportes del proceso de graduación modalidad EPS" />
   
   <meta name="twitter:description" content="Edición de Revista Digital en Formatos: GitBook, EPUB, PDF" />
   <meta name="twitter:image" content="/images/cover.jpg" />
@@ -30,8 +30,8 @@
   <meta name="apple-mobile-web-app-status-bar-style" content="black" />
   
   
-<link rel="prev" href="07_art07.html"/>
-<link rel="next" href="09_art09.html"/>
+<link rel="prev" href="12_preface12.html"/>
+<link rel="next" href="01_art01.html"/>
 <script src="libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/fuse.js@6.4.6/dist/fuse.min.js"></script>
 <link href="libs/gitbook-2.6.7/css/style.css" rel="stylesheet" />
@@ -198,139 +198,47 @@
           <div class="page-inner">
 
             <section class="normal" id="section-">
-<div id="art08" class="section level1 hasAnchor">
-<h1><span class="header-section-number">8</span> Análisis, diseño y construcción del módulo de publicación de información para el Consejo Nacional de Áreas Protegidas<a href="08_art08.html#art08" class="anchor-section" aria-label="Anchor link to header"></a></h1>
-<p><img src="autores/art8.png" width="100%" style="display: block; margin: auto;" /></p>
-
-<div id="resumen-6" class="section level2 hasAnchor">
-<h2><span class="header-section-number">8.1</span> Resumen<a href="08_art08.html#resumen-6" class="anchor-section" aria-label="Anchor link to header"></a></h2>
-<p>El Consejo Nacional de Áreas Protegidas CONAP es una entidad pública que asegura la conservación y el uso sostenible de las áreas protegidas de Guatemala. La Unidad de Información Pública del CONAP es la encargada de velar y garantizar el acceso fácil de la información pública de oficio del CONAP, a toda persona interesada en dicha información. Según se establece en La Ley de Acceso a la Información Pública Decreto 57-2008, la información a cargo de la institución debe proporcionarse al público en general de forma igualitaria, fácil y gratuita, para brindar transparencia y fiscalización ciudadana a la institución.</p>
-<p>El anterior Sistema de Información Pública -SIP- fue desarrollado a través de un Sistema de gestión de contenidos (CMS), específicamente la plataforma WordPress; sin embargo, este sistema se encontraba totalmente independiente de los demás módulos del CONAP. Además, este gestor de contenido contaba con plugins que requerían actualización, lo que en ocasiones provocaba incompatibilidad con las funcionalidades y componentes. Algunos plugins son desarrollados por la comunidad, por lo que pueden provocar agujeros en la seguridad del sitio.</p>
-<p>En conjunto con la institución se decidió la construcción del nuevo software para la publicación de información, debido a que la deuda técnica superaba los beneficios que se obtenían al actualizar las versiones del sistema.</p>
-</div>
-<div id="abstract-2" class="section level2 hasAnchor">
-<h2><span class="header-section-number">8.2</span> Abstract<a href="08_art08.html#abstract-2" class="anchor-section" aria-label="Anchor link to header"></a></h2>
-<p>The Consejo Nacional de Áreas Protegidas -CONAP- is a public entity that ensures the conservation and sustainable use of protected areas in Guatemala. CONAP’s Public Information Unit is the unit in charge of ensuring easy access to CONAP’s public information to any person interested in said information. As established in the Law on Access to Public Information Decree 57-2008, the information in charge of the institution must be provided to the general public in an equal, easy and free manner to provide transparency and citizen oversight to the institution.</p>
-<p>The previous Public Information System -SIP- was developed in a Content Management System (CMS) specifically the WordPress platform, however, this system was totally independent from the other CONAP modules. In addition, this content manager had plugins that required updating, which sometimes caused incompatibility with the features and components. Some plugins are developed by the community, so they can cause holes in the security of the site.</p>
-<p>Together with the institution, it was decided to build the new software for the publication of information because the technical debt exceeded the benefits obtained by updating the system versions.</p>
-</div>
-<div id="palabras-claves-6" class="section level2 hasAnchor">
-<h2><span class="header-section-number">8.3</span> Palabras claves<a href="08_art08.html#palabras-claves-6" class="anchor-section" aria-label="Anchor link to header"></a></h2>
-<p>Sistematización, proceso, gestor, pública, fiscalización.</p>
-</div>
-<div id="introducción-6" class="section level2 hasAnchor">
-<h2><span class="header-section-number">8.4</span> Introducción<a href="08_art08.html#introducción-6" class="anchor-section" aria-label="Anchor link to header"></a></h2>
-<p>El proyecto ha sido realizado con el objetivo de simplificar y mejorar el proceso de la publicación de contenido y despliegue de esta información para el acceso a la misma sin discriminación alguna, brindando a la población el derecho de fiscalizar las actividades que realiza el CONAP en pro de la conservación de la diversidad biológica y el uso sostenible de los recursos naturales en las áreas protegidas del país.</p>
-<p>Para el desarrollo del módulo de información pública se realizó un análisis, diseño y construcción del mismo. El sistema fue planificado para cumplir con los requerimientos planteados por la institución. Para su implementación se realizó un modelo de base de datos. Se desarrollaron los servicios enfocados en la consulta a la base de datos y con estas respuestas se da funcionalidad a la interfaz gráfica de usuario.</p>
-</div>
-<div id="artículo-7" class="section level2 hasAnchor">
-<h2><span class="header-section-number">8.5</span> Artículo<a href="08_art08.html#artículo-7" class="anchor-section" aria-label="Anchor link to header"></a></h2>
-<p>El libre acceso de información no solo se refiere al derecho de las personas de solicitar y obtener información; también es una “obligación de transparencia”, según lo establece el artículo 10, que indica cuál es la información que las entidades administradoras de fondos o bienes públicos deben suministrar de oficio, es decir, sin que medie solicitud.</p>
-<p>La información de oficio se refiere a la información de acuerdo con lo establecido en los artículos 10 y 11 del Decreto 57-2008 del Congreso de la República de Guatemala; “los sujetos obligados deben mantenerla actualizada y disponible en todo momento y a disposición de cualquier interesado en sus portales de información pública”.</p>
-<p>La institución requería de un sistema para la publicación de información pública de oficio, el cual sería utilizado por su personal encargado de realizar dichas publicaciones.</p>
-<p>El nuevo sistema cuenta con las acciones de creación, modificación, eliminación de contenido, así como, la revisión y publicación de este. También tiene las funcionalidades de gestión para las categorías, etiquetas y formatos de documentos.</p>
-<p>En el sistema existen usuarios con rol de enlace, que tiene permisos de creación y modificación de contenido. Un contenido debe estar asociado a una categoría, etiquetas y archivos en los diferentes formatos permitidos.</p>
-<p>En su primera fase, la información del contenido creado es enviado a revisión. Para que la información sea publicada, esta es sometida a una revisión a cargo del usuario de la Unidad de Información Pública del CONAP. Este es el único usuario que permite la publicación de contenido en caso se apruebe que la información es correcta. En caso contrario, la publicación es devuelta a la fase de modificación como una enmienda, en donde los enlaces reciben una notificación vía correo electrónico y dentro del sistema, con las correcciones que se deben realizar.</p>
-<p>El usuario ciudadano, es cualquier persona con acceso al sitio web que desea buscar y visualizar la información publicada anteriormente mencionada.</p>
-
-<p><strong>FUNCIONALIDADES DEL SISTEMA</strong></p>
-<p><strong><em>Priorización de las necesidades</em></strong></p>
-<p>A continuación, se detallan las necesidades planteadas según la interdependencia entre los módulos:</p>
-<p><strong><em>Módulo de gestión de categorías asociadas a contenidos</em></strong></p>
-<p>Un contenido está asociado a una categoría, la cual es una clasificación del contenido. Este módulo permite al usuario de información pública la gestión de las categorías con propiedad disponible. Las categorías pueden ser filtradas por id, nombre, categoría superior y cantidad de contenidos asociados. Adicionalmente, las categorías pueden ser ordenadas por sus propiedades. Las funcionalidades de las categorías son las siguientes:</p>
+<div id="comite" class="section level2 unnumbered hasAnchor" epub:type="preface">
+<h2>Comité editorial<a href="13_preface13.html#comite" class="anchor-section" aria-label="Anchor link to header"></a></h2>
 <ul>
-<li>Creación de categorías</li>
-<li>Lectura de categorías</li>
-<li>Edición de categorías</li>
-<li>Eliminación de categorías</li>
-</ul>
-<p><strong><em>Módulo de gestión de formatos de documentos</em></strong></p>
-<p>Esta funcionalidad permite al usuario de información pública gestionar los formatos de documentos disponibles permitidos para la carga de archivos. Los formatos pueden ser filtrados por id y nombre. Adicionalmente, los formatos pueden ser ordenados por sus propiedades. Las funcionaliades de los formatos de documentos son las siguientes:</p>
-<ul>
-<li>Creación de formatos de documentos</li>
-<li>Lectura de formatos de documentos</li>
-<li>Edición de formatos de documentos</li>
-<li>Eliminación de formatos de documentos</li>
-</ul>
-<p><strong><em>Módulo de gestión de etiquetas</em></strong></p>
-<p>Las etiquetas están asociadas a los contenidos. Este módulo permite al usuario de información pública la gestión de las etiquetas con propiedad disponible. Las etiquetas pueden ser filtradas por id y nombre. Adicionalmente, las etiquetas pueden ser ordenadas por sus propiedades. Las funcionalidades de las etiquetas son las siguientes:</p>
-<ul>
-<li>Creación de etiquetas</li>
-<li>Lectura de etiquetas</li>
-<li>Edición de etiquetas</li>
-<li>Eliminación de etiquetas</li>
-</ul>
-<p><strong><em>Módulo de gestión contenido (información de oficio)</em></strong></p>
-<p>Este módulo permite al usuario de información pública la gestión de los contenidos con propiedad disponible. Los contenidos pueden ser filtrados por id, nombre, categoría y estado. Del mismo modo, los contenidos pueden ser ordenados por sus propiedades. Las funcionalidades de los contenidos son las siguientes:</p>
-<ul>
-<li>Creación de contenido</li>
-<li>Lectura de contenido</li>
-<li>Edición de contenido</li>
-<li>Eliminación de contenido</li>
-<li>Aprobación de contenido</li>
-<li>Rechazo de contenido</li>
-<li>Solicitud de enmienda de contenido</li>
-<li>Revisión de contenido</li>
-</ul>
-<p><strong>ARQUITECTURA DE SOFTWARE</strong></p>
-<p>La arquitectura de software implementada es la siguiente:</p>
-
-
-<div class="figure" style="text-align: center"><span style="display:block;" id="fig:unnamed-chunk-68"></span>
-<img src="imagenes_articulos/art8_1.png" alt="Arquitectura de software. Elaboración propia."  />
-<p class="caption">
-Figura 8.1: Arquitectura de software. Elaboración propia.
-</p>
-</div>
-
-<p><strong><em>Tecnologías utilizadas</em></strong></p>
-<p>Las tecnologías utilizadas para el desarrollo del sistema de publicación de información son las siguientes:</p>
-<ul>
-<li>Backend: .Net 6.0 (Entity Framework) con c# y PostgreSQL 14.0.</li>
-<li>Frontend: Angular v. 13.3 y Bootstrap v. 5</li>
-</ul>
-
-<p><strong><em>Diagramas de procesos BPMN</em></strong></p>
-<p>A continuación, se representan la publicación de contenido y creación de categorías con un diagrama de procesos BPMN.</p>
-
-
-<div class="figure" style="text-align: center"><span style="display:block;" id="fig:unnamed-chunk-70"></span>
-<img src="imagenes_articulos/art8_2.png" alt="Diagrama BPMB-publicación de contenido. Elaboración propia."  />
-<p class="caption">
-Figura 8.2: Diagrama BPMB-publicación de contenido. Elaboración propia.
-</p>
-</div>
-
-</div>
-<div id="conclusiones-5" class="section level2 hasAnchor">
-<h2><span class="header-section-number">8.6</span> Conclusiones<a href="08_art08.html#conclusiones-5" class="anchor-section" aria-label="Anchor link to header"></a></h2>
-<ul>
-<li>Con el desarrollo y uso de tecnologías innovadoras dentro de la Unidad de Información Pública del CONAP, se sistematizó un gestor de contenido que se adecua a las necesidades de la institución para la publicación y despliegue de la información pública.</li>
-<li>El nuevo sistema de gestión de información proporciona la trazabilidad de la información pública.</li>
-<li>El gestor de contenido implementado permite la creación, revisión, aprobación y publicación de la información pública de oficio del CONAP.</li>
-<li>El módulo de información pública desarrollado permite la visualización de la información publicada.</li>
-<li>El gestor de contenido construido permite a los colaboradores de la Unidad de Información Pública de CONAP, la administración de la información pública de forma sencilla y organizada.</li>
-<li>El nuevo módulo de información pública contribuye de manera importante a facilitar el acceso a dicha información a través de publicaciones periódicas.</li>
-</ul>
-</div>
-<div id="referencias-7" class="section level2 hasAnchor">
-<h2><span class="header-section-number">8.7</span> Referencias<a href="08_art08.html#referencias-7" class="anchor-section" aria-label="Anchor link to header"></a></h2>
-<ul>
-<li>[1] CONAP (2023). <em>Sobre el Consejo Nacional de Áreas Protegidas.</em> <a href="https://conap.gob.gt/acerca-del-conap">https://conap.gob.gt</a>/ Último acceso: 25 de mayo de 2023.</li>
+<li><p><strong>Ingeniero Oscar Argueta Hernández</strong></p>
+<p>Asesor Supervisor del Área de Ingeniería Civil</p>
+<p>Unidad de Prácticas de Ingeniería</p></li>
+<li><p><strong>Ingeniera Floriza Avila Pesquera de Medinilla</strong></p>
+<p>Asesor Supervisor del Área de Ingeniería de Ciencias y Sistemas</p>
+<p>Unidad de Prácticas de Ingeniería</p></li>
+<li><p><strong>Ingeniero Juan Merck Cos</strong></p>
+<p>Asesor Supervisor del Área de Ingeniería Civil</p>
+<p>Unidad de Prácticas de Ingeniería</p></li>
+<li><p><strong>Ingeniero Carlos Anibal Chicojay Coloma</strong></p>
+<p>Asesor Supervisor del Área de Ingeniería Mecánica</p>
+<p>Unidad de Prácticas de Ingeniería</p></li>
+<li><p><strong>Ingeniera Sigrid Alitza Calderón de De Léon</strong></p>
+<p>Asesor Supervisor del Área de Ingeniería Industrial y Mecánica Industrial</p>
+<p>Unidad de Prácticas de Ingeniería</p></li>
+<li><p><strong>Ingeniera Norma Ileana Sarmiento de Serrano</strong></p>
+<p>Asesor Supervisor del Área de Ingeniería Industrial y Mecánica Industrial</p>
+<p>Unidad de Prácticas de Ingeniería</p></li>
+<li><p><strong>Ingeniero Silvio José Rodríguez Serrano</strong></p>
+<p>Asesor Supervisor del Área de Ingeniería Civil</p>
+<p>Unidad de Prácticas de Ingeniería</p></li>
+<li><p><strong>Licenciada Aura Mayorga Salguero</strong></p>
+<p>Revisión y estilo</p></li>
+<li><p><strong>Sandy Fabiola Mérida Hernández</strong></p>
+<p>Redacción, diseño y diagramación</p>
+<p>Epesista Ingeniería en Ciencias y Sistemas</p></li>
 </ul>
 
 
 
-
-</div>
 </div>
             </section>
 
           </div>
         </div>
       </div>
-<a href="07_art07.html" class="navigation navigation-prev " aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
-<a href="09_art09.html" class="navigation navigation-next " aria-label="Next page"><i class="fa fa-angle-right"></i></a>
+<a href="12_preface12.html" class="navigation navigation-prev " aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
+<a href="01_art01.html" class="navigation navigation-next " aria-label="Next page"><i class="fa fa-angle-right"></i></a>
     </div>
   </div>
 <script src="libs/gitbook-2.6.7/js/app.min.js"></script>

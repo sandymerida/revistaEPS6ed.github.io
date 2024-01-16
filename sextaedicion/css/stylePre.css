@@ -28,6 +28,13 @@ h1 {
   height: 1px;
 }
 
+h1.no-ocultar {
+  overflow: visible;
+  width: auto;
+  height: auto;
+}
+
+
 section.normal strong {
   font-weight: 700;
   color: #243663;
