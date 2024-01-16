@@ -40,6 +40,7 @@ recomendaciones
 referencias-3
 art05
 resumen-3
+abstract
 palabras-claves-3
 introducción-3
 artículo-4
@@ -49,7 +50,7 @@ recomendaciones-1
 referencias-4
 art06
 resumen-4
-abstract
+abstract-1
 palabras-claves-4
 introducción-4
 artículo-5
@@ -58,7 +59,7 @@ recomendaciones-2
 referencias-5
 art07
 resumen-5
-abstract-1
+abstract-2
 palabras-claves-5
 introducción-5
 artículo-6
@@ -66,7 +67,7 @@ conclusiones-4
 referencias-6
 art08
 resumen-6
-abstract-2
+abstract-3
 palabras-claves-6
 introducción-6
 artículo-7
@@ -74,7 +75,7 @@ conclusiones-5
 referencias-7
 art09
 resumen-7
-abstract-3
+abstract-4
 palabras-claves-7
 introducción-7
 artículo-8
@@ -83,7 +84,7 @@ recomendaciones-3
 referencias-8
 art10
 resumen-8
-abstract-4
+abstract-5
 palabras-claves-8
 introducción-8
 artículo-9
